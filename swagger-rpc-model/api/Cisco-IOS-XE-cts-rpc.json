@@ -67,10 +67,10 @@
               "example": {
                 "cts_rpc:cts": {
                   "id": "example-string",
-                  "password": "example-string",
+                  "password": "Cisco123!",
                   "credentials": {
                     "id": "example-string",
-                    "password": "example-string"
+                    "password": "Cisco123!"
                   }
                 }
               }
