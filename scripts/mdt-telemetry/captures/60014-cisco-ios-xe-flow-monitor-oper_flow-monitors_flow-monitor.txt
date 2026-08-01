@@ -1,0 +1,21 @@
+==========================================================================================
+  Sub 60014: Subscription 60014
+  Folder: 60014-cisco-ios-xe-flow-monitor-oper_flow-monitors_flow-monitor
+  10 data points from 5 telemetry messages
+==========================================================================================
+
+  cisco.content.time-collected  (gauge, 5)
+  ----------------------------------------------------------------------
+    2,892,743,752  |  (global)
+    2,892,803,752  |  (global)
+    2,892,863,752  |  (global)
+    2,892,923,752  |  (global)
+    2,892,983,752  |  (global)
+
+  cisco.keys.name_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=LAB-MON
+                1  |  value=LAB-MON
+                1  |  value=LAB-MON
+                1  |  value=LAB-MON
+                1  |  value=LAB-MON

@@ -1,0 +1,343 @@
+==========================================================================================
+  Sub 60010: Subscription 60010
+  Folder: 60010-cisco-ios-xe-ntp-oper_ntp-oper-data_ntp-status-info
+  260 data points from 10 telemetry messages
+==========================================================================================
+
+  cisco.content.freq-drift-ppm  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ntp-associations.assoc-id  (gauge, 10)
+  ----------------------------------------------------------------------
+           11,072  |  (global)
+           23,660  |  (global)
+           11,072  |  (global)
+           23,660  |  (global)
+           11,072  |  (global)
+           23,660  |  (global)
+           11,072  |  (global)
+           23,660  |  (global)
+           11,072  |  (global)
+           23,660  |  (global)
+
+  cisco.content.ntp-associations.delay  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ntp-associations.jitter  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ntp-associations.last-peer-event_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=ntp-peer-event-mobilize
+                1  |  value=ntp-peer-event-mobilize
+                1  |  value=ntp-peer-event-mobilize
+                1  |  value=ntp-peer-event-mobilize
+                1  |  value=ntp-peer-event-mobilize
+                1  |  value=ntp-peer-event-mobilize
+                1  |  value=ntp-peer-event-mobilize
+                1  |  value=ntp-peer-event-mobilize
+                1  |  value=ntp-peer-event-mobilize
+                1  |  value=ntp-peer-event-mobilize
+
+  cisco.content.ntp-associations.last-poll-time  (gauge, 10)
+  ----------------------------------------------------------------------
+               95  |  (global)
+               88  |  (global)
+               54  |  (global)
+               47  |  (global)
+               13  |  (global)
+                6  |  (global)
+               73  |  (global)
+               66  |  (global)
+               32  |  (global)
+               25  |  (global)
+
+  cisco.content.ntp-associations.ntp-address.ip-addr_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.3
+
+  cisco.content.ntp-associations.ntp-address.vrf-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+
+  cisco.content.ntp-associations.num-events  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ntp-associations.offset  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ntp-associations.peer-authentication-status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=ntp-auth-none
+                1  |  value=ntp-auth-none
+                1  |  value=ntp-auth-none
+                1  |  value=ntp-auth-none
+                1  |  value=ntp-auth-none
+                1  |  value=ntp-auth-none
+                1  |  value=ntp-auth-none
+                1  |  value=ntp-auth-none
+                1  |  value=ntp-auth-none
+                1  |  value=ntp-auth-none
+
+  cisco.content.ntp-associations.peer-reach  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ntp-associations.peer-selection-status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=ntp-peer-rejected
+                1  |  value=ntp-peer-rejected
+                1  |  value=ntp-peer-rejected
+                1  |  value=ntp-peer-rejected
+                1  |  value=ntp-peer-rejected
+                1  |  value=ntp-peer-rejected
+                1  |  value=ntp-peer-rejected
+                1  |  value=ntp-peer-rejected
+                1  |  value=ntp-peer-rejected
+                1  |  value=ntp-peer-rejected
+
+  cisco.content.ntp-associations.peer-stratum  (gauge, 10)
+  ----------------------------------------------------------------------
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+
+  cisco.content.ntp-associations.poll  (gauge, 10)
+  ----------------------------------------------------------------------
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+
+  cisco.content.ntp-associations.psw-crypto_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=crypto-flag-sig
+                1  |  value=crypto-flag-sig
+                1  |  value=crypto-flag-sig
+                1  |  value=crypto-flag-sig
+                1  |  value=crypto-flag-sig
+                1  |  value=crypto-flag-sig
+                1  |  value=crypto-flag-sig
+                1  |  value=crypto-flag-sig
+                1  |  value=crypto-flag-sig
+                1  |  value=crypto-flag-sig
+
+  cisco.content.ntp-associations.refid.kod-data.kod-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=ntp-ref-acst
+                1  |  value=ntp-ref-acst
+                1  |  value=ntp-ref-acst
+                1  |  value=ntp-ref-acst
+                1  |  value=ntp-ref-acst
+                1  |  value=ntp-ref-acst
+                1  |  value=ntp-ref-acst
+                1  |  value=ntp-ref-acst
+                1  |  value=ntp-ref-acst
+                1  |  value=ntp-ref-acst
+
+  cisco.content.ntp-associations.reftime_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+
+  cisco.content.ntp-associations.serv-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=ntp-server
+                1  |  value=ntp-server
+                1  |  value=ntp-server
+                1  |  value=ntp-server
+                1  |  value=ntp-server
+                1  |  value=ntp-server
+                1  |  value=ntp-server
+                1  |  value=ntp-server
+                1  |  value=ntp-server
+                1  |  value=ntp-server
+
+  cisco.content.offset  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.refid.kod-data.kod-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=ntp-ref-init
+                1  |  value=ntp-ref-init
+                1  |  value=ntp-ref-init
+                1  |  value=ntp-ref-init
+                1  |  value=ntp-ref-init
+                1  |  value=ntp-ref-init
+                1  |  value=ntp-ref-init
+                1  |  value=ntp-ref-init
+                1  |  value=ntp-ref-init
+                1  |  value=ntp-ref-init
+
+  cisco.content.reftime_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+
+  cisco.content.root-delay  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.root-disp  (gauge, 10)
+  ----------------------------------------------------------------------
+        15,077.32  |  (global)
+        15,079.42  |  (global)
+        15,078.22  |  (global)
+        15,080.32  |  (global)
+        15,079.12  |  (global)
+        15,081.22  |  (global)
+        15,080.02  |  (global)
+        15,082.12  |  (global)
+        15,080.92  |  (global)
+        15,083.02  |  (global)
+
+  cisco.content.stratum  (gauge, 10)
+  ----------------------------------------------------------------------
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+               16  |  (global)
+
+  cisco.content.sys-poll  (gauge, 10)
+  ----------------------------------------------------------------------
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)

@@ -1,0 +1,677 @@
+==========================================================================================
+  Sub 50026: Subscription 50026
+  Folder: 50026-cisco-ios-xe-eigrp-oper_eigrp-oper-data_eigrp-instance
+  474 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.eigrp-interface.auth-val.auth-key.key-chain_info  (gauge, 6)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.eigrp-interface.auth-val.auth-key.sha256-password_info  (gauge, 6)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.eigrp-interface.auth-val.auth-mode_info  (gauge, 6)
+  ----------------------------------------------------------------------
+                1  |  value=eigrp-auth-none
+                1  |  value=eigrp-auth-none
+                1  |  value=eigrp-auth-none
+                1  |  value=eigrp-auth-none
+                1  |  value=eigrp-auth-none
+                1  |  value=eigrp-auth-none
+
+  cisco.content.eigrp-interface.eigrp-nbr.afi_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+
+  cisco.content.eigrp-interface.eigrp-nbr.last-seq-number  (gauge, 2)
+  ----------------------------------------------------------------------
+                2  |  (global)
+                2  |  (global)
+
+  cisco.content.eigrp-interface.eigrp-nbr.nbr-address_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+
+  cisco.content.eigrp-interface.eigrp-nbr.nbr-sw-ver.os-majorver  (gauge, 2)
+  ----------------------------------------------------------------------
+               28  |  (global)
+               28  |  (global)
+
+  cisco.content.eigrp-interface.eigrp-nbr.nbr-sw-ver.os-minorver  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-interface.eigrp-nbr.nbr-sw-ver.tlv-majorrev  (gauge, 2)
+  ----------------------------------------------------------------------
+                2  |  (global)
+                2  |  (global)
+
+  cisco.content.eigrp-interface.eigrp-nbr.nbr-sw-ver.tlv-minorrev  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-interface.eigrp-nbr.retransmit-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-interface.eigrp-nbr.retry-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-interface.eigrp-nbr.rto  (gauge, 2)
+  ----------------------------------------------------------------------
+              150  |  (global)
+              100  |  (global)
+
+  cisco.content.eigrp-interface.eigrp-nbr.srtt  (gauge, 2)
+  ----------------------------------------------------------------------
+                3  |  (global)
+                2  |  (global)
+
+  cisco.content.eigrp-interface.hello-interval  (gauge, 6)
+  ----------------------------------------------------------------------
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+
+  cisco.content.eigrp-interface.hold-timer  (gauge, 6)
+  ----------------------------------------------------------------------
+               15  |  (global)
+               15  |  (global)
+               15  |  (global)
+               15  |  (global)
+               15  |  (global)
+               15  |  (global)
+
+  cisco.content.eigrp-interface.name_info  (gauge, 6)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+
+  cisco.content.eigrp-topo.eigrp-network.afi_info  (gauge, 8)
+  ----------------------------------------------------------------------
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.afi_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.ext-data.asystem  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.ext-data.ext-metric  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.ext-data.flag  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.ext-data.protocol  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.ext-data.routerid  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.ext-data.tag  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.infosource_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.5
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.metric  (gauge, 10)
+  ----------------------------------------------------------------------
+        1,310,720  |  (global)
+        1,966,080  |  (global)
+          163,840  |  (global)
+        1,310,720  |  (global)
+        1,392,640  |  (global)
+        1,310,720  |  (global)
+        1,966,080  |  (global)
+        1,392,640  |  (global)
+        1,310,720  |  (global)
+          163,840  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.nexthop_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.5
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.omp-tag  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.origin_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=eigrp-origin-connected
+                1  |  value=eigrp-origin-igrp2
+                1  |  value=eigrp-origin-connected
+                1  |  value=eigrp-origin-connected
+                1  |  value=eigrp-origin-igrp2
+                1  |  value=eigrp-origin-connected
+                1  |  value=eigrp-origin-igrp2
+                1  |  value=eigrp-origin-igrp2
+                1  |  value=eigrp-origin-connected
+                1  |  value=eigrp-origin-connected
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.originating-interface_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan200
+                1  |  value=Vlan30
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Loopback0
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.succ-metric  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+        1,310,720  |  (global)
+                0  |  (global)
+                0  |  (global)
+          163,840  |  (global)
+                0  |  (global)
+        1,310,720  |  (global)
+          163,840  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.succ-vecmetric.bandwidth  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+        1,000,000  |  (global)
+                0  |  (global)
+                0  |  (global)
+        8,000,000  |  (global)
+                0  |  (global)
+        1,000,000  |  (global)
+        8,000,000  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.succ-vecmetric.delay  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+       10,000,000  |  (global)
+                0  |  (global)
+                0  |  (global)
+        1,250,000  |  (global)
+                0  |  (global)
+       10,000,000  |  (global)
+        1,250,000  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.succ-vecmetric.hopcount  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.succ-vecmetric.load  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.succ-vecmetric.mtu  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+            1,500  |  (global)
+                0  |  (global)
+                0  |  (global)
+            1,514  |  (global)
+                0  |  (global)
+            1,500  |  (global)
+            1,514  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.succ-vecmetric.reliability  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+              255  |  (global)
+                0  |  (global)
+                0  |  (global)
+              255  |  (global)
+                0  |  (global)
+              255  |  (global)
+              255  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.succ-vecmetric.routerid  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+      184,483,842  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,842  |  (global)
+                0  |  (global)
+      184,483,841  |  (global)
+      184,483,841  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.succ-vecmetric.tag  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.vecmetric.bandwidth  (gauge, 10)
+  ----------------------------------------------------------------------
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        8,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        8,000,000  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.vecmetric.delay  (gauge, 10)
+  ----------------------------------------------------------------------
+       10,000,000  |  (global)
+       20,000,000  |  (global)
+        1,250,000  |  (global)
+       10,000,000  |  (global)
+       11,250,000  |  (global)
+       10,000,000  |  (global)
+       20,000,000  |  (global)
+       11,250,000  |  (global)
+       10,000,000  |  (global)
+        1,250,000  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.vecmetric.hopcount  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.vecmetric.load  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.vecmetric.mtu  (gauge, 10)
+  ----------------------------------------------------------------------
+            1,500  |  (global)
+            1,500  |  (global)
+            1,514  |  (global)
+            1,500  |  (global)
+            1,500  |  (global)
+            1,500  |  (global)
+            1,500  |  (global)
+            1,500  |  (global)
+            1,500  |  (global)
+            1,514  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.vecmetric.reliability  (gauge, 10)
+  ----------------------------------------------------------------------
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.vecmetric.routerid  (gauge, 10)
+  ----------------------------------------------------------------------
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,842  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.eigrp-route.vecmetric.tag  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.fd-metric  (gauge, 8)
+  ----------------------------------------------------------------------
+        1,310,720  |  (global)
+          163,840  |  (global)
+        1,310,720  |  (global)
+  72,057,594,037,927,940  |  (global)
+        1,310,720  |  (global)
+  72,057,594,037,927,940  |  (global)
+        1,310,720  |  (global)
+          163,840  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.ip-prefix_info  (gauge, 8)
+  ----------------------------------------------------------------------
+                1  |  value=10.200.0.0/30
+                1  |  value=10.255.0.1/32
+                1  |  value=10.1.1.0/24
+                1  |  value=10.255.0.2/32
+                1  |  value=10.200.0.0/30
+                1  |  value=10.255.0.1/32
+                1  |  value=10.1.1.0/24
+                1  |  value=10.255.0.2/32
+
+  cisco.content.eigrp-topo.eigrp-network.rd-metric  (gauge, 8)
+  ----------------------------------------------------------------------
+        1,310,720  |  (global)
+          163,840  |  (global)
+        1,310,720  |  (global)
+  72,057,594,037,927,940  |  (global)
+        1,310,720  |  (global)
+  72,057,594,037,927,940  |  (global)
+        1,310,720  |  (global)
+          163,840  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.rd-vecmetric.bandwidth  (gauge, 8)
+  ----------------------------------------------------------------------
+        1,000,000  |  (global)
+        8,000,000  |  (global)
+        1,000,000  |  (global)
+                0  |  (global)
+        1,000,000  |  (global)
+                0  |  (global)
+        1,000,000  |  (global)
+        8,000,000  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.rd-vecmetric.delay  (gauge, 8)
+  ----------------------------------------------------------------------
+       10,000,000  |  (global)
+        1,250,000  |  (global)
+       10,000,000  |  (global)
+  281,474,976,710,655  |  (global)
+       10,000,000  |  (global)
+  281,474,976,710,655  |  (global)
+       10,000,000  |  (global)
+        1,250,000  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.rd-vecmetric.hopcount  (gauge, 8)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.rd-vecmetric.load  (gauge, 8)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.rd-vecmetric.mtu  (gauge, 8)
+  ----------------------------------------------------------------------
+            1,500  |  (global)
+            1,514  |  (global)
+            1,500  |  (global)
+                0  |  (global)
+            1,500  |  (global)
+                0  |  (global)
+            1,500  |  (global)
+            1,514  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.rd-vecmetric.reliability  (gauge, 8)
+  ----------------------------------------------------------------------
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+                0  |  (global)
+              255  |  (global)
+                0  |  (global)
+              255  |  (global)
+              255  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.rd-vecmetric.routerid  (gauge, 8)
+  ----------------------------------------------------------------------
+      184,483,841  |  (global)
+      184,483,841  |  (global)
+      184,483,841  |  (global)
+                0  |  (global)
+      184,483,842  |  (global)
+                0  |  (global)
+      184,483,842  |  (global)
+      184,483,842  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.rd-vecmetric.tag  (gauge, 8)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eigrp-topo.eigrp-network.successor-count  (gauge, 8)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.eigrp-topo.topo-id  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=LAB
+                1  |  value=LAB
+
+  cisco.content.router-id  (gauge, 2)
+  ----------------------------------------------------------------------
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+
+  cisco.keys.afi_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=eigrp-af-ipv4
+                1  |  value=eigrp-af-ipv4
+
+  cisco.keys.as-num  (gauge, 2)
+  ----------------------------------------------------------------------
+              100  |  (global)
+              100  |  (global)
+
+  cisco.keys.vrf-name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=

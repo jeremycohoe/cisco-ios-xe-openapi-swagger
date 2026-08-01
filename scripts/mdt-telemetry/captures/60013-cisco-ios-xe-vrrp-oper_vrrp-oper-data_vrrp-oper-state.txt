@@ -1,0 +1,421 @@
+==========================================================================================
+  Sub 60013: Subscription 60013
+  Folder: 60013-cisco-ios-xe-vrrp-oper_vrrp-oper-data_vrrp-oper-state
+  320 data points from 10 telemetry messages
+==========================================================================================
+
+  cisco.content.addr-list-errors  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.adv-interval-errors  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.advertisement-rcvd  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.advertisement-sent  (gauge, 10)
+  ----------------------------------------------------------------------
+          137,766  |  (global)
+          137,741  |  (global)
+          137,832  |  (global)
+          137,808  |  (global)
+          137,898  |  (global)
+          137,874  |  (global)
+          137,965  |  (global)
+          137,941  |  (global)
+          138,031  |  (global)
+          138,008  |  (global)
+
+  cisco.content.advertisement-timer  (gauge, 10)
+  ----------------------------------------------------------------------
+            1,000  |  (global)
+            1,000  |  (global)
+            1,000  |  (global)
+            1,000  |  (global)
+            1,000  |  (global)
+            1,000  |  (global)
+            1,000  |  (global)
+            1,000  |  (global)
+            1,000  |  (global)
+            1,000  |  (global)
+
+  cisco.content.bfd-enabled  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bfd-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=bfd-none
+                1  |  value=bfd-none
+                1  |  value=bfd-none
+                1  |  value=bfd-none
+                1  |  value=bfd-none
+                1  |  value=bfd-none
+                1  |  value=bfd-none
+                1  |  value=bfd-none
+                1  |  value=bfd-none
+                1  |  value=bfd-none
+
+  cisco.content.discontinuity-time_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-19T09:16:12.665000+00:00
+                1  |  value=2026-04-19T09:15:55.095000+00:00
+                1  |  value=2026-04-19T09:16:12.643000+00:00
+                1  |  value=2026-04-19T09:15:55.095000+00:00
+                1  |  value=2026-04-19T09:16:12.609000+00:00
+                1  |  value=2026-04-19T09:15:55.056000+00:00
+                1  |  value=2026-04-19T09:16:12.615000+00:00
+                1  |  value=2026-04-19T09:15:55.038000+00:00
+                1  |  value=2026-04-19T09:16:12.580000+00:00
+                1  |  value=2026-04-19T09:15:55.018000+00:00
+
+  cisco.content.if-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan202
+                1  |  value=Vlan202
+                1  |  value=Vlan202
+                1  |  value=Vlan202
+                1  |  value=Vlan202
+                1  |  value=Vlan202
+                1  |  value=Vlan202
+                1  |  value=Vlan202
+                1  |  value=Vlan202
+                1  |  value=Vlan202
+
+  cisco.content.ip-ttl-errors  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.is-owner  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.last-state-change-time_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-19T09:16:12.665000+00:00
+                1  |  value=2026-04-19T09:15:55.095000+00:00
+                1  |  value=2026-04-19T09:16:12.643000+00:00
+                1  |  value=2026-04-19T09:15:55.095000+00:00
+                1  |  value=2026-04-19T09:16:12.609000+00:00
+                1  |  value=2026-04-19T09:15:55.056000+00:00
+                1  |  value=2026-04-19T09:16:12.615000+00:00
+                1  |  value=2026-04-19T09:15:55.038000+00:00
+                1  |  value=2026-04-19T09:16:12.580000+00:00
+                1  |  value=2026-04-19T09:15:55.018000+00:00
+
+  cisco.content.master-down-timer  (gauge, 10)
+  ----------------------------------------------------------------------
+            3,648  |  (global)
+            3,570  |  (global)
+            3,648  |  (global)
+            3,570  |  (global)
+            3,648  |  (global)
+            3,570  |  (global)
+            3,648  |  (global)
+            3,570  |  (global)
+            3,648  |  (global)
+            3,570  |  (global)
+
+  cisco.content.master-ip_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.202.0.2
+                1  |  value=10.202.0.3
+                1  |  value=10.202.0.2
+                1  |  value=10.202.0.3
+                1  |  value=10.202.0.2
+                1  |  value=10.202.0.3
+                1  |  value=10.202.0.2
+                1  |  value=10.202.0.3
+                1  |  value=10.202.0.2
+                1  |  value=10.202.0.3
+
+  cisco.content.master-transitions  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.new-master-reason_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=reason-master-no-response
+                1  |  value=reason-master-no-response
+                1  |  value=reason-master-no-response
+                1  |  value=reason-master-no-response
+                1  |  value=reason-master-no-response
+                1  |  value=reason-master-no-response
+                1  |  value=reason-master-no-response
+                1  |  value=reason-master-no-response
+                1  |  value=reason-master-no-response
+                1  |  value=reason-master-no-response
+
+  cisco.content.omp-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=omp-down
+                1  |  value=omp-down
+                1  |  value=omp-down
+                1  |  value=omp-down
+                1  |  value=omp-down
+                1  |  value=omp-down
+                1  |  value=omp-down
+                1  |  value=omp-down
+                1  |  value=omp-down
+                1  |  value=omp-down
+
+  cisco.content.pak-len-errors  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.preempt  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.priority  (gauge, 10)
+  ----------------------------------------------------------------------
+               90  |  (global)
+              110  |  (global)
+               90  |  (global)
+              110  |  (global)
+               90  |  (global)
+              110  |  (global)
+               90  |  (global)
+              110  |  (global)
+               90  |  (global)
+              110  |  (global)
+
+  cisco.content.rcvd-invalid-type-pak  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.rcvd-pri-zero-pak  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.sent-pri-zero-pak  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.skew-time  (gauge, 10)
+  ----------------------------------------------------------------------
+              609  |  (global)
+              609  |  (global)
+              609  |  (global)
+              609  |  (global)
+              609  |  (global)
+              609  |  (global)
+              609  |  (global)
+              609  |  (global)
+              609  |  (global)
+              609  |  (global)
+
+  cisco.content.state-change-reason_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=cr-priority
+                1  |  value=cr-priority
+                1  |  value=cr-priority
+                1  |  value=cr-priority
+                1  |  value=cr-priority
+                1  |  value=cr-priority
+                1  |  value=cr-priority
+                1  |  value=cr-priority
+                1  |  value=cr-priority
+                1  |  value=cr-priority
+
+  cisco.content.version_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=vrrp-v3
+                1  |  value=vrrp-v3
+                1  |  value=vrrp-v3
+                1  |  value=vrrp-v3
+                1  |  value=vrrp-v3
+                1  |  value=vrrp-v3
+                1  |  value=vrrp-v3
+                1  |  value=vrrp-v3
+                1  |  value=vrrp-v3
+                1  |  value=vrrp-v3
+
+  cisco.content.virtual-ip_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.202.0.1
+                1  |  value=10.202.0.1
+                1  |  value=10.202.0.1
+                1  |  value=10.202.0.1
+                1  |  value=10.202.0.1
+                1  |  value=10.202.0.1
+                1  |  value=10.202.0.1
+                1  |  value=10.202.0.1
+                1  |  value=10.202.0.1
+                1  |  value=10.202.0.1
+
+  cisco.content.virtual-mac_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=00:00:5e:00:01:ca
+                1  |  value=00:00:5e:00:01:ca
+                1  |  value=00:00:5e:00:01:ca
+                1  |  value=00:00:5e:00:01:ca
+                1  |  value=00:00:5e:00:01:ca
+                1  |  value=00:00:5e:00:01:ca
+                1  |  value=00:00:5e:00:01:ca
+                1  |  value=00:00:5e:00:01:ca
+                1  |  value=00:00:5e:00:01:ca
+                1  |  value=00:00:5e:00:01:ca
+
+  cisco.content.vrrp-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=proto-state-master
+                1  |  value=proto-state-master
+                1  |  value=proto-state-master
+                1  |  value=proto-state-master
+                1  |  value=proto-state-master
+                1  |  value=proto-state-master
+                1  |  value=proto-state-master
+                1  |  value=proto-state-master
+                1  |  value=proto-state-master
+                1  |  value=proto-state-master
+
+  cisco.keys.addr-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=ipv4-address
+                1  |  value=ipv4-address
+                1  |  value=ipv4-address
+                1  |  value=ipv4-address
+                1  |  value=ipv4-address
+                1  |  value=ipv4-address
+                1  |  value=ipv4-address
+                1  |  value=ipv4-address
+                1  |  value=ipv4-address
+                1  |  value=ipv4-address
+
+  cisco.keys.group-id  (gauge, 10)
+  ----------------------------------------------------------------------
+              202  |  (global)
+              202  |  (global)
+              202  |  (global)
+              202  |  (global)
+              202  |  (global)
+              202  |  (global)
+              202  |  (global)
+              202  |  (global)
+              202  |  (global)
+              202  |  (global)
+
+  cisco.keys.if-number  (gauge, 10)
+  ----------------------------------------------------------------------
+              109  |  (global)
+               62  |  (global)
+              109  |  (global)
+               62  |  (global)
+              109  |  (global)
+               62  |  (global)
+              109  |  (global)
+               62  |  (global)
+              109  |  (global)
+               62  |  (global)

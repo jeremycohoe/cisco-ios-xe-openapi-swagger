@@ -1,0 +1,234 @@
+==========================================================================================
+  Sub 50001: Subscription 50001
+  Folder: 50001-cisco-ios-xe-vlan-oper_vlans_vlan
+  214 data points from 1 telemetry messages
+==========================================================================================
+
+  cisco.content.name_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  id=1, value=default
+                1  |  id=30, value=VLAN0030
+                1  |  id=70, value=IOT
+                1  |  id=80, value=GUEST
+                1  |  id=200, value=VLAN0200
+                1  |  id=201, value=VLAN0201
+                1  |  id=202, value=VLAN0202
+                1  |  id=1002, value=fddi-default
+                1  |  id=1003, value=token-ring-default
+                1  |  id=1004, value=fddinet-default
+                1  |  id=1005, value=trnet-default
+                1  |  id=1, value=default
+                1  |  id=30, value=VLAN0030
+                1  |  id=200, value=VLAN0200
+                1  |  id=201, value=VLAN0201
+                1  |  id=202, value=VLAN0202
+                1  |  id=1002, value=fddi-default
+                1  |  id=1003, value=token-ring-default
+                1  |  id=1004, value=fddinet-default
+                1  |  id=1005, value=trnet-default
+
+  cisco.content.status_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  id=1, value=active
+                1  |  id=30, value=active
+                1  |  id=70, value=active
+                1  |  id=80, value=active
+                1  |  id=200, value=active
+                1  |  id=201, value=active
+                1  |  id=202, value=active
+                1  |  id=1002, value=suspend
+                1  |  id=1003, value=suspend
+                1  |  id=1004, value=suspend
+                1  |  id=1005, value=suspend
+                1  |  id=1, value=active
+                1  |  id=30, value=active
+                1  |  id=200, value=active
+                1  |  id=201, value=active
+                1  |  id=202, value=active
+                1  |  id=1002, value=suspend
+                1  |  id=1003, value=suspend
+                1  |  id=1004, value=suspend
+                1  |  id=1005, value=suspend
+
+  cisco.content.vlan-interfaces.interface_info  (gauge, 77)
+  ----------------------------------------------------------------------
+                1  |  id=1, value=AppGigabitEthernet1/0/1
+                1  |  id=1, value=AppGigabitEthernet1/0/2
+                1  |  id=30, value=TenGigabitEthernet1/0/1
+                1  |  id=30, value=TenGigabitEthernet1/0/3
+                1  |  id=30, value=TenGigabitEthernet1/0/4
+                1  |  id=30, value=TenGigabitEthernet1/0/5
+                1  |  id=30, value=TenGigabitEthernet1/0/6
+                1  |  id=30, value=TenGigabitEthernet1/0/7
+                1  |  id=30, value=TenGigabitEthernet1/0/8
+                1  |  id=30, value=TenGigabitEthernet1/0/9
+                1  |  id=30, value=TenGigabitEthernet1/0/10
+                1  |  id=30, value=TenGigabitEthernet1/0/11
+                1  |  id=30, value=TenGigabitEthernet1/0/12
+                1  |  id=30, value=TenGigabitEthernet1/0/13
+                1  |  id=30, value=TenGigabitEthernet1/0/14
+                1  |  id=30, value=TenGigabitEthernet1/0/15
+                1  |  id=30, value=TenGigabitEthernet1/0/16
+                1  |  id=30, value=TenGigabitEthernet1/0/17
+                1  |  id=30, value=TenGigabitEthernet1/0/18
+                1  |  id=30, value=TenGigabitEthernet1/0/19
+                1  |  id=30, value=TenGigabitEthernet1/0/20
+                1  |  id=30, value=TenGigabitEthernet1/0/21
+                1  |  id=30, value=TenGigabitEthernet1/0/22
+                1  |  id=30, value=TenGigabitEthernet1/0/23
+                1  |  id=30, value=TenGigabitEthernet1/0/24
+                1  |  id=30, value=TenGigabitEthernet1/0/25
+                1  |  id=30, value=TenGigabitEthernet1/0/26
+                1  |  id=30, value=TenGigabitEthernet1/0/27
+                1  |  id=30, value=TenGigabitEthernet1/0/28
+                1  |  id=30, value=TenGigabitEthernet1/0/29
+                1  |  id=30, value=TenGigabitEthernet1/0/30
+                1  |  id=30, value=TenGigabitEthernet1/0/31
+                1  |  id=30, value=TenGigabitEthernet1/0/32
+                1  |  id=30, value=TenGigabitEthernet1/0/33
+                1  |  id=30, value=TenGigabitEthernet1/0/34
+                1  |  id=30, value=TenGigabitEthernet1/0/35
+                1  |  id=30, value=TenGigabitEthernet1/0/36
+                1  |  id=30, value=TenGigabitEthernet1/0/37
+                1  |  id=30, value=TenGigabitEthernet1/0/38
+                1  |  id=30, value=TenGigabitEthernet1/0/39
+                1  |  id=30, value=TenGigabitEthernet1/0/40
+                1  |  id=30, value=TenGigabitEthernet1/0/41
+                1  |  id=30, value=TenGigabitEthernet1/0/42
+                1  |  id=30, value=TenGigabitEthernet1/0/43
+                1  |  id=30, value=TenGigabitEthernet1/0/44
+                1  |  id=30, value=TenGigabitEthernet1/0/45
+                1  |  id=30, value=TenGigabitEthernet1/0/46
+                1  |  id=30, value=TenGigabitEthernet1/0/47
+                1  |  id=30, value=TenGigabitEthernet1/0/48
+                1  |  id=201, value=TenGigabitEthernet1/0/2
+                1  |  id=1, value=AppGigabitEthernet1/0/1
+                1  |  id=30, value=Port-channel20
+                1  |  id=30, value=Port-channel30
+                1  |  id=30, value=GigabitEthernet1/0/1
+                1  |  id=30, value=GigabitEthernet1/0/3
+                1  |  id=30, value=GigabitEthernet1/0/4
+                1  |  id=30, value=GigabitEthernet1/0/5
+                1  |  id=30, value=GigabitEthernet1/0/6
+                1  |  id=30, value=GigabitEthernet1/0/7
+                1  |  id=30, value=GigabitEthernet1/0/8
+                1  |  id=30, value=GigabitEthernet1/0/9
+                1  |  id=30, value=GigabitEthernet1/0/10
+                1  |  id=30, value=GigabitEthernet1/0/11
+                1  |  id=30, value=GigabitEthernet1/0/12
+                1  |  id=30, value=GigabitEthernet1/0/13
+                1  |  id=30, value=GigabitEthernet1/0/14
+                1  |  id=30, value=GigabitEthernet1/0/15
+                1  |  id=30, value=GigabitEthernet1/0/16
+                1  |  id=30, value=GigabitEthernet1/0/17
+                1  |  id=30, value=GigabitEthernet1/0/18
+                1  |  id=30, value=GigabitEthernet1/0/19
+                1  |  id=30, value=GigabitEthernet1/0/20
+                1  |  id=30, value=GigabitEthernet1/0/21
+                1  |  id=30, value=GigabitEthernet1/0/22
+                1  |  id=30, value=GigabitEthernet1/0/23
+                1  |  id=30, value=GigabitEthernet1/0/24
+                1  |  id=201, value=GigabitEthernet1/0/2
+
+  cisco.content.vlan-interfaces.subinterface  (gauge, 77)
+  ----------------------------------------------------------------------
+                0  |  id=1
+                0  |  id=1
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=201
+                0  |  id=1
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=30
+                0  |  id=201
+
+  cisco.keys.id  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  id=1
+               30  |  id=30
+               70  |  id=70
+               80  |  id=80
+              200  |  id=200
+              201  |  id=201
+              202  |  id=202
+            1,002  |  id=1002
+            1,003  |  id=1003
+            1,004  |  id=1004
+            1,005  |  id=1005
+                1  |  id=1
+               30  |  id=30
+              200  |  id=200
+              201  |  id=201
+              202  |  id=202
+            1,002  |  id=1002
+            1,003  |  id=1003
+            1,004  |  id=1004
+            1,005  |  id=1005

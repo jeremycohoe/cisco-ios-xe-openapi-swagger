@@ -1,0 +1,316 @@
+==========================================================================================
+  Sub 50003: Subscription 50003
+  Folder: 50003-cisco-ios-xe-arp-oper_arp-data_arp-vrf
+  260 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.arp-entry.address_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.3, vrf=Default
+                1  |  value=10.1.1.5, vrf=Default
+                1  |  value=10.1.1.55, vrf=Default
+                1  |  value=10.200.0.1, vrf=Default
+                1  |  value=10.201.0.1, vrf=Default
+                1  |  value=10.201.0.2, vrf=Default
+                1  |  value=10.202.0.1, vrf=Default
+                1  |  value=10.202.0.2, vrf=Default
+                1  |  value=10.1.1.3, vrf=Default
+                1  |  value=10.1.1.5, vrf=Default
+                1  |  value=10.1.1.55, vrf=Default
+                1  |  value=10.200.0.2, vrf=Default
+                1  |  value=10.201.0.1, vrf=Default
+                1  |  value=10.201.0.3, vrf=Default
+                1  |  value=10.202.0.1, vrf=Default
+                1  |  value=10.202.0.3, vrf=Default
+
+  cisco.content.arp-entry.enctype_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+                1  |  value=ios-encaps-type-arpa, vrf=Default
+
+  cisco.content.arp-entry.hardware_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=bc:24:11:83:32:2d, vrf=Default
+                1  |  value=6c:03:b5:57:74:65, vrf=Default
+                1  |  value=70:35:09:57:98:e5, vrf=Default
+                1  |  value=6c:03:b5:57:74:62, vrf=Default
+                1  |  value=00:00:0c:9f:f0:c9, vrf=Default
+                1  |  value=6c:03:b5:57:74:4c, vrf=Default
+                1  |  value=00:00:5e:00:01:ca, vrf=Default
+                1  |  value=6c:03:b5:57:74:42, vrf=Default
+                1  |  value=bc:24:11:83:32:2d, vrf=Default
+                1  |  value=6c:03:b5:57:74:65, vrf=Default
+                1  |  value=70:35:09:57:98:e5, vrf=Default
+                1  |  value=70:35:09:57:98:e2, vrf=Default
+                1  |  value=00:00:0c:9f:f0:c9, vrf=Default
+                1  |  value=70:35:09:57:98:cc, vrf=Default
+                1  |  value=00:00:5e:00:01:ca, vrf=Default
+                1  |  value=70:35:09:57:98:c2, vrf=Default
+
+  cisco.content.arp-entry.hwtype_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+                1  |  value=ios-snpa-type-ieee48, vrf=Default
+
+  cisco.content.arp-entry.interface_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan30, vrf=Default
+                1  |  value=Vlan30, vrf=Default
+                1  |  value=Vlan30, vrf=Default
+                1  |  value=Vlan200, vrf=Default
+                1  |  value=Vlan201, vrf=Default
+                1  |  value=Vlan201, vrf=Default
+                1  |  value=Vlan202, vrf=Default
+                1  |  value=Vlan202, vrf=Default
+                1  |  value=Vlan30, vrf=Default
+                1  |  value=Vlan30, vrf=Default
+                1  |  value=Vlan30, vrf=Default
+                1  |  value=Vlan200, vrf=Default
+                1  |  value=Vlan201, vrf=Default
+                1  |  value=Vlan201, vrf=Default
+                1  |  value=Vlan202, vrf=Default
+                1  |  value=Vlan202, vrf=Default
+
+  cisco.content.arp-entry.mode_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=ios-arp-mode-dynamic, vrf=Default
+                1  |  value=ios-arp-mode-interface, vrf=Default
+                1  |  value=ios-arp-mode-dynamic, vrf=Default
+                1  |  value=ios-arp-mode-interface, vrf=Default
+                1  |  value=ios-arp-mode-app-alias, vrf=Default
+                1  |  value=ios-arp-mode-interface, vrf=Default
+                1  |  value=ios-arp-mode-app-alias, vrf=Default
+                1  |  value=ios-arp-mode-interface, vrf=Default
+                1  |  value=ios-arp-mode-dynamic, vrf=Default
+                1  |  value=ios-arp-mode-dynamic, vrf=Default
+                1  |  value=ios-arp-mode-interface, vrf=Default
+                1  |  value=ios-arp-mode-interface, vrf=Default
+                1  |  value=ios-arp-mode-app-alias, vrf=Default
+                1  |  value=ios-arp-mode-interface, vrf=Default
+                1  |  value=ios-arp-mode-app-alias, vrf=Default
+                1  |  value=ios-arp-mode-interface, vrf=Default
+
+  cisco.content.arp-entry.time_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-20T19:39:52.891000+00:00, vrf=Default
+                1  |  value=2026-04-14T02:08:45.067000+00:00, vrf=Default
+                1  |  value=2026-04-20T18:00:33.539000+00:00, vrf=Default
+                1  |  value=2026-04-19T08:50:22.212000+00:00, vrf=Default
+                1  |  value=2026-04-19T08:50:57.803000+00:00, vrf=Default
+                1  |  value=2026-04-19T08:50:22.383000+00:00, vrf=Default
+                1  |  value=2026-04-19T09:16:12.262000+00:00, vrf=Default
+                1  |  value=2026-04-19T08:50:22.509000+00:00, vrf=Default
+                1  |  value=2026-04-20T19:39:21.808000+00:00, vrf=Default
+                1  |  value=2026-04-20T18:00:02.457000+00:00, vrf=Default
+                1  |  value=2026-04-14T02:08:36.042000+00:00, vrf=Default
+                1  |  value=2026-04-19T08:50:03.939000+00:00, vrf=Default
+                1  |  value=2026-04-19T08:50:38.934000+00:00, vrf=Default
+                1  |  value=2026-04-19T08:50:04.098000+00:00, vrf=Default
+                1  |  value=2026-04-19T09:15:54.823000+00:00, vrf=Default
+                1  |  value=2026-04-19T08:50:04.261000+00:00, vrf=Default
+
+  cisco.content.arp-entry.type_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+                1  |  value=ios-linktype-ip, vrf=Default
+
+  cisco.content.arp-oper.address_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  address=10.1.1.3, value=10.1.1.3, vrf=Default
+                1  |  address=10.1.1.5, value=10.1.1.5, vrf=Default
+                1  |  address=10.1.1.55, value=10.1.1.55, vrf=Default
+                1  |  address=10.200.0.1, value=10.200.0.1, vrf=Default
+                1  |  address=10.201.0.1, value=10.201.0.1, vrf=Default
+                1  |  address=10.201.0.2, value=10.201.0.2, vrf=Default
+                1  |  address=10.202.0.1, value=10.202.0.1, vrf=Default
+                1  |  address=10.202.0.2, value=10.202.0.2, vrf=Default
+                1  |  address=10.1.1.3, value=10.1.1.3, vrf=Default
+                1  |  address=10.1.1.5, value=10.1.1.5, vrf=Default
+                1  |  address=10.1.1.55, value=10.1.1.55, vrf=Default
+                1  |  address=10.200.0.2, value=10.200.0.2, vrf=Default
+                1  |  address=10.201.0.1, value=10.201.0.1, vrf=Default
+                1  |  address=10.201.0.3, value=10.201.0.3, vrf=Default
+                1  |  address=10.202.0.1, value=10.202.0.1, vrf=Default
+                1  |  address=10.202.0.3, value=10.202.0.3, vrf=Default
+
+  cisco.content.arp-oper.enctype_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  address=10.1.1.3, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.1.1.5, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.1.1.55, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.200.0.1, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.201.0.1, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.201.0.2, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.202.0.1, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.202.0.2, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.1.1.3, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.1.1.5, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.1.1.55, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.200.0.2, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.201.0.1, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.201.0.3, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.202.0.1, value=ios-encaps-type-arpa, vrf=Default
+                1  |  address=10.202.0.3, value=ios-encaps-type-arpa, vrf=Default
+
+  cisco.content.arp-oper.hardware_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  address=10.1.1.3, value=bc:24:11:83:32:2d, vrf=Default
+                1  |  address=10.1.1.5, value=6c:03:b5:57:74:65, vrf=Default
+                1  |  address=10.1.1.55, value=70:35:09:57:98:e5, vrf=Default
+                1  |  address=10.200.0.1, value=6c:03:b5:57:74:62, vrf=Default
+                1  |  address=10.201.0.1, value=00:00:0c:9f:f0:c9, vrf=Default
+                1  |  address=10.201.0.2, value=6c:03:b5:57:74:4c, vrf=Default
+                1  |  address=10.202.0.1, value=00:00:5e:00:01:ca, vrf=Default
+                1  |  address=10.202.0.2, value=6c:03:b5:57:74:42, vrf=Default
+                1  |  address=10.1.1.3, value=bc:24:11:83:32:2d, vrf=Default
+                1  |  address=10.1.1.5, value=6c:03:b5:57:74:65, vrf=Default
+                1  |  address=10.1.1.55, value=70:35:09:57:98:e5, vrf=Default
+                1  |  address=10.200.0.2, value=70:35:09:57:98:e2, vrf=Default
+                1  |  address=10.201.0.1, value=00:00:0c:9f:f0:c9, vrf=Default
+                1  |  address=10.201.0.3, value=70:35:09:57:98:cc, vrf=Default
+                1  |  address=10.202.0.1, value=00:00:5e:00:01:ca, vrf=Default
+                1  |  address=10.202.0.3, value=70:35:09:57:98:c2, vrf=Default
+
+  cisco.content.arp-oper.hwtype_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  address=10.1.1.3, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.1.1.5, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.1.1.55, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.200.0.1, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.201.0.1, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.201.0.2, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.202.0.1, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.202.0.2, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.1.1.3, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.1.1.5, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.1.1.55, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.200.0.2, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.201.0.1, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.201.0.3, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.202.0.1, value=ios-snpa-type-ieee48, vrf=Default
+                1  |  address=10.202.0.3, value=ios-snpa-type-ieee48, vrf=Default
+
+  cisco.content.arp-oper.interface_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  address=10.1.1.3, value=Vlan30, vrf=Default
+                1  |  address=10.1.1.5, value=Vlan30, vrf=Default
+                1  |  address=10.1.1.55, value=Vlan30, vrf=Default
+                1  |  address=10.200.0.1, value=Vlan200, vrf=Default
+                1  |  address=10.201.0.1, value=Vlan201, vrf=Default
+                1  |  address=10.201.0.2, value=Vlan201, vrf=Default
+                1  |  address=10.202.0.1, value=Vlan202, vrf=Default
+                1  |  address=10.202.0.2, value=Vlan202, vrf=Default
+                1  |  address=10.1.1.3, value=Vlan30, vrf=Default
+                1  |  address=10.1.1.5, value=Vlan30, vrf=Default
+                1  |  address=10.1.1.55, value=Vlan30, vrf=Default
+                1  |  address=10.200.0.2, value=Vlan200, vrf=Default
+                1  |  address=10.201.0.1, value=Vlan201, vrf=Default
+                1  |  address=10.201.0.3, value=Vlan201, vrf=Default
+                1  |  address=10.202.0.1, value=Vlan202, vrf=Default
+                1  |  address=10.202.0.3, value=Vlan202, vrf=Default
+
+  cisco.content.arp-oper.mode_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  address=10.1.1.3, value=ios-arp-mode-dynamic, vrf=Default
+                1  |  address=10.1.1.5, value=ios-arp-mode-interface, vrf=Default
+                1  |  address=10.1.1.55, value=ios-arp-mode-dynamic, vrf=Default
+                1  |  address=10.200.0.1, value=ios-arp-mode-interface, vrf=Default
+                1  |  address=10.201.0.1, value=ios-arp-mode-app-alias, vrf=Default
+                1  |  address=10.201.0.2, value=ios-arp-mode-interface, vrf=Default
+                1  |  address=10.202.0.1, value=ios-arp-mode-app-alias, vrf=Default
+                1  |  address=10.202.0.2, value=ios-arp-mode-interface, vrf=Default
+                1  |  address=10.1.1.3, value=ios-arp-mode-dynamic, vrf=Default
+                1  |  address=10.1.1.5, value=ios-arp-mode-dynamic, vrf=Default
+                1  |  address=10.1.1.55, value=ios-arp-mode-interface, vrf=Default
+                1  |  address=10.200.0.2, value=ios-arp-mode-interface, vrf=Default
+                1  |  address=10.201.0.1, value=ios-arp-mode-app-alias, vrf=Default
+                1  |  address=10.201.0.3, value=ios-arp-mode-interface, vrf=Default
+                1  |  address=10.202.0.1, value=ios-arp-mode-app-alias, vrf=Default
+                1  |  address=10.202.0.3, value=ios-arp-mode-interface, vrf=Default
+
+  cisco.content.arp-oper.time_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  address=10.1.1.3, value=2026-04-20T19:39:52.892000+00:00, vrf=Default
+                1  |  address=10.1.1.5, value=2026-04-14T02:08:45.068000+00:00, vrf=Default
+                1  |  address=10.1.1.55, value=2026-04-20T18:00:33.540000+00:00, vrf=Default
+                1  |  address=10.200.0.1, value=2026-04-19T08:50:22.213000+00:00, vrf=Default
+                1  |  address=10.201.0.1, value=2026-04-19T08:50:57.805000+00:00, vrf=Default
+                1  |  address=10.201.0.2, value=2026-04-19T08:50:22.385000+00:00, vrf=Default
+                1  |  address=10.202.0.1, value=2026-04-19T09:16:12.264000+00:00, vrf=Default
+                1  |  address=10.202.0.2, value=2026-04-19T08:50:22.511000+00:00, vrf=Default
+                1  |  address=10.1.1.3, value=2026-04-20T19:39:21.809000+00:00, vrf=Default
+                1  |  address=10.1.1.5, value=2026-04-20T18:00:02.459000+00:00, vrf=Default
+                1  |  address=10.1.1.55, value=2026-04-14T02:08:36.043000+00:00, vrf=Default
+                1  |  address=10.200.0.2, value=2026-04-19T08:50:03.940000+00:00, vrf=Default
+                1  |  address=10.201.0.1, value=2026-04-19T08:50:38.935000+00:00, vrf=Default
+                1  |  address=10.201.0.3, value=2026-04-19T08:50:04.100000+00:00, vrf=Default
+                1  |  address=10.202.0.1, value=2026-04-19T09:15:54.825000+00:00, vrf=Default
+                1  |  address=10.202.0.3, value=2026-04-19T08:50:04.263000+00:00, vrf=Default
+
+  cisco.content.arp-oper.type_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  address=10.1.1.3, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.1.1.5, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.1.1.55, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.200.0.1, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.201.0.1, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.201.0.2, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.202.0.1, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.202.0.2, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.1.1.3, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.1.1.5, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.1.1.55, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.200.0.2, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.201.0.1, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.201.0.3, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.202.0.1, value=ios-linktype-ip, vrf=Default
+                1  |  address=10.202.0.3, value=ios-linktype-ip, vrf=Default
+
+  cisco.keys.vrf_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  value=Default, vrf=Default
+                1  |  value=Mgmt-vrf, vrf=Mgmt-vrf
+                1  |  value=Default, vrf=Default
+                1  |  value=Mgmt-vrf, vrf=Mgmt-vrf

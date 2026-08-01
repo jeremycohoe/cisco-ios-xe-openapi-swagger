@@ -1,0 +1,35 @@
+==========================================================================================
+  Sub 50017: Subscription 50017
+  Folder: 50017-cisco-ios-xe-trustsec-oper_trustsec-state
+  12 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.cts-env-data.device-sgt  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.cts-env-data.last-updated-time_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+
+  cisco.content.cts-env-data.life-time  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.cts-env-data.next-refresh-time_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=1970-01-01T00:00:00+00:00
+                1  |  value=1970-01-01T00:00:00+00:00
+
+  cisco.content.cts-env-data.status_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=env-download-in-progress
+                1  |  value=env-download-in-progress
+
+  cisco.content.cts-env-data.total-num-servers  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)

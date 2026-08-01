@@ -1,0 +1,105 @@
+==========================================================================================
+  Sub 50014: Subscription 50014
+  Folder: 50014-cisco-ios-xe-dhcp-oper_dhcp-oper-data
+  28 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.dhcpv4-pool.pool-name_info  (gauge, 1)
+  ----------------------------------------------------------------------
+                1  |  value=LAB-CLIENTS
+
+  cisco.content.dhcpv4-pool.subnet-info.ddns-updates_info  (gauge, 1)
+  ----------------------------------------------------------------------
+                1  |  value=pool-dynamic-update-off
+
+  cisco.content.dhcpv4-pool.subnet-info.stats.auto-grow  (gauge, 1)
+  ----------------------------------------------------------------------
+                0  |  (global)
+
+  cisco.content.dhcpv4-pool.subnet-info.stats.autogrow-pool-size  (gauge, 1)
+  ----------------------------------------------------------------------
+                0  |  (global)
+
+  cisco.content.dhcpv4-pool.subnet-info.stats.excluded-addresses  (gauge, 1)
+  ----------------------------------------------------------------------
+               20  |  (global)
+
+  cisco.content.dhcpv4-pool.subnet-info.stats.first-subnet-size  (gauge, 1)
+  ----------------------------------------------------------------------
+                0  |  (global)
+
+  cisco.content.dhcpv4-pool.subnet-info.stats.high-util-mark  (gauge, 1)
+  ----------------------------------------------------------------------
+              100  |  (global)
+
+  cisco.content.dhcpv4-pool.subnet-info.stats.leased-addresses  (gauge, 1)
+  ----------------------------------------------------------------------
+                0  |  (global)
+
+  cisco.content.dhcpv4-pool.subnet-info.stats.low-util-mark  (gauge, 1)
+  ----------------------------------------------------------------------
+                0  |  (global)
+
+  cisco.content.dhcpv4-pool.subnet-info.stats.next-subnet-size  (gauge, 1)
+  ----------------------------------------------------------------------
+                0  |  (global)
+
+  cisco.content.dhcpv4-pool.subnet-info.stats.pending-event_info  (gauge, 1)
+  ----------------------------------------------------------------------
+                1  |  value=no-pending-operation
+
+  cisco.content.dhcpv4-pool.subnet-info.stats.total-addresses  (gauge, 1)
+  ----------------------------------------------------------------------
+              254  |  (global)
+
+  cisco.content.dhcpv4-pool.subnet-info.subnet-count  (gauge, 1)
+  ----------------------------------------------------------------------
+                1  |  (global)
+
+  cisco.content.dhcpv4-pool.subnet-info.subnet.current-index_info  (gauge, 1)
+  ----------------------------------------------------------------------
+                1  |  value=10.201.0.1
+
+  cisco.content.dhcpv4-pool.subnet-info.subnet.excluded-addresses  (gauge, 1)
+  ----------------------------------------------------------------------
+               20  |  (global)
+
+  cisco.content.dhcpv4-pool.subnet-info.subnet.first-address_info  (gauge, 1)
+  ----------------------------------------------------------------------
+                1  |  value=10.201.0.1
+
+  cisco.content.dhcpv4-pool.subnet-info.subnet.last-address_info  (gauge, 1)
+  ----------------------------------------------------------------------
+                1  |  value=10.201.0.254
+
+  cisco.content.dhcpv4-pool.subnet-info.subnet.leased-addresses  (gauge, 1)
+  ----------------------------------------------------------------------
+                0  |  (global)
+
+  cisco.content.dhcpv4-pool.subnet-info.subnet.total-addresses  (gauge, 1)
+  ----------------------------------------------------------------------
+              254  |  (global)
+
+  cisco.content.dhcpv4-pool.vrf_info  (gauge, 1)
+  ----------------------------------------------------------------------
+                1  |  value=
+
+  cisco.content.dhcpv6-relay-binding-stats.bndg-cnt  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dhcpv6-relay-binding-stats.bulk-lq-bndg-cnt  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dhcpv6-relay-binding-stats.iana-bndg-cnt  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dhcpv6-relay-binding-stats.iapd-bndg-cnt  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)

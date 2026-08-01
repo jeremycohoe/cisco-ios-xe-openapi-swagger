@@ -1,0 +1,571 @@
+==========================================================================================
+  Sub 60020: Subscription 60020
+  Folder: 60020-cisco-ios-xe-stack-member-oper_stack-member-oper-data_locati
+  470 data points from 10 telemetry messages
+==========================================================================================
+
+  cisco.content.latency  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-boottime_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-09T04:29:06+00:00
+                1  |  value=2026-04-09T04:26:33+00:00
+                1  |  value=2026-04-09T04:29:06+00:00
+                1  |  value=2026-04-09T04:26:33+00:00
+                1  |  value=2026-04-09T04:29:06+00:00
+                1  |  value=2026-04-09T04:26:33+00:00
+                1  |  value=2026-04-09T04:29:06+00:00
+                1  |  value=2026-04-09T04:26:33+00:00
+                1  |  value=2026-04-09T04:29:06+00:00
+                1  |  value=2026-04-09T04:26:32+00:00
+
+  cisco.content.mbr-keepalive.consecutive-losses  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-keepalive.receive-failure  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-keepalive.received  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-keepalive.sent  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-keepalive.sent-failure  (gauge, 10)
+  ----------------------------------------------------------------------
+          251,275  |  (global)
+          251,310  |  (global)
+          251,290  |  (global)
+          251,325  |  (global)
+          251,305  |  (global)
+          251,340  |  (global)
+          251,320  |  (global)
+          251,355  |  (global)
+          251,335  |  (global)
+          251,370  |  (global)
+
+  cisco.content.mbr-peer-timeout.peer-timeout-cfg  (gauge, 10)
+  ----------------------------------------------------------------------
+           16,000  |  (global)
+           16,000  |  (global)
+           16,000  |  (global)
+           16,000  |  (global)
+           16,000  |  (global)
+           16,000  |  (global)
+           16,000  |  (global)
+           16,000  |  (global)
+           16,000  |  (global)
+           16,000  |  (global)
+
+  cisco.content.mbr-peer-timeout.watermark-50-cnt  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-peer-timeout.watermark-75-cnt  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-port.cable-length-cm  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-port.in-loop-bk  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+
+  cisco.content.mbr-port.link-actv  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-port.link-flaps  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-port.link-ok  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-port.nbr-port-num  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-port.port-num  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                2  |  (global)
+
+  cisco.content.mbr-port.stats-time_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-20T19:43:52.793134+00:00
+                1  |  value=2026-04-20T19:43:52.793134+00:00
+                1  |  value=2026-04-20T19:43:25.073844+00:00
+                1  |  value=2026-04-20T19:43:25.073844+00:00
+                1  |  value=2026-04-20T19:44:52.798028+00:00
+                1  |  value=2026-04-20T19:44:52.798028+00:00
+                1  |  value=2026-04-20T19:44:25.075457+00:00
+                1  |  value=2026-04-20T19:44:25.075457+00:00
+                1  |  value=2026-04-20T19:45:52.805792+00:00
+                1  |  value=2026-04-20T19:45:52.805792+00:00
+                1  |  value=2026-04-20T19:45:25.076699+00:00
+                1  |  value=2026-04-20T19:45:25.076699+00:00
+                1  |  value=2026-04-20T19:46:52.809668+00:00
+                1  |  value=2026-04-20T19:46:52.809668+00:00
+                1  |  value=2026-04-20T19:46:25.078511+00:00
+                1  |  value=2026-04-20T19:46:25.078511+00:00
+                1  |  value=2026-04-20T19:47:52.817296+00:00
+                1  |  value=2026-04-20T19:47:52.817296+00:00
+                1  |  value=2026-04-20T19:47:25.081960+00:00
+                1  |  value=2026-04-20T19:47:25.081960+00:00
+
+  cisco.content.mbr-port.stats.rac-copied  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-port.stats.rac-data-crc-err  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-port.stats.rac-inserted  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-port.stats.rac-invalid-ringword-err  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-port.stats.rac-pcs-codeword-err  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-port.stats.rac-rwcrc-err  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mbr-port.sync-ok  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stack-mode_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=mode-stackwise-rear
+                1  |  value=mode-stackwise-rear
+                1  |  value=mode-stackwise-rear
+                1  |  value=mode-stackwise-rear
+                1  |  value=mode-stackwise-rear
+                1  |  value=mode-stackwise-rear
+                1  |  value=mode-stackwise-rear
+                1  |  value=mode-stackwise-rear
+                1  |  value=mode-stackwise-rear
+                1  |  value=mode-stackwise-rear
+
+  cisco.keys.bay  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.keys.chassis  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.keys.chassis-num  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.keys.fru_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=fru-rp
+                1  |  value=fru-rp
+                1  |  value=fru-rp
+                1  |  value=fru-rp
+                1  |  value=fru-rp
+                1  |  value=fru-rp
+                1  |  value=fru-rp
+                1  |  value=fru-rp
+                1  |  value=fru-rp
+                1  |  value=fru-rp
+
+  cisco.keys.node  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.keys.slot  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)

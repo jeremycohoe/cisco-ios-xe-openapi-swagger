@@ -1,0 +1,213 @@
+==========================================================================================
+  Sub 60015: Subscription 60015
+  Folder: 60015-cisco-ios-xe-ip-sla-oper_ip-sla-stats_sla-oper-entry
+  160 data points from 10 telemetry messages
+==========================================================================================
+
+  cisco.content.common-stats.no-of-busies  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.common-stats.no-of-ctrl-enable-errors  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.common-stats.no-of-disconnects  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.common-stats.no-of-internal-errors  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.common-stats.no-of-no-connections  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.common-stats.no-of-sequence-errors  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.common-stats.no-of-stats-retrieve-errors  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.common-stats.no-of-timeouts  (gauge, 10)
+  ----------------------------------------------------------------------
+              108  |  (global)
+              108  |  (global)
+              110  |  (global)
+              110  |  (global)
+              112  |  (global)
+              112  |  (global)
+              114  |  (global)
+              114  |  (global)
+              116  |  (global)
+              116  |  (global)
+
+  cisco.content.common-stats.no-of-verify-errors  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.failure-count  (gauge, 10)
+  ----------------------------------------------------------------------
+              108  |  (global)
+              108  |  (global)
+              110  |  (global)
+              110  |  (global)
+              112  |  (global)
+              112  |  (global)
+              114  |  (global)
+              114  |  (global)
+              116  |  (global)
+              116  |  (global)
+
+  cisco.content.latest-oper-start-time_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-20T19:43:26+00:00
+                1  |  value=2026-04-20T19:43:08+00:00
+                1  |  value=2026-04-20T19:44:26+00:00
+                1  |  value=2026-04-20T19:44:08+00:00
+                1  |  value=2026-04-20T19:45:26+00:00
+                1  |  value=2026-04-20T19:45:08+00:00
+                1  |  value=2026-04-20T19:46:26+00:00
+                1  |  value=2026-04-20T19:46:08+00:00
+                1  |  value=2026-04-20T19:47:26+00:00
+                1  |  value=2026-04-20T19:47:08+00:00
+
+  cisco.content.latest-return-code_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=ret-code-timeout
+                1  |  value=ret-code-timeout
+                1  |  value=ret-code-timeout
+                1  |  value=ret-code-timeout
+                1  |  value=ret-code-timeout
+                1  |  value=ret-code-timeout
+                1  |  value=ret-code-timeout
+                1  |  value=ret-code-timeout
+                1  |  value=ret-code-timeout
+                1  |  value=ret-code-timeout
+
+  cisco.content.oper-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=oper-type-icmp-echo
+                1  |  value=oper-type-icmp-echo
+                1  |  value=oper-type-icmp-echo
+                1  |  value=oper-type-icmp-echo
+                1  |  value=oper-type-icmp-echo
+                1  |  value=oper-type-icmp-echo
+                1  |  value=oper-type-icmp-echo
+                1  |  value=oper-type-icmp-echo
+                1  |  value=oper-type-icmp-echo
+                1  |  value=oper-type-icmp-echo
+
+  cisco.content.success-count  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.threshold-occured  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.keys.oper-id  (gauge, 10)
+  ----------------------------------------------------------------------
+               10  |  (global)
+               20  |  (global)
+               10  |  (global)
+               20  |  (global)
+               10  |  (global)
+               20  |  (global)
+               10  |  (global)
+               20  |  (global)
+               10  |  (global)
+               20  |  (global)

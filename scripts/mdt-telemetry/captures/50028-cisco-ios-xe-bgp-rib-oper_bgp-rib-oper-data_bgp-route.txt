@@ -1,0 +1,47 @@
+==========================================================================================
+  Sub 50028: Subscription 50028
+  Folder: 50028-cisco-ios-xe-bgp-rib-oper_bgp-rib-oper-data_bgp-route
+  24 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.avail-paths  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  prefix=10.255.0.1/32
+                1  |  prefix=10.255.0.2/32
+                1  |  prefix=10.255.0.1/32
+                1  |  prefix=10.255.0.2/32
+
+  cisco.content.version  (gauge, 4)
+  ----------------------------------------------------------------------
+                2  |  prefix=10.255.0.1/32
+                3  |  prefix=10.255.0.2/32
+                3  |  prefix=10.255.0.1/32
+                2  |  prefix=10.255.0.2/32
+
+  cisco.keys.afi-safi_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  prefix=10.255.0.1/32, value=baf-v4-uc
+                1  |  prefix=10.255.0.2/32, value=baf-v4-uc
+                1  |  prefix=10.255.0.1/32, value=baf-v4-uc
+                1  |  prefix=10.255.0.2/32, value=baf-v4-uc
+
+  cisco.keys.ni-name_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  prefix=10.255.0.1/32, value=default
+                1  |  prefix=10.255.0.2/32, value=default
+                1  |  prefix=10.255.0.1/32, value=default
+                1  |  prefix=10.255.0.2/32, value=default
+
+  cisco.keys.ni-type_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  prefix=10.255.0.1/32, value=net-inst-default
+                1  |  prefix=10.255.0.2/32, value=net-inst-default
+                1  |  prefix=10.255.0.1/32, value=net-inst-default
+                1  |  prefix=10.255.0.2/32, value=net-inst-default
+
+  cisco.keys.prefix_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  prefix=10.255.0.1/32, value=10.255.0.1/32
+                1  |  prefix=10.255.0.2/32, value=10.255.0.2/32
+                1  |  prefix=10.255.0.1/32, value=10.255.0.1/32
+                1  |  prefix=10.255.0.2/32, value=10.255.0.2/32

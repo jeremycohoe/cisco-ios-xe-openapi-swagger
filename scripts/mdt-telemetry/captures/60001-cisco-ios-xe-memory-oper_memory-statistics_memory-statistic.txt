@@ -1,0 +1,203 @@
+==========================================================================================
+  Sub 60001: Subscription 60001
+  Folder: 60001-cisco-ios-xe-memory-oper_memory-statistics_memory-statistic
+  180 data points from 10 telemetry messages
+==========================================================================================
+
+  cisco.content.free-memory  (gauge, 30)
+  ----------------------------------------------------------------------
+      758,651,908  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      770,859,424  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      758,581,108  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      770,788,744  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      758,515,156  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      770,723,040  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      758,383,828  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      770,591,732  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      758,317,876  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      770,526,304  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+
+  cisco.content.highest-usage  (gauge, 30)
+  ----------------------------------------------------------------------
+      758,257,360  |  name=Processor
+          102,312  |  name=reserve Processor
+              412  |  name=lsmpi_io
+      770,667,328  |  name=Processor
+          102,312  |  name=reserve Processor
+              412  |  name=lsmpi_io
+      758,192,848  |  name=Processor
+          102,312  |  name=reserve Processor
+              412  |  name=lsmpi_io
+      770,602,816  |  name=Processor
+          102,312  |  name=reserve Processor
+              412  |  name=lsmpi_io
+      758,128,336  |  name=Processor
+          102,312  |  name=reserve Processor
+              412  |  name=lsmpi_io
+      770,538,304  |  name=Processor
+          102,312  |  name=reserve Processor
+              412  |  name=lsmpi_io
+      757,999,312  |  name=Processor
+          102,312  |  name=reserve Processor
+              412  |  name=lsmpi_io
+      770,409,280  |  name=Processor
+          102,312  |  name=reserve Processor
+              412  |  name=lsmpi_io
+      757,934,800  |  name=Processor
+          102,312  |  name=reserve Processor
+              412  |  name=lsmpi_io
+      770,344,768  |  name=Processor
+          102,312  |  name=reserve Processor
+              412  |  name=lsmpi_io
+
+  cisco.content.lowest-usage  (gauge, 30)
+  ----------------------------------------------------------------------
+      756,687,436  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      768,731,860  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      756,687,436  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      768,731,860  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      756,687,436  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      768,731,860  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      756,687,436  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      768,537,620  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      756,687,436  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+      768,537,620  |  name=Processor
+          102,312  |  name=reserve Processor
+              824  |  name=lsmpi_io
+
+  cisco.content.total-memory  (gauge, 30)
+  ----------------------------------------------------------------------
+    1,331,335,788  |  name=Processor
+          102,404  |  name=reserve Processor
+        6,295,128  |  name=lsmpi_io
+    1,331,335,788  |  name=Processor
+          102,404  |  name=reserve Processor
+        6,295,128  |  name=lsmpi_io
+    1,331,335,788  |  name=Processor
+          102,404  |  name=reserve Processor
+        6,295,128  |  name=lsmpi_io
+    1,331,335,788  |  name=Processor
+          102,404  |  name=reserve Processor
+        6,295,128  |  name=lsmpi_io
+    1,331,335,788  |  name=Processor
+          102,404  |  name=reserve Processor
+        6,295,128  |  name=lsmpi_io
+    1,331,335,788  |  name=Processor
+          102,404  |  name=reserve Processor
+        6,295,128  |  name=lsmpi_io
+    1,331,335,788  |  name=Processor
+          102,404  |  name=reserve Processor
+        6,295,128  |  name=lsmpi_io
+    1,331,335,788  |  name=Processor
+          102,404  |  name=reserve Processor
+        6,295,128  |  name=lsmpi_io
+    1,331,335,788  |  name=Processor
+          102,404  |  name=reserve Processor
+        6,295,128  |  name=lsmpi_io
+    1,331,335,788  |  name=Processor
+          102,404  |  name=reserve Processor
+        6,295,128  |  name=lsmpi_io
+
+  cisco.content.used-memory  (gauge, 30)
+  ----------------------------------------------------------------------
+      572,683,880  |  name=Processor
+               92  |  name=reserve Processor
+        6,294,304  |  name=lsmpi_io
+      560,476,364  |  name=Processor
+               92  |  name=reserve Processor
+        6,294,304  |  name=lsmpi_io
+      572,754,680  |  name=Processor
+               92  |  name=reserve Processor
+        6,294,304  |  name=lsmpi_io
+      560,547,044  |  name=Processor
+               92  |  name=reserve Processor
+        6,294,304  |  name=lsmpi_io
+      572,820,632  |  name=Processor
+               92  |  name=reserve Processor
+        6,294,304  |  name=lsmpi_io
+      560,612,748  |  name=Processor
+               92  |  name=reserve Processor
+        6,294,304  |  name=lsmpi_io
+      572,951,960  |  name=Processor
+               92  |  name=reserve Processor
+        6,294,304  |  name=lsmpi_io
+      560,744,056  |  name=Processor
+               92  |  name=reserve Processor
+        6,294,304  |  name=lsmpi_io
+      573,017,912  |  name=Processor
+               92  |  name=reserve Processor
+        6,294,304  |  name=lsmpi_io
+      560,809,484  |  name=Processor
+               92  |  name=reserve Processor
+        6,294,304  |  name=lsmpi_io
+
+  cisco.keys.name_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  name=Processor, value=Processor
+                1  |  name=reserve Processor, value=reserve Processor
+                1  |  name=lsmpi_io, value=lsmpi_io
+                1  |  name=Processor, value=Processor
+                1  |  name=reserve Processor, value=reserve Processor
+                1  |  name=lsmpi_io, value=lsmpi_io
+                1  |  name=Processor, value=Processor
+                1  |  name=reserve Processor, value=reserve Processor
+                1  |  name=lsmpi_io, value=lsmpi_io
+                1  |  name=Processor, value=Processor
+                1  |  name=reserve Processor, value=reserve Processor
+                1  |  name=lsmpi_io, value=lsmpi_io
+                1  |  name=Processor, value=Processor
+                1  |  name=reserve Processor, value=reserve Processor
+                1  |  name=lsmpi_io, value=lsmpi_io
+                1  |  name=Processor, value=Processor
+                1  |  name=reserve Processor, value=reserve Processor
+                1  |  name=lsmpi_io, value=lsmpi_io
+                1  |  name=Processor, value=Processor
+                1  |  name=reserve Processor, value=reserve Processor
+                1  |  name=lsmpi_io, value=lsmpi_io
+                1  |  name=Processor, value=Processor
+                1  |  name=reserve Processor, value=reserve Processor
+                1  |  name=lsmpi_io, value=lsmpi_io
+                1  |  name=Processor, value=Processor
+                1  |  name=reserve Processor, value=reserve Processor
+                1  |  name=lsmpi_io, value=lsmpi_io
+                1  |  name=Processor, value=Processor
+                1  |  name=reserve Processor, value=reserve Processor
+                1  |  name=lsmpi_io, value=lsmpi_io

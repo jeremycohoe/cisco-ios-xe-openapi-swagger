@@ -1,0 +1,96 @@
+==========================================================================================
+  Sub 60012: Subscription 60012
+  Folder: 60012-cisco-ios-xe-hsrp-oper_hsrp-oper-data_hsrp-group-info
+  70 data points from 10 telemetry messages
+==========================================================================================
+
+  cisco.content.active-ip_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.201.0.2
+                1  |  value=10.201.0.3
+                1  |  value=10.201.0.2
+                1  |  value=10.201.0.3
+                1  |  value=10.201.0.2
+                1  |  value=10.201.0.3
+                1  |  value=10.201.0.2
+                1  |  value=10.201.0.3
+                1  |  value=10.201.0.2
+                1  |  value=10.201.0.3
+
+  cisco.content.preempt  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+
+  cisco.content.priority  (gauge, 10)
+  ----------------------------------------------------------------------
+              110  |  (global)
+               90  |  (global)
+              110  |  (global)
+               90  |  (global)
+              110  |  (global)
+               90  |  (global)
+              110  |  (global)
+               90  |  (global)
+              110  |  (global)
+               90  |  (global)
+
+  cisco.content.state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=hsrp-state-active
+                1  |  value=hsrp-state-active
+                1  |  value=hsrp-state-active
+                1  |  value=hsrp-state-active
+                1  |  value=hsrp-state-active
+                1  |  value=hsrp-state-active
+                1  |  value=hsrp-state-active
+                1  |  value=hsrp-state-active
+                1  |  value=hsrp-state-active
+                1  |  value=hsrp-state-active
+
+  cisco.content.virtual-ip_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.201.0.1
+                1  |  value=10.201.0.1
+                1  |  value=10.201.0.1
+                1  |  value=10.201.0.1
+                1  |  value=10.201.0.1
+                1  |  value=10.201.0.1
+                1  |  value=10.201.0.1
+                1  |  value=10.201.0.1
+                1  |  value=10.201.0.1
+                1  |  value=10.201.0.1
+
+  cisco.keys.group-id  (gauge, 10)
+  ----------------------------------------------------------------------
+              201  |  (global)
+              201  |  (global)
+              201  |  (global)
+              201  |  (global)
+              201  |  (global)
+              201  |  (global)
+              201  |  (global)
+              201  |  (global)
+              201  |  (global)
+              201  |  (global)
+
+  cisco.keys.if-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan201
+                1  |  value=Vlan201
+                1  |  value=Vlan201
+                1  |  value=Vlan201
+                1  |  value=Vlan201
+                1  |  value=Vlan201
+                1  |  value=Vlan201
+                1  |  value=Vlan201
+                1  |  value=Vlan201
+                1  |  value=Vlan201

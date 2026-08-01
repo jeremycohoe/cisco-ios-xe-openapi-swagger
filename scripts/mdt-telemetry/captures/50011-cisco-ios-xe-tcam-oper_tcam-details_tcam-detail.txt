@@ -1,0 +1,335 @@
+==========================================================================================
+  Sub 50011: Subscription 50011
+  Folder: 50011-cisco-ios-xe-tcam-oper_tcam-details_tcam-detail
+  312 data points from 4 telemetry messages
+==========================================================================================
+
+  cisco.content.hash-entries-max  (gauge, 52)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+            4,096  |  (global)
+            8,192  |  (global)
+            8,192  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+           24,576  |  (global)
+            8,192  |  (global)
+                0  |  (global)
+           32,768  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+            4,096  |  (global)
+            8,192  |  (global)
+            8,192  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+            8,192  |  (global)
+                0  |  (global)
+           32,768  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+            4,096  |  (global)
+           24,576  |  (global)
+                0  |  (global)
+            4,096  |  (global)
+            8,192  |  (global)
+            8,192  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+           24,576  |  (global)
+            8,192  |  (global)
+                0  |  (global)
+           32,768  |  (global)
+                0  |  (global)
+
+  cisco.content.hash-entries-used  (gauge, 52)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+               18  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+               18  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+               18  |  (global)
+                0  |  (global)
+
+  cisco.content.tcam-entries-max  (gauge, 52)
+  ----------------------------------------------------------------------
+            5,120  |  (global)
+            4,096  |  (global)
+            1,024  |  (global)
+            1,024  |  (global)
+              512  |  (global)
+              256  |  (global)
+              512  |  (global)
+              512  |  (global)
+            8,192  |  (global)
+              512  |  (global)
+            1,024  |  (global)
+           15,872  |  (global)
+              512  |  (global)
+            2,048  |  (global)
+            1,024  |  (global)
+            2,048  |  (global)
+            5,120  |  (global)
+            4,096  |  (global)
+            1,024  |  (global)
+            1,024  |  (global)
+            1,024  |  (global)
+            5,120  |  (global)
+            1,024  |  (global)
+              256  |  (global)
+              256  |  (global)
+              256  |  (global)
+              512  |  (global)
+              512  |  (global)
+            5,120  |  (global)
+              512  |  (global)
+            1,024  |  (global)
+            4,096  |  (global)
+              512  |  (global)
+            2,048  |  (global)
+            1,024  |  (global)
+              512  |  (global)
+              256  |  (global)
+            1,024  |  (global)
+              256  |  (global)
+            4,096  |  (global)
+              512  |  (global)
+              256  |  (global)
+              512  |  (global)
+              512  |  (global)
+            8,192  |  (global)
+              512  |  (global)
+            1,024  |  (global)
+           15,872  |  (global)
+              512  |  (global)
+            2,048  |  (global)
+            1,024  |  (global)
+            2,048  |  (global)
+
+  cisco.content.tcam-entries-used  (gauge, 52)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+               18  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+               18  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+               18  |  (global)
+                0  |  (global)
+
+  cisco.keys.asic-no  (gauge, 52)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.keys.name_info  (gauge, 52)
+  ----------------------------------------------------------------------
+                1  |  value=PBR ACL
+                1  |  value=QOS ACL
+                1  |  value=Group LE
+                1  |  value=Macsec SPD
+                1  |  value=Netflow ACL
+                1  |  value=Client Table
+                1  |  value=L2 Multicast
+                1  |  value=L3 Multicast
+                1  |  value=Security ACL
+                1  |  value=Control Plane
+                1  |  value=Flow SPAN ACL
+                1  |  value=IP Route Table
+                1  |  value=CTS Cell Matrix
+                1  |  value=Lisp Inst Mapping
+                1  |  value=Mac Address Table
+                1  |  value=Tunnel Termination
+                1  |  value=PBR ACL
+                1  |  value=QOS ACL
+                1  |  value=Group LE
+                1  |  value=Macsec SPD
+                1  |  value=PBR ACL
+                1  |  value=QOS ACL
+                1  |  value=Group LE
+                1  |  value=Macsec SPD
+                1  |  value=Netflow ACL
+                1  |  value=Client Table
+                1  |  value=L2 Multicast
+                1  |  value=L3 Multicast
+                1  |  value=Security ACL
+                1  |  value=Control Plane
+                1  |  value=Flow SPAN ACL
+                1  |  value=IP Route Table
+                1  |  value=CTS Cell Matrix
+                1  |  value=Lisp Inst Mapping
+                1  |  value=Mac Address Table
+                1  |  value=Tunnel Termination
+                1  |  value=Security Association
+                1  |  value=Group LE
+                1  |  value=Client Table
+                1  |  value=IP Route Table
+                1  |  value=Netflow ACL
+                1  |  value=Client Table
+                1  |  value=L2 Multicast
+                1  |  value=L3 Multicast
+                1  |  value=Security ACL
+                1  |  value=Control Plane
+                1  |  value=Flow SPAN ACL
+                1  |  value=IP Route Table
+                1  |  value=CTS Cell Matrix
+                1  |  value=Lisp Inst Mapping
+                1  |  value=Mac Address Table
+                1  |  value=Tunnel Termination

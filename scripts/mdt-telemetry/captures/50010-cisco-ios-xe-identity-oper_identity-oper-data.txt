@@ -1,0 +1,377 @@
+==========================================================================================
+  Sub 50010: Subscription 50010
+  Folder: 50010-cisco-ios-xe-identity-oper_identity-oper-data
+  186 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.dot1x-global-stats.eapol-retx-req  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-retx-req-fail  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-retx-req-id  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-retx-req-id-fail  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-rx  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-rx-invalid  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-rx-len-error  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-rx-logoff  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-rx-req  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-rx-resp  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-rx-resp-id  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-rx-start  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-tx  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-tx-logoff  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-tx-req  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-tx-req-id  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-tx-resp  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dot1x-global-stats.eapol-tx-start  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.backpressure-counters.aaa-reply-pending-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.backpressure-counters.https-new-request-pending-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.backpressure-counters.ssl-handshake-pending-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.half-open-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.http-stats.aaa-message-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.http-stats.http-counters_info  (gauge, 64)
+  ----------------------------------------------------------------------
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+                1  |  value=0
+
+  cisco.content.webauth-stats.http-stats.http-new-req-ctx-exists-error  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.http-stats.http-new-req-no-session-error  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.http-stats.http-request-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.http-stats.num-of-socket-closed  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.http-stats.num-of-socket-opened  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.http-stats.read-complete-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.http-stats.read-event-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.http-stats.ssl-event-ok-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.http-stats.ssl-event-read-wouldblk-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.http-stats.ssl-event-write-wouldblk-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.http-stats.write-complete-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.http-stats.write-event-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.iom-aaa.max  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.iom-aaa.min  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.iom-aaa.samples  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.iom-aaa.total  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.iom-reading.max  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.iom-reading.min  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.iom-reading.samples  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.iom-reading.total  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.iom-writing.max  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.iom-writing.min  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.iom-writing.samples  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.iom-writing.total  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.method-aaa.max  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.method-aaa.min  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.method-aaa.samples  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.method-aaa.total  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.method-reading.max  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.method-reading.min  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.method-reading.samples  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.method-reading.total  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.method-writing.max  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.method-writing.min  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.method-writing.samples  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.method-writing.total  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.num-of-sleeping-clients  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.webauth-stats.session-count  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)

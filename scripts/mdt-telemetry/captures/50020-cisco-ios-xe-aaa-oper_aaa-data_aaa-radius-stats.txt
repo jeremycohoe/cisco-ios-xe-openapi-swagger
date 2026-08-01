@@ -1,0 +1,314 @@
+==========================================================================================
+  Sub 50020: Subscription 50020
+  Folder: 50020-cisco-ios-xe-aaa-oper_aaa-data_aaa-radius-stats
+  156 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.acct-errors-received  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.acct-messages-sent  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.authen-access-accepts  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.authen-access-rejects  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.authen-errors-received  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.authen-messages-received  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.authen-messages-sent  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.authen-retried-access-requests  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.authen-timeout-access-requests  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.author-access-accepts  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.author-access-rejects  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.author-errors-received  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.author-messages-received  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.author-messages-sent  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.author-retried-access-requests  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.author-timeout-access-requests  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.connection-aborts  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.connection-closes  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.connection-failures  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.connection-opens  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.connection-timeouts  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eap-authen-avg-resp-time  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eap-authen-failed-txns  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eap-authen-success-txns  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eap-authen-total-failover  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eap-authen-total-response  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eap-authen-total-timeouts  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.eap-authen-total-txns  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.is-server-radsec  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-authen-avg-resp-time  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-authen-failed-txns  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-authen-success-txns  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-authen-total-failover  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-authen-total-response  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-authen-total-timeouts  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-authen-total-txns  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-author-avg-resp-time  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-author-failed-txns  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-author-success-txns  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-author-total-failover  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-author-total-response  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-author-total-timeouts  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mac-author-total-txns  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.server-detail.aaa-inst-id  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                2  |  (global)
+                3  |  (global)
+                4  |  (global)
+                5  |  (global)
+                6  |  (global)
+                7  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                2  |  (global)
+                3  |  (global)
+                4  |  (global)
+                5  |  (global)
+                6  |  (global)
+                7  |  (global)
+
+  cisco.content.server-detail.inst-type_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  value=aaa-type-system
+                1  |  value=aaa-type-wired
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-system
+                1  |  value=aaa-type-wired
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+                1  |  value=aaa-type-wireless
+
+  cisco.content.server-detail.server-state_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+                1  |  value=aaa-server-state-alive
+
+  cisco.content.stats-time_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-19T19:11:29+00:00
+                1  |  value=2026-04-19T19:11:05+00:00
+
+  cisco.keys.acct-port  (gauge, 2)
+  ----------------------------------------------------------------------
+            1,813  |  (global)
+            1,813  |  (global)
+
+  cisco.keys.auth-port  (gauge, 2)
+  ----------------------------------------------------------------------
+            1,812  |  (global)
+            1,812  |  (global)
+
+  cisco.keys.group-name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=PUBLIC GROUP
+                1  |  value=PUBLIC GROUP
+
+  cisco.keys.radius-server-ip_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=192.168.99.100
+                1  |  value=192.168.99.100

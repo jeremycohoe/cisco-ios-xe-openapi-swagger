@@ -1,0 +1,93 @@
+==========================================================================================
+  Sub 60022: Subscription 60022
+  Folder: 60022-cisco-ios-xe-pim-oper_pim-oper-data
+  55 data points from 5 telemetry messages
+==========================================================================================
+
+  cisco.content.pim-if-entry.af_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=multicast-af-ipv4
+                1  |  value=multicast-af-ipv4
+                1  |  value=multicast-af-ipv4
+                1  |  value=multicast-af-ipv4
+                1  |  value=multicast-af-ipv4
+
+  cisco.content.pim-if-entry.dr-pri  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.pim-if-entry.if-addr_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=10.200.0.2
+                1  |  value=10.200.0.2
+                1  |  value=10.200.0.2
+                1  |  value=10.200.0.2
+                1  |  value=10.200.0.2
+
+  cisco.content.pim-if-entry.if-name_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan200
+                1  |  value=Vlan200
+                1  |  value=Vlan200
+                1  |  value=Vlan200
+                1  |  value=Vlan200
+
+  cisco.content.pim-if-entry.nbr-count  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.pim-if-entry.ni-name_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=IPv4 default
+                1  |  value=IPv4 default
+                1  |  value=IPv4 default
+                1  |  value=IPv4 default
+                1  |  value=IPv4 default
+
+  cisco.content.pim-if-entry.ni-type_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+
+  cisco.content.pim-if-entry.pim-dr-addr_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=10.200.0.2
+                1  |  value=10.200.0.2
+                1  |  value=10.200.0.2
+                1  |  value=10.200.0.2
+                1  |  value=10.200.0.2
+
+  cisco.content.pim-if-entry.pim-mode_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=pim-sparse
+                1  |  value=pim-sparse
+                1  |  value=pim-sparse
+                1  |  value=pim-sparse
+                1  |  value=pim-sparse
+
+  cisco.content.pim-if-entry.pim-ver  (gauge, 5)
+  ----------------------------------------------------------------------
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+
+  cisco.content.pim-if-entry.query-intvl  (gauge, 5)
+  ----------------------------------------------------------------------
+               30  |  (global)
+               30  |  (global)
+               30  |  (global)
+               30  |  (global)
+               30  |  (global)

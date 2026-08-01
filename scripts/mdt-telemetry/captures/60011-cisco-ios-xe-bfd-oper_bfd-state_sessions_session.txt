@@ -1,0 +1,239 @@
+==========================================================================================
+  Sub 60011: Subscription 60011
+  Folder: 60011-cisco-ios-xe-bfd-oper_bfd-state_sessions_session
+  180 data points from 10 telemetry messages
+==========================================================================================
+
+  cisco.content.bfd-nbrs.bfd-nbr.common-tx-interval  (gauge, 10)
+  ----------------------------------------------------------------------
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+
+  cisco.content.bfd-nbrs.bfd-nbr.hold-down-interval  (gauge, 10)
+  ----------------------------------------------------------------------
+        3,000,000  |  (global)
+        3,000,000  |  (global)
+        3,000,000  |  (global)
+        3,000,000  |  (global)
+        3,000,000  |  (global)
+        3,000,000  |  (global)
+        3,000,000  |  (global)
+        3,000,000  |  (global)
+        3,000,000  |  (global)
+        3,000,000  |  (global)
+
+  cisco.content.bfd-nbrs.bfd-nbr.interface_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+
+  cisco.content.bfd-nbrs.bfd-nbr.ip_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+
+  cisco.content.bfd-nbrs.bfd-nbr.ld  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.bfd-nbrs.bfd-nbr.local-diag_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+
+  cisco.content.bfd-nbrs.bfd-nbr.local-min-rx-int  (gauge, 10)
+  ----------------------------------------------------------------------
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+
+  cisco.content.bfd-nbrs.bfd-nbr.local-min-tx-int  (gauge, 10)
+  ----------------------------------------------------------------------
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+
+  cisco.content.bfd-nbrs.bfd-nbr.local-multiplier  (gauge, 10)
+  ----------------------------------------------------------------------
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+
+  cisco.content.bfd-nbrs.bfd-nbr.rd  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.bfd-nbrs.bfd-nbr.remote-diag_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+                1  |  value=bfd-diag-no-diag
+
+  cisco.content.bfd-nbrs.bfd-nbr.remote-min-rx-int  (gauge, 10)
+  ----------------------------------------------------------------------
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+
+  cisco.content.bfd-nbrs.bfd-nbr.remote-min-tx-int  (gauge, 10)
+  ----------------------------------------------------------------------
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+        1,000,000  |  (global)
+
+  cisco.content.bfd-nbrs.bfd-nbr.remote-multiplier  (gauge, 10)
+  ----------------------------------------------------------------------
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+
+  cisco.content.bfd-nbrs.bfd-nbr.remote-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=remote-up
+                1  |  value=remote-up
+                1  |  value=remote-up
+                1  |  value=remote-up
+                1  |  value=remote-up
+                1  |  value=remote-up
+                1  |  value=remote-up
+                1  |  value=remote-up
+                1  |  value=remote-up
+                1  |  value=remote-up
+
+  cisco.content.bfd-nbrs.bfd-nbr.session-host_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=bfd-host-software
+                1  |  value=bfd-host-software
+                1  |  value=bfd-host-software
+                1  |  value=bfd-host-software
+                1  |  value=bfd-host-software
+                1  |  value=bfd-host-software
+                1  |  value=bfd-host-software
+                1  |  value=bfd-host-software
+                1  |  value=bfd-host-software
+                1  |  value=bfd-host-software
+
+  cisco.content.bfd-nbrs.bfd-nbr.state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=up
+                1  |  value=up
+                1  |  value=up
+                1  |  value=up
+                1  |  value=up
+                1  |  value=up
+                1  |  value=up
+                1  |  value=up
+                1  |  value=up
+                1  |  value=up
+
+  cisco.keys.type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=ipv4
+                1  |  value=ipv4
+                1  |  value=ipv4
+                1  |  value=ipv4
+                1  |  value=ipv4
+                1  |  value=ipv4
+                1  |  value=ipv4
+                1  |  value=ipv4
+                1  |  value=ipv4
+                1  |  value=ipv4

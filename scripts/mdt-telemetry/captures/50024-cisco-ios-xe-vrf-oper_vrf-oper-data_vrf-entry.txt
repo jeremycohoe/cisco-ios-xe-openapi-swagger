@@ -1,0 +1,22 @@
+==========================================================================================
+  Sub 50024: Subscription 50024
+  Folder: 50024-cisco-ios-xe-vrf-oper_vrf-oper-data_vrf-entry
+  8 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.address-family-entry.address-family_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  value=ipv4-unicast
+                1  |  value=ipv6-unicast
+                1  |  value=ipv4-unicast
+                1  |  value=ipv6-unicast
+
+  cisco.content.interface_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=GigabitEthernet0/0
+                1  |  value=GigabitEthernet0/0
+
+  cisco.keys.vrf-name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=Mgmt-vrf
+                1  |  value=Mgmt-vrf

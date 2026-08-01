@@ -1,0 +1,461 @@
+==========================================================================================
+  Sub 60019: Subscription 60019
+  Folder: 60019-cisco-ios-xe-mroute-oper_mroute-oper-data_mroute-state
+  285 data points from 5 telemetry messages
+==========================================================================================
+
+  cisco.content.hw-average-packet-size  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.hw-kbits-per-second  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.hw-other-drops  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.hw-packet-count  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.hw-packets-per-second  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.hw-rpf-failed  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.hw-total  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.in-rate-limit  (gauge, 5)
+  ----------------------------------------------------------------------
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+
+  cisco.content.ingress-if.if-name_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=Null
+                1  |  value=Null
+                1  |  value=Null
+                1  |  value=Null
+                1  |  value=Null
+
+  cisco.content.ingress-if.mfib-if-flags_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.ingress-if.mfib-next-hop-type_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=mfib-nh-type-invalid
+                1  |  value=mfib-nh-type-invalid
+                1  |  value=mfib-nh-type-invalid
+                1  |  value=mfib-nh-type-invalid
+                1  |  value=mfib-nh-type-invalid
+
+  cisco.content.ingress-if.rpf-id  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.lsm-type_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=mvpn-lsm-none
+                1  |  value=mvpn-lsm-none
+                1  |  value=mvpn-lsm-none
+                1  |  value=mvpn-lsm-none
+                1  |  value=mvpn-lsm-none
+
+  cisco.content.mcast-egress-if-entry.if-name_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan200
+                1  |  value=Vlan200
+                1  |  value=Vlan200
+                1  |  value=Vlan200
+                1  |  value=Vlan200
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.aux-next-hop  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.blocked  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.cef-status_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=mfib-cef-adjacency-with-mac
+                1  |  value=mfib-cef-adjacency-with-mac
+                1  |  value=mfib-cef-adjacency-with-mac
+                1  |  value=mfib-cef-adjacency-with-mac
+                1  |  value=mfib-cef-adjacency-with-mac
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.egress-rate-pps  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.fs-packet-count  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.hw-packet-count  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.if-expires_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-20T19:46:28.400000+00:00
+                1  |  value=2026-04-20T19:47:28.399000+00:00
+                1  |  value=2026-04-20T19:48:23.800000+00:00
+                1  |  value=2026-04-20T19:49:28.400000+00:00
+                1  |  value=2026-04-20T19:50:23.800000+00:00
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.if-flags_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.if-state_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=intf-forward
+                1  |  value=intf-forward
+                1  |  value=intf-forward
+                1  |  value=intf-forward
+                1  |  value=intf-forward
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.if-threshold  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.if-uptime_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-19T09:11:26.759000+00:00
+                1  |  value=2026-04-19T09:11:26.767000+00:00
+                1  |  value=2026-04-19T09:11:26.765000+00:00
+                1  |  value=2026-04-19T09:11:26.767000+00:00
+                1  |  value=2026-04-19T09:11:26.763000+00:00
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.is-proxy  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.is-static  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.mfib-if-flags_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=mfib-intf-forward mfib-intf-negate-signalling mfib-intf-internal-copy mfib-intf-mrib-forward mfib-intf-active
+                1  |  value=mfib-intf-forward mfib-intf-negate-signalling mfib-intf-internal-copy mfib-intf-mrib-forward mfib-intf-active
+                1  |  value=mfib-intf-forward mfib-intf-negate-signalling mfib-intf-internal-copy mfib-intf-mrib-forward mfib-intf-active
+                1  |  value=mfib-intf-forward mfib-intf-negate-signalling mfib-intf-internal-copy mfib-intf-mrib-forward mfib-intf-active
+                1  |  value=mfib-intf-forward mfib-intf-negate-signalling mfib-intf-internal-copy mfib-intf-mrib-forward mfib-intf-active
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.mfib-next-hop-type_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=mfib-nh-type-invalid
+                1  |  value=mfib-nh-type-invalid
+                1  |  value=mfib-nh-type-invalid
+                1  |  value=mfib-nh-type-invalid
+                1  |  value=mfib-nh-type-invalid
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.out-rate-limit  (gauge, 5)
+  ----------------------------------------------------------------------
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.output-if-counters  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.port-number  (gauge, 5)
+  ----------------------------------------------------------------------
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.ps-packet-count  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mcast-egress-if-entry.mcast-egress-if-data.rpf-id  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mfib-flags_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=mfib-directly-connected mfib-hardware-installed mfib-keepalive
+                1  |  value=mfib-directly-connected mfib-hardware-installed mfib-keepalive
+                1  |  value=mfib-directly-connected mfib-hardware-installed mfib-keepalive
+                1  |  value=mfib-directly-connected mfib-hardware-installed mfib-keepalive
+                1  |  value=mfib-directly-connected mfib-hardware-installed mfib-keepalive
+
+  cisco.content.mofrr-primary  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mroute-expires_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-20T19:46:28.400000+00:00
+                1  |  value=2026-04-20T19:47:28.400000+00:00
+                1  |  value=2026-04-20T19:48:23.800000+00:00
+                1  |  value=2026-04-20T19:49:28.400000+00:00
+                1  |  value=2026-04-20T19:50:23.800000+00:00
+
+  cisco.content.mroute-ext-flags_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.mroute-flags_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=mroute-connected mroute-local mroute-join-spt
+                1  |  value=mroute-connected mroute-local mroute-join-spt
+                1  |  value=mroute-connected mroute-local mroute-join-spt
+                1  |  value=mroute-connected mroute-local mroute-join-spt
+                1  |  value=mroute-connected mroute-local mroute-join-spt
+
+  cisco.content.mroute-mode_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=mroute-sparse
+                1  |  value=mroute-sparse
+                1  |  value=mroute-sparse
+                1  |  value=mroute-sparse
+                1  |  value=mroute-sparse
+
+  cisco.content.mroute-uptime_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-19T09:11:26.791000+00:00
+                1  |  value=2026-04-19T09:11:26.783000+00:00
+                1  |  value=2026-04-19T09:11:26.777000+00:00
+                1  |  value=2026-04-19T09:11:26.777000+00:00
+                1  |  value=2026-04-19T09:11:26.773000+00:00
+
+  cisco.content.mvpn-lsm-tree-num  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.port-number  (gauge, 5)
+  ----------------------------------------------------------------------
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+    4,294,967,295  |  (global)
+
+  cisco.content.rp_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=10.255.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.255.0.1
+
+  cisco.content.rpf-nbr_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+
+  cisco.content.sec-if-name_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.sw-average-packet-size  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.sw-kbits-per-second  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.sw-other-drops  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.sw-packet-count  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.sw-packets-per-second  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.sw-rpf-failed  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.sw-total  (gauge, 5)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.keys.af_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=mroute-af-ipv4
+                1  |  value=mroute-af-ipv4
+                1  |  value=mroute-af-ipv4
+                1  |  value=mroute-af-ipv4
+                1  |  value=mroute-af-ipv4
+
+  cisco.keys.group_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=224.0.1.40
+                1  |  value=224.0.1.40
+                1  |  value=224.0.1.40
+                1  |  value=224.0.1.40
+                1  |  value=224.0.1.40
+
+  cisco.keys.source_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+
+  cisco.keys.vrf_info  (gauge, 5)
+  ----------------------------------------------------------------------
+                1  |  value=IPv4 default
+                1  |  value=IPv4 default
+                1  |  value=IPv4 default
+                1  |  value=IPv4 default
+                1  |  value=IPv4 default

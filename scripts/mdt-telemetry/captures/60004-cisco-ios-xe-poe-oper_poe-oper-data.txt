@@ -1,0 +1,2182 @@
+==========================================================================================
+  Sub 60004: Subscription 60004
+  Folder: 60004-cisco-ios-xe-poe-oper_poe-oper-data
+  1700 data points from 10 telemetry messages
+==========================================================================================
+
+  cisco.content.poe-module.available-power  (gauge, 10)
+  ----------------------------------------------------------------------
+              590  |  module=1
+              480  |  module=1
+              590  |  module=1
+              480  |  module=1
+              590  |  module=1
+              480  |  module=1
+              590  |  module=1
+              480  |  module=1
+              590  |  module=1
+              480  |  module=1
+
+  cisco.content.poe-module.bt-reload-pending  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+
+  cisco.content.poe-module.chassis-num  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+
+  cisco.content.poe-module.flex-poe-actv  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+
+  cisco.content.poe-module.flex-poe-config  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+                0  |  module=1
+
+  cisco.content.poe-module.free-ports  (gauge, 10)
+  ----------------------------------------------------------------------
+               48  |  module=1
+               22  |  module=1
+               48  |  module=1
+               22  |  module=1
+               48  |  module=1
+               22  |  module=1
+               48  |  module=1
+               22  |  module=1
+               48  |  module=1
+               22  |  module=1
+
+  cisco.content.poe-module.if-max-power  (gauge, 10)
+  ----------------------------------------------------------------------
+           90,000  |  module=1
+           30,000  |  module=1
+           90,000  |  module=1
+           30,000  |  module=1
+           90,000  |  module=1
+           30,000  |  module=1
+           90,000  |  module=1
+           30,000  |  module=1
+           90,000  |  module=1
+           30,000  |  module=1
+
+  cisco.content.poe-module.module  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+
+  cisco.content.poe-module.module-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  module=1, value=module-type-fixed
+                1  |  module=1, value=module-type-fixed
+                1  |  module=1, value=module-type-fixed
+                1  |  module=1, value=module-type-fixed
+                1  |  module=1, value=module-type-fixed
+                1  |  module=1, value=module-type-fixed
+                1  |  module=1, value=module-type-fixed
+                1  |  module=1, value=module-type-fixed
+                1  |  module=1, value=module-type-fixed
+                1  |  module=1, value=module-type-fixed
+
+  cisco.content.poe-module.num-ports  (gauge, 10)
+  ----------------------------------------------------------------------
+               48  |  module=1
+               24  |  module=1
+               48  |  module=1
+               24  |  module=1
+               48  |  module=1
+               24  |  module=1
+               48  |  module=1
+               24  |  module=1
+               48  |  module=1
+               24  |  module=1
+
+  cisco.content.poe-module.power-pool-idx  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+                1  |  module=1
+
+  cisco.content.poe-module.remaining-power  (gauge, 10)
+  ----------------------------------------------------------------------
+              590  |  module=1
+           434.60  |  module=1
+              590  |  module=1
+           434.60  |  module=1
+              590  |  module=1
+           434.60  |  module=1
+              590  |  module=1
+           434.60  |  module=1
+              590  |  module=1
+           434.60  |  module=1
+
+  cisco.content.poe-module.tot-consumed-pwr  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  module=1
+            15.60  |  module=1
+                0  |  module=1
+            15.40  |  module=1
+                0  |  module=1
+            15.40  |  module=1
+                0  |  module=1
+            15.40  |  module=1
+                0  |  module=1
+            15.70  |  module=1
+
+  cisco.content.poe-module.used-ports  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  module=1
+                2  |  module=1
+                0  |  module=1
+                2  |  module=1
+                0  |  module=1
+                2  |  module=1
+                0  |  module=1
+                2  |  module=1
+                0  |  module=1
+                2  |  module=1
+
+  cisco.content.poe-module.used-power  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  module=1
+            45.40  |  module=1
+                0  |  module=1
+            45.40  |  module=1
+                0  |  module=1
+            45.40  |  module=1
+                0  |  module=1
+            45.40  |  module=1
+                0  |  module=1
+            45.40  |  module=1
+
+  cisco.content.poe-port-detail.abs-cntr  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.admin-police_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=police-action-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=police-action-none
+                1  |  intf-name=GigabitEthernet1/0/4, value=police-action-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=police-action-none
+                1  |  intf-name=GigabitEthernet1/0/4, value=police-action-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=police-action-none
+                1  |  intf-name=GigabitEthernet1/0/4, value=police-action-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=police-action-none
+                1  |  intf-name=GigabitEthernet1/0/4, value=police-action-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=police-action-none
+
+  cisco.content.poe-port-detail.admin-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=admin-state-auto
+                1  |  intf-name=GigabitEthernet1/0/13, value=admin-state-auto
+                1  |  intf-name=GigabitEthernet1/0/4, value=admin-state-auto
+                1  |  intf-name=GigabitEthernet1/0/13, value=admin-state-auto
+                1  |  intf-name=GigabitEthernet1/0/4, value=admin-state-auto
+                1  |  intf-name=GigabitEthernet1/0/13, value=admin-state-auto
+                1  |  intf-name=GigabitEthernet1/0/4, value=admin-state-auto
+                1  |  intf-name=GigabitEthernet1/0/13, value=admin-state-auto
+                1  |  intf-name=GigabitEthernet1/0/4, value=admin-state-auto
+                1  |  intf-name=GigabitEthernet1/0/13, value=admin-state-auto
+
+  cisco.content.poe-port-detail.bad-sgn-cntr  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.bucket-width  (gauge, 10)
+  ----------------------------------------------------------------------
+              900  |  intf-name=GigabitEthernet1/0/4
+              900  |  intf-name=GigabitEthernet1/0/13
+              900  |  intf-name=GigabitEthernet1/0/4
+              900  |  intf-name=GigabitEthernet1/0/13
+              900  |  intf-name=GigabitEthernet1/0/4
+              900  |  intf-name=GigabitEthernet1/0/13
+              900  |  intf-name=GigabitEthernet1/0/4
+              900  |  intf-name=GigabitEthernet1/0/13
+              900  |  intf-name=GigabitEthernet1/0/4
+              900  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.chassis-num  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.conn-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=conn-chk-sp
+                1  |  intf-name=GigabitEthernet1/0/13, value=conn-chk-sp
+                1  |  intf-name=GigabitEthernet1/0/4, value=conn-chk-sp
+                1  |  intf-name=GigabitEthernet1/0/13, value=conn-chk-sp
+                1  |  intf-name=GigabitEthernet1/0/4, value=conn-chk-sp
+                1  |  intf-name=GigabitEthernet1/0/13, value=conn-chk-sp
+                1  |  intf-name=GigabitEthernet1/0/4, value=conn-chk-sp
+                1  |  intf-name=GigabitEthernet1/0/13, value=conn-chk-sp
+                1  |  intf-name=GigabitEthernet1/0/4, value=conn-chk-sp
+                1  |  intf-name=GigabitEthernet1/0/13, value=conn-chk-sp
+
+  cisco.content.poe-port-detail.cutoff-power-police  (gauge, 10)
+  ----------------------------------------------------------------------
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.device-detected  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.device-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=Ieee PD
+                1  |  intf-name=GigabitEthernet1/0/13, value= C9130AXI-B
+                1  |  intf-name=GigabitEthernet1/0/4, value=Ieee PD
+                1  |  intf-name=GigabitEthernet1/0/13, value= C9130AXI-B
+                1  |  intf-name=GigabitEthernet1/0/4, value=Ieee PD
+                1  |  intf-name=GigabitEthernet1/0/13, value= C9130AXI-B
+                1  |  intf-name=GigabitEthernet1/0/4, value=Ieee PD
+                1  |  intf-name=GigabitEthernet1/0/13, value= C9130AXI-B
+                1  |  intf-name=GigabitEthernet1/0/4, value=Ieee PD
+                1  |  intf-name=GigabitEthernet1/0/13, value= C9130AXI-B
+
+  cisco.content.poe-port-detail.device-tag_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=
+                1  |  intf-name=GigabitEthernet1/0/13, value=
+                1  |  intf-name=GigabitEthernet1/0/4, value=
+                1  |  intf-name=GigabitEthernet1/0/13, value=
+                1  |  intf-name=GigabitEthernet1/0/4, value=
+                1  |  intf-name=GigabitEthernet1/0/13, value=
+                1  |  intf-name=GigabitEthernet1/0/4, value=
+                1  |  intf-name=GigabitEthernet1/0/13, value=
+                1  |  intf-name=GigabitEthernet1/0/4, value=
+                1  |  intf-name=GigabitEthernet1/0/13, value=
+
+  cisco.content.poe-port-detail.discovery_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=discovery-cisco-ieee
+                1  |  intf-name=GigabitEthernet1/0/13, value=discovery-cisco-ieee
+                1  |  intf-name=GigabitEthernet1/0/4, value=discovery-cisco-ieee
+                1  |  intf-name=GigabitEthernet1/0/13, value=discovery-cisco-ieee
+                1  |  intf-name=GigabitEthernet1/0/4, value=discovery-cisco-ieee
+                1  |  intf-name=GigabitEthernet1/0/13, value=discovery-cisco-ieee
+                1  |  intf-name=GigabitEthernet1/0/4, value=discovery-cisco-ieee
+                1  |  intf-name=GigabitEthernet1/0/13, value=discovery-cisco-ieee
+                1  |  intf-name=GigabitEthernet1/0/4, value=discovery-cisco-ieee
+                1  |  intf-name=GigabitEthernet1/0/13, value=discovery-cisco-ieee
+
+  cisco.content.poe-port-detail.fast-poe-enabled  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.four-pair-pd-arch_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-architecture-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-architecture-none
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-architecture-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-architecture-none
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-architecture-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-architecture-none
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-architecture-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-architecture-none
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-architecture-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-architecture-none
+
+  cisco.content.poe-port-detail.four-pair-poe-enabled  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.four-pair-poe-supported  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.intf-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13, value=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4, value=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13, value=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4, value=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13, value=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4, value=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13, value=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4, value=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13, value=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.last-update-time_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=2026-04-20T19:43:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/13, value=2026-04-20T19:43:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/4, value=2026-04-20T19:43:37+00:00
+                1  |  intf-name=GigabitEthernet1/0/13, value=2026-04-20T19:44:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/4, value=2026-04-20T19:43:37+00:00
+                1  |  intf-name=GigabitEthernet1/0/13, value=2026-04-20T19:44:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/4, value=2026-04-20T19:45:47+00:00
+                1  |  intf-name=GigabitEthernet1/0/13, value=2026-04-20T19:46:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/4, value=2026-04-20T19:47:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/13, value=2026-04-20T19:47:17+00:00
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.auto-class-comp  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.auto-class-req  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.dual-sig-pwr-class-mode-a_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.dual-sig-pwr-class-mode-b_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.length  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.pd-4pid  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.pd-pwred-status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-power-status-ignore
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.pd-req-pwr-mode-a  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.pd-req-pwr-mode-b  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.power-allocated  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.power-down-time  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.power-priority_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-priority-unknown
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.power-requested  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.power-source_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-source-reserved
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.power-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=type-two-pse
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.pse-alloc-pwr-mode-a  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.pse-alloc-pwr-mode-b  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.pse-auto-class-support  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.pse-max-available-power  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.pse-pwr-pair-ext_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-type-ignore
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.pse-pwring-status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pse-power-status-ignore
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.pwr-down-req  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.pwr-ss-class-ext_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ss-power-class-ignore
+
+  cisco.content.poe-port-detail.lldp-mdi-rx.pwr-type-ext_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-ext-type-3-pse
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.auto-class-comp  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.auto-class-req  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.dual-sig-pwr-class-mode-a_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.dual-sig-pwr-class-mode-b_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ds-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ds-power-class-ignore
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.length  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.pd-4pid  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.pd-pwred-status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-power-status-ignore
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.pd-req-pwr-mode-a  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.pd-req-pwr-mode-b  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.power-allocated  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.power-down-time  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.power-priority_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-priority-unknown
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.power-requested  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.power-source_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-source-reserved
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-source-reserved
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.power-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=type-two-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=type-two-pse
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.pse-alloc-pwr-mode-a  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.pse-alloc-pwr-mode-b  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.pse-auto-class-support  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.pse-max-available-power  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.pse-pwr-pair-ext_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-type-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-type-ignore
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.pse-pwring-status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=pse-power-status-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=pse-power-status-ignore
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.pwr-down-req  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.pwr-ss-class-ext_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/4, value=ss-power-class-ignore
+                1  |  intf-name=GigabitEthernet1/0/13, value=ss-power-class-ignore
+
+  cisco.content.poe-port-detail.lldp-mdi-tx.pwr-type-ext_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-power-ext-type-3-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-power-ext-type-3-pse
+
+  cisco.content.poe-port-detail.lldp-med-mdi-rx.power-priority_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-priority-unknown
+
+  cisco.content.poe-port-detail.lldp-med-mdi-rx.power-source_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-src-unknown
+
+  cisco.content.poe-port-detail.lldp-med-mdi-rx.power-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-type-pse
+
+  cisco.content.poe-port-detail.lldp-med-mdi-tx.power-priority_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-priority-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-priority-unknown
+
+  cisco.content.poe-port-detail.lldp-med-mdi-tx.power-source_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-src-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-src-unknown
+
+  cisco.content.poe-port-detail.lldp-med-mdi-tx.power-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/4, value=lldp-med-power-type-pse
+                1  |  intf-name=GigabitEthernet1/0/13, value=lldp-med-power-type-pse
+
+  cisco.content.poe-port-detail.max-power-drawn  (gauge, 10)
+  ----------------------------------------------------------------------
+             6.39  |  intf-name=GigabitEthernet1/0/4
+            12.41  |  intf-name=GigabitEthernet1/0/13
+             6.39  |  intf-name=GigabitEthernet1/0/4
+            12.41  |  intf-name=GigabitEthernet1/0/13
+             6.39  |  intf-name=GigabitEthernet1/0/4
+            12.41  |  intf-name=GigabitEthernet1/0/13
+             6.39  |  intf-name=GigabitEthernet1/0/4
+            12.41  |  intf-name=GigabitEthernet1/0/13
+             6.39  |  intf-name=GigabitEthernet1/0/4
+            12.41  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.meter-start-time_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=2026-04-09T04:28:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/13, value=2026-04-09T04:28:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/4, value=2026-04-09T04:28:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/13, value=2026-04-09T04:28:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/4, value=2026-04-09T04:28:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/13, value=2026-04-09T04:28:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/4, value=2026-04-09T04:28:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/13, value=2026-04-09T04:28:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/4, value=2026-04-09T04:28:17+00:00
+                1  |  intf-name=GigabitEthernet1/0/13, value=2026-04-09T04:28:17+00:00
+
+  cisco.content.poe-port-detail.metered-energy-value  (gauge, 10)
+  ----------------------------------------------------------------------
+    4,143,465,889  |  intf-name=GigabitEthernet1/0/4
+       70,510,755  |  intf-name=GigabitEthernet1/0/13
+    4,143,543,249  |  intf-name=GigabitEthernet1/0/4
+       71,208,495  |  intf-name=GigabitEthernet1/0/13
+    4,143,543,249  |  intf-name=GigabitEthernet1/0/4
+       71,208,495  |  intf-name=GigabitEthernet1/0/13
+    4,144,033,769  |  intf-name=GigabitEthernet1/0/4
+       72,605,645  |  intf-name=GigabitEthernet1/0/13
+    4,144,374,609  |  intf-name=GigabitEthernet1/0/4
+       73,302,265  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.module-id  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.number-of-buckets  (gauge, 10)
+  ----------------------------------------------------------------------
+               12  |  intf-name=GigabitEthernet1/0/4
+               12  |  intf-name=GigabitEthernet1/0/13
+               12  |  intf-name=GigabitEthernet1/0/4
+               12  |  intf-name=GigabitEthernet1/0/13
+               12  |  intf-name=GigabitEthernet1/0/4
+               12  |  intf-name=GigabitEthernet1/0/13
+               12  |  intf-name=GigabitEthernet1/0/4
+               12  |  intf-name=GigabitEthernet1/0/13
+               12  |  intf-name=GigabitEthernet1/0/4
+               12  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.oper-police_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=oper-police-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=oper-police-none
+                1  |  intf-name=GigabitEthernet1/0/4, value=oper-police-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=oper-police-none
+                1  |  intf-name=GigabitEthernet1/0/4, value=oper-police-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=oper-police-none
+                1  |  intf-name=GigabitEthernet1/0/4, value=oper-police-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=oper-police-none
+                1  |  intf-name=GigabitEthernet1/0/4, value=oper-police-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=oper-police-none
+
+  cisco.content.poe-port-detail.oper-power  (gauge, 10)
+  ----------------------------------------------------------------------
+             3.98  |  intf-name=GigabitEthernet1/0/4
+            11.62  |  intf-name=GigabitEthernet1/0/13
+             3.75  |  intf-name=GigabitEthernet1/0/4
+            11.62  |  intf-name=GigabitEthernet1/0/13
+             3.75  |  intf-name=GigabitEthernet1/0/4
+            11.62  |  intf-name=GigabitEthernet1/0/13
+             3.75  |  intf-name=GigabitEthernet1/0/4
+            11.62  |  intf-name=GigabitEthernet1/0/13
+             3.98  |  intf-name=GigabitEthernet1/0/4
+            11.68  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.oper-priority_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=port-oper-priority-low
+                1  |  intf-name=GigabitEthernet1/0/13, value=port-oper-priority-low
+                1  |  intf-name=GigabitEthernet1/0/4, value=port-oper-priority-low
+                1  |  intf-name=GigabitEthernet1/0/13, value=port-oper-priority-low
+                1  |  intf-name=GigabitEthernet1/0/4, value=port-oper-priority-low
+                1  |  intf-name=GigabitEthernet1/0/13, value=port-oper-priority-low
+                1  |  intf-name=GigabitEthernet1/0/4, value=port-oper-priority-low
+                1  |  intf-name=GigabitEthernet1/0/13, value=port-oper-priority-low
+                1  |  intf-name=GigabitEthernet1/0/4, value=port-oper-priority-low
+                1  |  intf-name=GigabitEthernet1/0/13, value=port-oper-priority-low
+
+  cisco.content.poe-port-detail.oper-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=on
+                1  |  intf-name=GigabitEthernet1/0/13, value=on
+                1  |  intf-name=GigabitEthernet1/0/4, value=on
+                1  |  intf-name=GigabitEthernet1/0/13, value=on
+                1  |  intf-name=GigabitEthernet1/0/4, value=on
+                1  |  intf-name=GigabitEthernet1/0/13, value=on
+                1  |  intf-name=GigabitEthernet1/0/4, value=on
+                1  |  intf-name=GigabitEthernet1/0/13, value=on
+                1  |  intf-name=GigabitEthernet1/0/4, value=on
+                1  |  intf-name=GigabitEthernet1/0/13, value=on
+
+  cisco.content.poe-port-detail.over-current-counter  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.pd-class_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-ieee4
+
+  cisco.content.poe-port-detail.perpetual-poe-enabled  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.poe-bucket_info  (gauge, 120)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=3015372
+                1  |  intf-name=GigabitEthernet1/0/4, value=3396080
+                1  |  intf-name=GigabitEthernet1/0/4, value=3387680
+                1  |  intf-name=GigabitEthernet1/0/4, value=3402800
+                1  |  intf-name=GigabitEthernet1/0/4, value=3398320
+                1  |  intf-name=GigabitEthernet1/0/4, value=3394960
+                1  |  intf-name=GigabitEthernet1/0/4, value=3398880
+                1  |  intf-name=GigabitEthernet1/0/4, value=3401568
+                1  |  intf-name=GigabitEthernet1/0/4, value=3393952
+                1  |  intf-name=GigabitEthernet1/0/4, value=3407840
+                1  |  intf-name=GigabitEthernet1/0/4, value=3401008
+                1  |  intf-name=GigabitEthernet1/0/4, value=3393392
+                1  |  intf-name=GigabitEthernet1/0/13, value=9264831
+                1  |  intf-name=GigabitEthernet1/0/13, value=10447852
+                1  |  intf-name=GigabitEthernet1/0/13, value=10419400
+                1  |  intf-name=GigabitEthernet1/0/13, value=10393068
+                1  |  intf-name=GigabitEthernet1/0/13, value=10362910
+                1  |  intf-name=GigabitEthernet1/0/13, value=10295428
+                1  |  intf-name=GigabitEthernet1/0/13, value=9327266
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/4, value=3092732
+                1  |  intf-name=GigabitEthernet1/0/4, value=3396080
+                1  |  intf-name=GigabitEthernet1/0/4, value=3387680
+                1  |  intf-name=GigabitEthernet1/0/4, value=3402800
+                1  |  intf-name=GigabitEthernet1/0/4, value=3398320
+                1  |  intf-name=GigabitEthernet1/0/4, value=3394960
+                1  |  intf-name=GigabitEthernet1/0/4, value=3398880
+                1  |  intf-name=GigabitEthernet1/0/4, value=3401568
+                1  |  intf-name=GigabitEthernet1/0/4, value=3393952
+                1  |  intf-name=GigabitEthernet1/0/4, value=3407840
+                1  |  intf-name=GigabitEthernet1/0/4, value=3401008
+                1  |  intf-name=GigabitEthernet1/0/4, value=3393392
+                1  |  intf-name=GigabitEthernet1/0/13, value=9962571
+                1  |  intf-name=GigabitEthernet1/0/13, value=10447852
+                1  |  intf-name=GigabitEthernet1/0/13, value=10419400
+                1  |  intf-name=GigabitEthernet1/0/13, value=10393068
+                1  |  intf-name=GigabitEthernet1/0/13, value=10362910
+                1  |  intf-name=GigabitEthernet1/0/13, value=10295428
+                1  |  intf-name=GigabitEthernet1/0/13, value=9327266
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/4, value=3092732
+                1  |  intf-name=GigabitEthernet1/0/4, value=3396080
+                1  |  intf-name=GigabitEthernet1/0/4, value=3387680
+                1  |  intf-name=GigabitEthernet1/0/4, value=3402800
+                1  |  intf-name=GigabitEthernet1/0/4, value=3398320
+                1  |  intf-name=GigabitEthernet1/0/4, value=3394960
+                1  |  intf-name=GigabitEthernet1/0/4, value=3398880
+                1  |  intf-name=GigabitEthernet1/0/4, value=3401568
+                1  |  intf-name=GigabitEthernet1/0/4, value=3393952
+                1  |  intf-name=GigabitEthernet1/0/4, value=3407840
+                1  |  intf-name=GigabitEthernet1/0/4, value=3401008
+                1  |  intf-name=GigabitEthernet1/0/4, value=3393392
+                1  |  intf-name=GigabitEthernet1/0/13, value=9962571
+                1  |  intf-name=GigabitEthernet1/0/13, value=10447852
+                1  |  intf-name=GigabitEthernet1/0/13, value=10419400
+                1  |  intf-name=GigabitEthernet1/0/13, value=10393068
+                1  |  intf-name=GigabitEthernet1/0/13, value=10362910
+                1  |  intf-name=GigabitEthernet1/0/13, value=10295428
+                1  |  intf-name=GigabitEthernet1/0/13, value=9327266
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/4, value=178772
+                1  |  intf-name=GigabitEthernet1/0/4, value=3404480
+                1  |  intf-name=GigabitEthernet1/0/4, value=3396080
+                1  |  intf-name=GigabitEthernet1/0/4, value=3387680
+                1  |  intf-name=GigabitEthernet1/0/4, value=3402800
+                1  |  intf-name=GigabitEthernet1/0/4, value=3398320
+                1  |  intf-name=GigabitEthernet1/0/4, value=3394960
+                1  |  intf-name=GigabitEthernet1/0/4, value=3398880
+                1  |  intf-name=GigabitEthernet1/0/4, value=3401568
+                1  |  intf-name=GigabitEthernet1/0/4, value=3393952
+                1  |  intf-name=GigabitEthernet1/0/4, value=3407840
+                1  |  intf-name=GigabitEthernet1/0/4, value=3401008
+                1  |  intf-name=GigabitEthernet1/0/13, value=897327
+                1  |  intf-name=GigabitEthernet1/0/13, value=10462394
+                1  |  intf-name=GigabitEthernet1/0/13, value=10447852
+                1  |  intf-name=GigabitEthernet1/0/13, value=10419400
+                1  |  intf-name=GigabitEthernet1/0/13, value=10393068
+                1  |  intf-name=GigabitEthernet1/0/13, value=10362910
+                1  |  intf-name=GigabitEthernet1/0/13, value=10295428
+                1  |  intf-name=GigabitEthernet1/0/13, value=9327266
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/4, value=519612
+                1  |  intf-name=GigabitEthernet1/0/4, value=3404480
+                1  |  intf-name=GigabitEthernet1/0/4, value=3396080
+                1  |  intf-name=GigabitEthernet1/0/4, value=3387680
+                1  |  intf-name=GigabitEthernet1/0/4, value=3402800
+                1  |  intf-name=GigabitEthernet1/0/4, value=3398320
+                1  |  intf-name=GigabitEthernet1/0/4, value=3394960
+                1  |  intf-name=GigabitEthernet1/0/4, value=3398880
+                1  |  intf-name=GigabitEthernet1/0/4, value=3401568
+                1  |  intf-name=GigabitEthernet1/0/4, value=3393952
+                1  |  intf-name=GigabitEthernet1/0/4, value=3407840
+                1  |  intf-name=GigabitEthernet1/0/4, value=3401008
+                1  |  intf-name=GigabitEthernet1/0/13, value=1593947
+                1  |  intf-name=GigabitEthernet1/0/13, value=10462394
+                1  |  intf-name=GigabitEthernet1/0/13, value=10447852
+                1  |  intf-name=GigabitEthernet1/0/13, value=10419400
+                1  |  intf-name=GigabitEthernet1/0/13, value=10393068
+                1  |  intf-name=GigabitEthernet1/0/13, value=10362910
+                1  |  intf-name=GigabitEthernet1/0/13, value=10295428
+                1  |  intf-name=GigabitEthernet1/0/13, value=9327266
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+                1  |  intf-name=GigabitEthernet1/0/13, value=0
+
+  cisco.content.poe-port-detail.poe-intf-enabled  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+                1  |  intf-name=GigabitEthernet1/0/4
+                1  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.police  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.post-done  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.power-admin-max  (gauge, 10)
+  ----------------------------------------------------------------------
+               30  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+               30  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+               30  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+               30  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+               30  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.power-consumption  (gauge, 10)
+  ----------------------------------------------------------------------
+             3.98  |  intf-name=GigabitEthernet1/0/4
+            11.62  |  intf-name=GigabitEthernet1/0/13
+             3.75  |  intf-name=GigabitEthernet1/0/4
+            11.62  |  intf-name=GigabitEthernet1/0/13
+             3.75  |  intf-name=GigabitEthernet1/0/4
+            11.62  |  intf-name=GigabitEthernet1/0/13
+             3.75  |  intf-name=GigabitEthernet1/0/4
+            11.62  |  intf-name=GigabitEthernet1/0/13
+             3.98  |  intf-name=GigabitEthernet1/0/4
+            11.68  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.power-denied-counter  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.power-from-pse  (gauge, 10)
+  ----------------------------------------------------------------------
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.power-negotiation-used_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-negotiation-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-negotiation-cdp
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-negotiation-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-negotiation-cdp
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-negotiation-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-negotiation-cdp
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-negotiation-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-negotiation-cdp
+                1  |  intf-name=GigabitEthernet1/0/4, value=power-negotiation-none
+                1  |  intf-name=GigabitEthernet1/0/13, value=power-negotiation-cdp
+
+  cisco.content.poe-port-detail.power-to-pd  (gauge, 10)
+  ----------------------------------------------------------------------
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.power-used  (gauge, 10)
+  ----------------------------------------------------------------------
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+            15.40  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.prot-pd-highest-req-pwr  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+               30  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.prot-req-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=proto-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=proto-in-prog
+                1  |  intf-name=GigabitEthernet1/0/4, value=proto-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=proto-in-prog
+                1  |  intf-name=GigabitEthernet1/0/4, value=proto-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=proto-in-prog
+                1  |  intf-name=GigabitEthernet1/0/4, value=proto-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=proto-in-prog
+                1  |  intf-name=GigabitEthernet1/0/4, value=proto-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=proto-in-prog
+
+  cisco.content.poe-port-detail.pwr-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=pow-dev-fully-powered
+                1  |  intf-name=GigabitEthernet1/0/13, value=pow-dev-fully-powered
+                1  |  intf-name=GigabitEthernet1/0/4, value=pow-dev-fully-powered
+                1  |  intf-name=GigabitEthernet1/0/13, value=pow-dev-fully-powered
+                1  |  intf-name=GigabitEthernet1/0/4, value=pow-dev-fully-powered
+                1  |  intf-name=GigabitEthernet1/0/13, value=pow-dev-fully-powered
+                1  |  intf-name=GigabitEthernet1/0/4, value=pow-dev-fully-powered
+                1  |  intf-name=GigabitEthernet1/0/13, value=pow-dev-fully-powered
+                1  |  intf-name=GigabitEthernet1/0/4, value=pow-dev-fully-powered
+                1  |  intf-name=GigabitEthernet1/0/13, value=pow-dev-fully-powered
+
+  cisco.content.poe-port-detail.short-current-counter  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.signal-pair-data.assigned-pd-class_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-unknown
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-unknown
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-unknown
+
+  cisco.content.poe-port-detail.signal-pair-data.oper-power  (gauge, 10)
+  ----------------------------------------------------------------------
+             3.98  |  intf-name=GigabitEthernet1/0/4
+            11.62  |  intf-name=GigabitEthernet1/0/13
+             3.75  |  intf-name=GigabitEthernet1/0/4
+            11.62  |  intf-name=GigabitEthernet1/0/13
+             3.75  |  intf-name=GigabitEthernet1/0/4
+            11.62  |  intf-name=GigabitEthernet1/0/13
+             3.75  |  intf-name=GigabitEthernet1/0/4
+            11.62  |  intf-name=GigabitEthernet1/0/13
+             3.98  |  intf-name=GigabitEthernet1/0/4
+            11.68  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.signal-pair-data.oper-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=on
+                1  |  intf-name=GigabitEthernet1/0/13, value=on
+                1  |  intf-name=GigabitEthernet1/0/4, value=on
+                1  |  intf-name=GigabitEthernet1/0/13, value=on
+                1  |  intf-name=GigabitEthernet1/0/4, value=on
+                1  |  intf-name=GigabitEthernet1/0/13, value=on
+                1  |  intf-name=GigabitEthernet1/0/4, value=on
+                1  |  intf-name=GigabitEthernet1/0/13, value=on
+                1  |  intf-name=GigabitEthernet1/0/4, value=on
+                1  |  intf-name=GigabitEthernet1/0/13, value=on
+
+  cisco.content.poe-port-detail.signal-pair-data.pd-class_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-ieee4
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-ieee4
+
+  cisco.content.poe-port-detail.signal-pair-data.power-from-pse  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.signal-pair-data.power-to-pd  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.spare-pair-data.assigned-pd-class_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-null
+
+  cisco.content.poe-port-detail.spare-pair-data.oper-power  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.spare-pair-data.oper-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=off
+                1  |  intf-name=GigabitEthernet1/0/13, value=off
+                1  |  intf-name=GigabitEthernet1/0/4, value=off
+                1  |  intf-name=GigabitEthernet1/0/13, value=off
+                1  |  intf-name=GigabitEthernet1/0/4, value=off
+                1  |  intf-name=GigabitEthernet1/0/13, value=off
+                1  |  intf-name=GigabitEthernet1/0/4, value=off
+                1  |  intf-name=GigabitEthernet1/0/13, value=off
+                1  |  intf-name=GigabitEthernet1/0/4, value=off
+                1  |  intf-name=GigabitEthernet1/0/13, value=off
+
+  cisco.content.poe-port-detail.spare-pair-data.pd-class_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/4, value=pd-null
+                1  |  intf-name=GigabitEthernet1/0/13, value=pd-null
+
+  cisco.content.poe-port-detail.spare-pair-data.power-from-pse  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.spare-pair-data.power-to-pd  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-port-detail.upoe-plus-enabled  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+                0  |  intf-name=GigabitEthernet1/0/4
+                0  |  intf-name=GigabitEthernet1/0/13
+
+  cisco.content.poe-stack.alloc-power  (gauge, 10)
+  ----------------------------------------------------------------------
+              510  |  power-stack-name=Powerstack-1
+              280  |  power-stack-name=Powerstack-1
+              510  |  power-stack-name=Powerstack-1
+              280  |  power-stack-name=Powerstack-1
+              510  |  power-stack-name=Powerstack-1
+              280  |  power-stack-name=Powerstack-1
+              510  |  power-stack-name=Powerstack-1
+              280  |  power-stack-name=Powerstack-1
+              510  |  power-stack-name=Powerstack-1
+              280  |  power-stack-name=Powerstack-1
+
+  cisco.content.poe-stack.mode_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  power-stack-name=Powerstack-1, value=stack-mode-sharing
+                1  |  power-stack-name=Powerstack-1, value=stack-mode-sharing
+                1  |  power-stack-name=Powerstack-1, value=stack-mode-sharing
+                1  |  power-stack-name=Powerstack-1, value=stack-mode-sharing
+                1  |  power-stack-name=Powerstack-1, value=stack-mode-sharing
+                1  |  power-stack-name=Powerstack-1, value=stack-mode-sharing
+                1  |  power-stack-name=Powerstack-1, value=stack-mode-sharing
+                1  |  power-stack-name=Powerstack-1, value=stack-mode-sharing
+                1  |  power-stack-name=Powerstack-1, value=stack-mode-sharing
+                1  |  power-stack-name=Powerstack-1, value=stack-mode-sharing
+
+  cisco.content.poe-stack.num-ps  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+
+  cisco.content.poe-stack.num-sw  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+                1  |  power-stack-name=Powerstack-1
+
+  cisco.content.poe-stack.power-stack-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  power-stack-name=Powerstack-1, value=Powerstack-1
+                1  |  power-stack-name=Powerstack-1, value=Powerstack-1
+                1  |  power-stack-name=Powerstack-1, value=Powerstack-1
+                1  |  power-stack-name=Powerstack-1, value=Powerstack-1
+                1  |  power-stack-name=Powerstack-1, value=Powerstack-1
+                1  |  power-stack-name=Powerstack-1, value=Powerstack-1
+                1  |  power-stack-name=Powerstack-1, value=Powerstack-1
+                1  |  power-stack-name=Powerstack-1, value=Powerstack-1
+                1  |  power-stack-name=Powerstack-1, value=Powerstack-1
+                1  |  power-stack-name=Powerstack-1, value=Powerstack-1
+
+  cisco.content.poe-stack.rsvd-power  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  power-stack-name=Powerstack-1
+                0  |  power-stack-name=Powerstack-1
+                0  |  power-stack-name=Powerstack-1
+                0  |  power-stack-name=Powerstack-1
+                0  |  power-stack-name=Powerstack-1
+                0  |  power-stack-name=Powerstack-1
+                0  |  power-stack-name=Powerstack-1
+                0  |  power-stack-name=Powerstack-1
+                0  |  power-stack-name=Powerstack-1
+                0  |  power-stack-name=Powerstack-1
+
+  cisco.content.poe-stack.topolgy_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  power-stack-name=Powerstack-1, value=stack-topo-standalone
+                1  |  power-stack-name=Powerstack-1, value=stack-topo-standalone
+                1  |  power-stack-name=Powerstack-1, value=stack-topo-standalone
+                1  |  power-stack-name=Powerstack-1, value=stack-topo-standalone
+                1  |  power-stack-name=Powerstack-1, value=stack-topo-standalone
+                1  |  power-stack-name=Powerstack-1, value=stack-topo-standalone
+                1  |  power-stack-name=Powerstack-1, value=stack-topo-standalone
+                1  |  power-stack-name=Powerstack-1, value=stack-topo-standalone
+                1  |  power-stack-name=Powerstack-1, value=stack-topo-standalone
+                1  |  power-stack-name=Powerstack-1, value=stack-topo-standalone
+
+  cisco.content.poe-stack.total-power  (gauge, 10)
+  ----------------------------------------------------------------------
+            1,100  |  power-stack-name=Powerstack-1
+              715  |  power-stack-name=Powerstack-1
+            1,100  |  power-stack-name=Powerstack-1
+              715  |  power-stack-name=Powerstack-1
+            1,100  |  power-stack-name=Powerstack-1
+              715  |  power-stack-name=Powerstack-1
+            1,100  |  power-stack-name=Powerstack-1
+              715  |  power-stack-name=Powerstack-1
+            1,100  |  power-stack-name=Powerstack-1
+              715  |  power-stack-name=Powerstack-1
+
+  cisco.content.poe-stack.unused-power  (gauge, 10)
+  ----------------------------------------------------------------------
+              590  |  power-stack-name=Powerstack-1
+              435  |  power-stack-name=Powerstack-1
+              590  |  power-stack-name=Powerstack-1
+              435  |  power-stack-name=Powerstack-1
+              590  |  power-stack-name=Powerstack-1
+              435  |  power-stack-name=Powerstack-1
+              590  |  power-stack-name=Powerstack-1
+              435  |  power-stack-name=Powerstack-1
+              590  |  power-stack-name=Powerstack-1
+              435  |  power-stack-name=Powerstack-1
+
+  cisco.content.poe-switch.allocated-high-power  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+
+  cisco.content.poe-switch.allocated-low-power  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  switch-num=1
+               45  |  switch-num=1
+                0  |  switch-num=1
+               45  |  switch-num=1
+                0  |  switch-num=1
+               45  |  switch-num=1
+                0  |  switch-num=1
+               45  |  switch-num=1
+                0  |  switch-num=1
+               45  |  switch-num=1
+
+  cisco.content.poe-switch.avail-sys-pwr  (gauge, 10)
+  ----------------------------------------------------------------------
+              510  |  switch-num=1
+              280  |  switch-num=1
+              510  |  switch-num=1
+              280  |  switch-num=1
+              510  |  switch-num=1
+              280  |  switch-num=1
+              510  |  switch-num=1
+              280  |  switch-num=1
+              510  |  switch-num=1
+              280  |  switch-num=1
+
+  cisco.content.poe-switch.available-power  (gauge, 10)
+  ----------------------------------------------------------------------
+              590  |  switch-num=1
+              435  |  switch-num=1
+              590  |  switch-num=1
+              435  |  switch-num=1
+              590  |  switch-num=1
+              435  |  switch-num=1
+              590  |  switch-num=1
+              435  |  switch-num=1
+              590  |  switch-num=1
+              435  |  switch-num=1
+
+  cisco.content.poe-switch.consumed-high-power  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+
+  cisco.content.poe-switch.consumed-low-power  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  switch-num=1
+               15  |  switch-num=1
+                0  |  switch-num=1
+               15  |  switch-num=1
+                0  |  switch-num=1
+               15  |  switch-num=1
+                0  |  switch-num=1
+               15  |  switch-num=1
+                0  |  switch-num=1
+               15  |  switch-num=1
+
+  cisco.content.poe-switch.consumed-poe-power  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  switch-num=1
+               15  |  switch-num=1
+                0  |  switch-num=1
+               15  |  switch-num=1
+                0  |  switch-num=1
+               15  |  switch-num=1
+                0  |  switch-num=1
+               15  |  switch-num=1
+                0  |  switch-num=1
+               15  |  switch-num=1
+
+  cisco.content.poe-switch.consumed-switch-power  (gauge, 10)
+  ----------------------------------------------------------------------
+              175  |  switch-num=1
+               68  |  switch-num=1
+              182  |  switch-num=1
+               69  |  switch-num=1
+              170  |  switch-num=1
+               69  |  switch-num=1
+              175  |  switch-num=1
+               68  |  switch-num=1
+              177  |  switch-num=1
+               68  |  switch-num=1
+
+  cisco.content.poe-switch.consumed-system-power  (gauge, 10)
+  ----------------------------------------------------------------------
+              175  |  switch-num=1
+               68  |  switch-num=1
+              182  |  switch-num=1
+               69  |  switch-num=1
+              170  |  switch-num=1
+               69  |  switch-num=1
+              175  |  switch-num=1
+               68  |  switch-num=1
+              177  |  switch-num=1
+               68  |  switch-num=1
+
+  cisco.content.poe-switch.high-port-priority  (gauge, 10)
+  ----------------------------------------------------------------------
+               13  |  switch-num=1
+               13  |  switch-num=1
+               13  |  switch-num=1
+               13  |  switch-num=1
+               13  |  switch-num=1
+               13  |  switch-num=1
+               13  |  switch-num=1
+               13  |  switch-num=1
+               13  |  switch-num=1
+               13  |  switch-num=1
+
+  cisco.content.poe-switch.low-port-priority  (gauge, 10)
+  ----------------------------------------------------------------------
+               22  |  switch-num=1
+               22  |  switch-num=1
+               22  |  switch-num=1
+               22  |  switch-num=1
+               22  |  switch-num=1
+               22  |  switch-num=1
+               22  |  switch-num=1
+               22  |  switch-num=1
+               22  |  switch-num=1
+               22  |  switch-num=1
+
+  cisco.content.poe-switch.neighbor-on-port-one_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+
+  cisco.content.poe-switch.neighbor-on-port-two_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+                1  |  switch-num=1, value=00:00:00:00:00:00
+
+  cisco.content.poe-switch.port-one-status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+
+  cisco.content.poe-switch.port-two-status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+                1  |  switch-num=1, value=stack-port-status-not-connected
+
+  cisco.content.poe-switch.power-allocated  (gauge, 10)
+  ----------------------------------------------------------------------
+              510  |  switch-num=1
+              280  |  switch-num=1
+              510  |  switch-num=1
+              280  |  switch-num=1
+              510  |  switch-num=1
+              280  |  switch-num=1
+              510  |  switch-num=1
+              280  |  switch-num=1
+              510  |  switch-num=1
+              280  |  switch-num=1
+
+  cisco.content.poe-switch.power-budget  (gauge, 10)
+  ----------------------------------------------------------------------
+            1,100  |  switch-num=1
+              715  |  switch-num=1
+            1,100  |  switch-num=1
+              715  |  switch-num=1
+            1,100  |  switch-num=1
+              715  |  switch-num=1
+            1,100  |  switch-num=1
+              715  |  switch-num=1
+            1,100  |  switch-num=1
+              715  |  switch-num=1
+
+  cisco.content.poe-switch.power-stack-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  switch-num=1, value=Powerstack-1
+                1  |  switch-num=1, value=Powerstack-1
+                1  |  switch-num=1, value=Powerstack-1
+                1  |  switch-num=1, value=Powerstack-1
+                1  |  switch-num=1, value=Powerstack-1
+                1  |  switch-num=1, value=Powerstack-1
+                1  |  switch-num=1, value=Powerstack-1
+                1  |  switch-num=1, value=Powerstack-1
+                1  |  switch-num=1, value=Powerstack-1
+                1  |  switch-num=1, value=Powerstack-1
+
+  cisco.content.poe-switch.ps-a  (gauge, 10)
+  ----------------------------------------------------------------------
+            1,100  |  switch-num=1
+                0  |  switch-num=1
+            1,100  |  switch-num=1
+                0  |  switch-num=1
+            1,100  |  switch-num=1
+                0  |  switch-num=1
+            1,100  |  switch-num=1
+                0  |  switch-num=1
+            1,100  |  switch-num=1
+                0  |  switch-num=1
+
+  cisco.content.poe-switch.ps-b  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  switch-num=1
+              715  |  switch-num=1
+                0  |  switch-num=1
+              715  |  switch-num=1
+                0  |  switch-num=1
+              715  |  switch-num=1
+                0  |  switch-num=1
+              715  |  switch-num=1
+                0  |  switch-num=1
+              715  |  switch-num=1
+
+  cisco.content.poe-switch.ps-c  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+                0  |  switch-num=1
+
+  cisco.content.poe-switch.switch-num  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  switch-num=1
+                1  |  switch-num=1
+                1  |  switch-num=1
+                1  |  switch-num=1
+                1  |  switch-num=1
+                1  |  switch-num=1
+                1  |  switch-num=1
+                1  |  switch-num=1
+                1  |  switch-num=1
+                1  |  switch-num=1
+
+  cisco.content.poe-switch.switch-priority  (gauge, 10)
+  ----------------------------------------------------------------------
+                4  |  switch-num=1
+                4  |  switch-num=1
+                4  |  switch-num=1
+                4  |  switch-num=1
+                4  |  switch-num=1
+                4  |  switch-num=1
+                4  |  switch-num=1
+                4  |  switch-num=1
+                4  |  switch-num=1
+                4  |  switch-num=1

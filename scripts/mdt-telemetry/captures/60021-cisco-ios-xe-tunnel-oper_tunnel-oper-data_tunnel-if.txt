@@ -1,0 +1,460 @@
+==========================================================================================
+  Sub 60021: Subscription 60021
+  Folder: 60021-cisco-ios-xe-tunnel-oper_tunnel-oper-data_tunnel-if
+  350 data points from 6 telemetry messages
+==========================================================================================
+
+  cisco.content.admin-status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+
+  cisco.content.dst-addr_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.255.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.255.0.1
+
+  cisco.content.dst-port  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.intf-ipv4_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.200.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.200.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.200.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.200.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.200.0.1
+                1  |  value=10.255.0.1
+
+  cisco.content.intf-vrf_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.ip-mtu  (gauge, 10)
+  ----------------------------------------------------------------------
+            1,486  |  (global)
+            1,494  |  (global)
+            1,486  |  (global)
+            1,494  |  (global)
+            1,486  |  (global)
+            1,494  |  (global)
+            1,486  |  (global)
+            1,494  |  (global)
+            1,486  |  (global)
+            1,494  |  (global)
+
+  cisco.content.ipsec-profile_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.mode_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=tunnel-mode-pim-enc-ipv4
+                1  |  value=tunnel-mode-pim-dec-ipv4
+                1  |  value=tunnel-mode-pim-enc-ipv4
+                1  |  value=tunnel-mode-pim-dec-ipv4
+                1  |  value=tunnel-mode-pim-enc-ipv4
+                1  |  value=tunnel-mode-pim-dec-ipv4
+                1  |  value=tunnel-mode-pim-enc-ipv4
+                1  |  value=tunnel-mode-pim-dec-ipv4
+                1  |  value=tunnel-mode-pim-enc-ipv4
+                1  |  value=tunnel-mode-pim-dec-ipv4
+
+  cisco.content.mtu  (gauge, 10)
+  ----------------------------------------------------------------------
+           17,864  |  (global)
+           17,872  |  (global)
+           17,864  |  (global)
+           17,872  |  (global)
+           17,864  |  (global)
+           17,872  |  (global)
+           17,864  |  (global)
+           17,872  |  (global)
+           17,864  |  (global)
+           17,872  |  (global)
+
+  cisco.content.rx-bandwidth  (gauge, 10)
+  ----------------------------------------------------------------------
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+
+  cisco.content.src-addr_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.200.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.200.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.200.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.200.0.1
+                1  |  value=10.255.0.1
+                1  |  value=10.200.0.1
+                1  |  value=10.255.0.1
+
+  cisco.content.src-if_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+
+  cisco.content.src-port  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.in-broadcast-pkts  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.in-discards  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.in-errors  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.in-multicast-pkts  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.in-octets  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.in-unicast-pkts  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.out-broadcast-pkts  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.out-discards  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.out-errors  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.out-multicast-pkts  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.out-octets  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.out-unicast-pkts  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.rx-kbps  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.rx-pps  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.tx-kbps  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.stats.tx-pps  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+                1  |  value=tunnel-up
+
+  cisco.content.transport-mtu  (gauge, 10)
+  ----------------------------------------------------------------------
+            1,486  |  (global)
+            1,494  |  (global)
+            1,486  |  (global)
+            1,494  |  (global)
+            1,486  |  (global)
+            1,494  |  (global)
+            1,486  |  (global)
+            1,494  |  (global)
+            1,486  |  (global)
+            1,494  |  (global)
+
+  cisco.content.transport-vrf_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.tunnel-key  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.tx-bandwidth  (gauge, 10)
+  ----------------------------------------------------------------------
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+            8,000  |  (global)
+
+  cisco.keys.name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=Tunnel0
+                1  |  value=Tunnel1
+                1  |  value=Tunnel0
+                1  |  value=Tunnel1
+                1  |  value=Tunnel0
+                1  |  value=Tunnel1
+                1  |  value=Tunnel0
+                1  |  value=Tunnel1
+                1  |  value=Tunnel0
+                1  |  value=Tunnel1

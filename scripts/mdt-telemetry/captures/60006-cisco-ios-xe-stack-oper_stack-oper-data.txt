@@ -1,0 +1,599 @@
+==========================================================================================
+  Sub 60006: Subscription 60006
+  Folder: 60006-cisco-ios-xe-stack-oper_stack-oper-data
+  480 data points from 10 telemetry messages
+==========================================================================================
+
+  cisco.content.stack-info.ring-speed  (gauge, 10)
+  ----------------------------------------------------------------------
+              240  |  (global)
+              240  |  (global)
+              240  |  (global)
+              240  |  (global)
+              240  |  (global)
+              240  |  (global)
+              240  |  (global)
+              240  |  (global)
+              240  |  (global)
+              240  |  (global)
+
+  cisco.content.stack-info.ring-status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=standalone
+                1  |  value=standalone
+                1  |  value=standalone
+                1  |  value=standalone
+                1  |  value=standalone
+                1  |  value=standalone
+                1  |  value=standalone
+                1  |  value=standalone
+                1  |  value=standalone
+                1  |  value=standalone
+
+  cisco.content.stack-info.size  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.stack-info.stack-boottime_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-09T04:31:00+00:00
+                1  |  value=2026-04-09T04:28:09+00:00
+                1  |  value=2026-04-09T04:31:00+00:00
+                1  |  value=2026-04-09T04:28:09+00:00
+                1  |  value=2026-04-09T04:31:00+00:00
+                1  |  value=2026-04-09T04:28:09+00:00
+                1  |  value=2026-04-09T04:31:00+00:00
+                1  |  value=2026-04-09T04:28:09+00:00
+                1  |  value=2026-04-09T04:31:00+00:00
+                1  |  value=2026-04-09T04:28:09+00:00
+
+  cisco.content.stack-info.stack-mac-address_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=6c:03:b5:57:74:00
+                1  |  value=70:35:09:57:98:80
+                1  |  value=6c:03:b5:57:74:00
+                1  |  value=70:35:09:57:98:80
+                1  |  value=6c:03:b5:57:74:00
+                1  |  value=70:35:09:57:98:80
+                1  |  value=6c:03:b5:57:74:00
+                1  |  value=70:35:09:57:98:80
+                1  |  value=6c:03:b5:57:74:00
+                1  |  value=70:35:09:57:98:80
+
+  cisco.content.stack-node.chassis-number  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+
+  cisco.content.stack-node.configured-mode_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1, value=stack-mode-config-none
+                1  |  chassis-number=1, value=stack-mode-config-none
+                1  |  chassis-number=1, value=stack-mode-config-none
+                1  |  chassis-number=1, value=stack-mode-config-none
+                1  |  chassis-number=1, value=stack-mode-config-none
+                1  |  chassis-number=1, value=stack-mode-config-none
+                1  |  chassis-number=1, value=stack-mode-config-none
+                1  |  chassis-number=1, value=stack-mode-config-none
+                1  |  chassis-number=1, value=stack-mode-config-none
+                1  |  chassis-number=1, value=stack-mode-config-none
+
+  cisco.content.stack-node.hw-version_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1, value=V02
+                1  |  chassis-number=1, value=V02
+                1  |  chassis-number=1, value=V02
+                1  |  chassis-number=1, value=V02
+                1  |  chassis-number=1, value=V02
+                1  |  chassis-number=1, value=V02
+                1  |  chassis-number=1, value=V02
+                1  |  chassis-number=1, value=V02
+                1  |  chassis-number=1, value=V02
+                1  |  chassis-number=1, value=V02
+
+  cisco.content.stack-node.interface-mtu  (gauge, 10)
+  ----------------------------------------------------------------------
+            1,500  |  chassis-number=1
+            1,500  |  chassis-number=1
+            1,500  |  chassis-number=1
+            1,500  |  chassis-number=1
+            1,500  |  chassis-number=1
+            1,500  |  chassis-number=1
+            1,500  |  chassis-number=1
+            1,500  |  chassis-number=1
+            1,500  |  chassis-number=1
+            1,500  |  chassis-number=1
+
+  cisco.content.stack-node.keepalive-counters.consecutive-losses  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+
+  cisco.content.stack-node.keepalive-counters.receive-failure  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+
+  cisco.content.stack-node.keepalive-counters.received  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+
+  cisco.content.stack-node.keepalive-counters.sent  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+
+  cisco.content.stack-node.keepalive-counters.sent-failure  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+
+  cisco.content.stack-node.latency  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+
+  cisco.content.stack-node.mac-address_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1, value=6c:03:b5:57:74:00
+                1  |  chassis-number=1, value=70:35:09:57:98:80
+                1  |  chassis-number=1, value=6c:03:b5:57:74:00
+                1  |  chassis-number=1, value=70:35:09:57:98:80
+                1  |  chassis-number=1, value=6c:03:b5:57:74:00
+                1  |  chassis-number=1, value=70:35:09:57:98:80
+                1  |  chassis-number=1, value=6c:03:b5:57:74:00
+                1  |  chassis-number=1, value=70:35:09:57:98:80
+                1  |  chassis-number=1, value=6c:03:b5:57:74:00
+                1  |  chassis-number=1, value=70:35:09:57:98:80
+
+  cisco.content.stack-node.mac-persistency-wait-time  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+
+  cisco.content.stack-node.mode-reload-pending  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+
+  cisco.content.stack-node.mode_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1, value=stack-type-stacking
+                1  |  chassis-number=1, value=stack-type-stacking
+                1  |  chassis-number=1, value=stack-type-stacking
+                1  |  chassis-number=1, value=stack-type-stacking
+                1  |  chassis-number=1, value=stack-type-stacking
+                1  |  chassis-number=1, value=stack-type-stacking
+                1  |  chassis-number=1, value=stack-type-stacking
+                1  |  chassis-number=1, value=stack-type-stacking
+                1  |  chassis-number=1, value=stack-type-stacking
+                1  |  chassis-number=1, value=stack-type-stacking
+
+  cisco.content.stack-node.node-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1, value=state-ready
+                1  |  chassis-number=1, value=state-ready
+                1  |  chassis-number=1, value=state-ready
+                1  |  chassis-number=1, value=state-ready
+                1  |  chassis-number=1, value=state-ready
+                1  |  chassis-number=1, value=state-ready
+                1  |  chassis-number=1, value=state-ready
+                1  |  chassis-number=1, value=state-ready
+                1  |  chassis-number=1, value=state-ready
+                1  |  chassis-number=1, value=state-ready
+
+  cisco.content.stack-node.priority  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+                1  |  chassis-number=1
+
+  cisco.content.stack-node.reload-reason_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1, value=Image Install
+                1  |  chassis-number=1, value=Image Install
+                1  |  chassis-number=1, value=Image Install
+                1  |  chassis-number=1, value=Image Install
+                1  |  chassis-number=1, value=Image Install
+                1  |  chassis-number=1, value=Image Install
+                1  |  chassis-number=1, value=Image Install
+                1  |  chassis-number=1, value=Image Install
+                1  |  chassis-number=1, value=Image Install
+                1  |  chassis-number=1, value=Image Install
+
+  cisco.content.stack-node.role_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1, value=role-active
+                1  |  chassis-number=1, value=role-active
+                1  |  chassis-number=1, value=role-active
+                1  |  chassis-number=1, value=role-active
+                1  |  chassis-number=1, value=role-active
+                1  |  chassis-number=1, value=role-active
+                1  |  chassis-number=1, value=role-active
+                1  |  chassis-number=1, value=role-active
+                1  |  chassis-number=1, value=role-active
+                1  |  chassis-number=1, value=role-active
+
+  cisco.content.stack-node.serial-number_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1, value=FOC2727Y72G
+                1  |  chassis-number=1, value=FCW2241AHAT
+                1  |  chassis-number=1, value=FOC2727Y72G
+                1  |  chassis-number=1, value=FCW2241AHAT
+                1  |  chassis-number=1, value=FOC2727Y72G
+                1  |  chassis-number=1, value=FCW2241AHAT
+                1  |  chassis-number=1, value=FOC2727Y72G
+                1  |  chassis-number=1, value=FCW2241AHAT
+                1  |  chassis-number=1, value=FOC2727Y72G
+                1  |  chassis-number=1, value=FCW2241AHAT
+
+  cisco.content.stack-node.sso-ready-flag  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+                0  |  chassis-number=1
+
+  cisco.content.stack-node.stack-bw  (gauge, 10)
+  ----------------------------------------------------------------------
+              480  |  chassis-number=1
+              480  |  chassis-number=1
+              480  |  chassis-number=1
+              480  |  chassis-number=1
+              480  |  chassis-number=1
+              480  |  chassis-number=1
+              480  |  chassis-number=1
+              480  |  chassis-number=1
+              480  |  chassis-number=1
+              480  |  chassis-number=1
+
+  cisco.content.stack-node.stack-mode_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1, value=mode-stackwise-rear
+                1  |  chassis-number=1, value=mode-stackwise-rear
+                1  |  chassis-number=1, value=mode-stackwise-rear
+                1  |  chassis-number=1, value=mode-stackwise-rear
+                1  |  chassis-number=1, value=mode-stackwise-rear
+                1  |  chassis-number=1, value=mode-stackwise-rear
+                1  |  chassis-number=1, value=mode-stackwise-rear
+                1  |  chassis-number=1, value=mode-stackwise-rear
+                1  |  chassis-number=1, value=mode-stackwise-rear
+                1  |  chassis-number=1, value=mode-stackwise-rear
+
+  cisco.content.stack-node.stack-ports.port-num  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1, port-num=1
+                2  |  chassis-number=1, port-num=2
+                1  |  chassis-number=1, port-num=1
+                2  |  chassis-number=1, port-num=2
+                1  |  chassis-number=1, port-num=1
+                2  |  chassis-number=1, port-num=2
+                1  |  chassis-number=1, port-num=1
+                2  |  chassis-number=1, port-num=2
+                1  |  chassis-number=1, port-num=1
+                2  |  chassis-number=1, port-num=2
+                1  |  chassis-number=1, port-num=1
+                2  |  chassis-number=1, port-num=2
+                1  |  chassis-number=1, port-num=1
+                2  |  chassis-number=1, port-num=2
+                1  |  chassis-number=1, port-num=1
+                2  |  chassis-number=1, port-num=2
+                1  |  chassis-number=1, port-num=1
+                2  |  chassis-number=1, port-num=2
+                1  |  chassis-number=1, port-num=1
+                2  |  chassis-number=1, port-num=2
+
+  cisco.content.stack-node.stack-ports.port-state_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1, port-num=1, value=link-no-cable
+                1  |  chassis-number=1, port-num=2, value=link-no-cable
+                1  |  chassis-number=1, port-num=1, value=link-no-cable
+                1  |  chassis-number=1, port-num=2, value=link-no-cable
+                1  |  chassis-number=1, port-num=1, value=link-no-cable
+                1  |  chassis-number=1, port-num=2, value=link-no-cable
+                1  |  chassis-number=1, port-num=1, value=link-no-cable
+                1  |  chassis-number=1, port-num=2, value=link-no-cable
+                1  |  chassis-number=1, port-num=1, value=link-no-cable
+                1  |  chassis-number=1, port-num=2, value=link-no-cable
+                1  |  chassis-number=1, port-num=1, value=link-no-cable
+                1  |  chassis-number=1, port-num=2, value=link-no-cable
+                1  |  chassis-number=1, port-num=1, value=link-no-cable
+                1  |  chassis-number=1, port-num=2, value=link-no-cable
+                1  |  chassis-number=1, port-num=1, value=link-no-cable
+                1  |  chassis-number=1, port-num=2, value=link-no-cable
+                1  |  chassis-number=1, port-num=1, value=link-no-cable
+                1  |  chassis-number=1, port-num=2, value=link-no-cable
+                1  |  chassis-number=1, port-num=1, value=link-no-cable
+                1  |  chassis-number=1, port-num=2, value=link-no-cable
+
+  cisco.content.stack-node.stack-ports.sp-stats-time_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1, port-num=1, value=2026-04-20T19:43:52.793134+00:00
+                1  |  chassis-number=1, port-num=2, value=2026-04-20T19:43:52.793134+00:00
+                1  |  chassis-number=1, port-num=1, value=2026-04-20T19:43:25.073844+00:00
+                1  |  chassis-number=1, port-num=2, value=2026-04-20T19:43:25.073844+00:00
+                1  |  chassis-number=1, port-num=1, value=2026-04-20T19:44:52.798028+00:00
+                1  |  chassis-number=1, port-num=2, value=2026-04-20T19:44:52.798028+00:00
+                1  |  chassis-number=1, port-num=1, value=2026-04-20T19:44:25.075457+00:00
+                1  |  chassis-number=1, port-num=2, value=2026-04-20T19:44:25.075457+00:00
+                1  |  chassis-number=1, port-num=1, value=2026-04-20T19:45:52.805792+00:00
+                1  |  chassis-number=1, port-num=2, value=2026-04-20T19:45:52.805792+00:00
+                1  |  chassis-number=1, port-num=1, value=2026-04-20T19:45:25.076699+00:00
+                1  |  chassis-number=1, port-num=2, value=2026-04-20T19:45:25.076699+00:00
+                1  |  chassis-number=1, port-num=1, value=2026-04-20T19:46:52.809668+00:00
+                1  |  chassis-number=1, port-num=2, value=2026-04-20T19:46:52.809668+00:00
+                1  |  chassis-number=1, port-num=1, value=2026-04-20T19:46:25.078511+00:00
+                1  |  chassis-number=1, port-num=2, value=2026-04-20T19:46:25.078511+00:00
+                1  |  chassis-number=1, port-num=1, value=2026-04-20T19:47:52.817296+00:00
+                1  |  chassis-number=1, port-num=2, value=2026-04-20T19:47:52.817296+00:00
+                1  |  chassis-number=1, port-num=1, value=2026-04-20T19:47:25.081960+00:00
+                1  |  chassis-number=1, port-num=2, value=2026-04-20T19:47:25.081960+00:00
+
+  cisco.content.stack-node.stack-ports.sp-stats.rac-copied  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+
+  cisco.content.stack-node.stack-ports.sp-stats.rac-data-crc-err  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+
+  cisco.content.stack-node.stack-ports.sp-stats.rac-inserted  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+
+  cisco.content.stack-node.stack-ports.sp-stats.rac-invalid-ringword-err  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+
+  cisco.content.stack-node.stack-ports.sp-stats.rac-pcs-codeword-err  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+
+  cisco.content.stack-node.stack-ports.sp-stats.rac-rwcrc-err  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+
+  cisco.content.stack-node.stack-ports.switch-nbr-port  (gauge, 20)
+  ----------------------------------------------------------------------
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+                0  |  chassis-number=1, port-num=1
+                0  |  chassis-number=1, port-num=2
+
+  cisco.content.stack-node.topology_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  chassis-number=1, value=stack-type-n-plus-one
+                1  |  chassis-number=1, value=stack-type-n-plus-one
+                1  |  chassis-number=1, value=stack-type-n-plus-one
+                1  |  chassis-number=1, value=stack-type-n-plus-one
+                1  |  chassis-number=1, value=stack-type-n-plus-one
+                1  |  chassis-number=1, value=stack-type-n-plus-one
+                1  |  chassis-number=1, value=stack-type-n-plus-one
+                1  |  chassis-number=1, value=stack-type-n-plus-one
+                1  |  chassis-number=1, value=stack-type-n-plus-one
+                1  |  chassis-number=1, value=stack-type-n-plus-one

@@ -1,0 +1,176 @@
+==========================================================================================
+  Sub 50029: Subscription 50029
+  Folder: 50029-cisco-ios-xe-ip-arp-oper_ip-arp-oper-data_ni-ip-arp_ip-arp-e
+  144 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.enc-type_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+                1  |  value=ios-encaps-type-arpa
+
+  cisco.content.hw-addr_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=bc:24:11:83:32:2d
+                1  |  value=6c:03:b5:57:74:65
+                1  |  value=70:35:09:57:98:e5
+                1  |  value=6c:03:b5:57:74:62
+                1  |  value=00:00:0c:9f:f0:c9
+                1  |  value=6c:03:b5:57:74:4c
+                1  |  value=00:00:5e:00:01:ca
+                1  |  value=6c:03:b5:57:74:42
+                1  |  value=bc:24:11:83:32:2d
+                1  |  value=6c:03:b5:57:74:65
+                1  |  value=70:35:09:57:98:e5
+                1  |  value=70:35:09:57:98:e2
+                1  |  value=00:00:0c:9f:f0:c9
+                1  |  value=70:35:09:57:98:cc
+                1  |  value=00:00:5e:00:01:ca
+                1  |  value=70:35:09:57:98:c2
+
+  cisco.content.hw-type_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+                1  |  value=ios-snpa-type-ieee48
+
+  cisco.content.mode_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=ip-arp-mode-dyn
+                1  |  value=ip-arp-mode-if
+                1  |  value=ip-arp-mode-dyn
+                1  |  value=ip-arp-mode-if
+                1  |  value=ip-arp-mode-app-alias
+                1  |  value=ip-arp-mode-if
+                1  |  value=ip-arp-mode-app-alias
+                1  |  value=ip-arp-mode-if
+                1  |  value=ip-arp-mode-dyn
+                1  |  value=ip-arp-mode-dyn
+                1  |  value=ip-arp-mode-if
+                1  |  value=ip-arp-mode-if
+                1  |  value=ip-arp-mode-app-alias
+                1  |  value=ip-arp-mode-if
+                1  |  value=ip-arp-mode-app-alias
+                1  |  value=ip-arp-mode-if
+
+  cisco.content.type_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+                1  |  value=ios-linktype-ip
+
+  cisco.content.update-time_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-17T14:44:29.953000+00:00
+                1  |  value=2026-04-13T21:19:50.929000+00:00
+                1  |  value=2026-04-14T02:08:47+00:00
+                1  |  value=2026-04-19T08:49:49.980000+00:00
+                1  |  value=2026-04-19T08:50:54.985000+00:00
+                1  |  value=2026-04-19T08:49:53.983000+00:00
+                1  |  value=2026-04-19T09:16:12.905000+00:00
+                1  |  value=2026-04-19T08:49:54.968000+00:00
+                1  |  value=2026-04-17T14:43:58.964000+00:00
+                1  |  value=2026-04-14T06:06:53.968000+00:00
+                1  |  value=2026-04-09T04:28:31.865000+00:00
+                1  |  value=2026-04-19T08:49:31.915000+00:00
+                1  |  value=2026-04-19T08:50:35.939000+00:00
+                1  |  value=2026-04-19T08:49:36.968000+00:00
+                1  |  value=2026-04-19T09:15:54.969000+00:00
+                1  |  value=2026-04-19T08:49:37.980000+00:00
+
+  cisco.keys.addr_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.200.0.1
+                1  |  value=10.201.0.1
+                1  |  value=10.201.0.2
+                1  |  value=10.202.0.1
+                1  |  value=10.202.0.2
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.200.0.2
+                1  |  value=10.201.0.1
+                1  |  value=10.201.0.3
+                1  |  value=10.202.0.1
+                1  |  value=10.202.0.3
+
+  cisco.keys.if-name_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Vlan201
+                1  |  value=Vlan201
+                1  |  value=Vlan202
+                1  |  value=Vlan202
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Vlan201
+                1  |  value=Vlan201
+                1  |  value=Vlan202
+                1  |  value=Vlan202
+
+  cisco.keys.ni-name_info  (gauge, 16)
+  ----------------------------------------------------------------------
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default

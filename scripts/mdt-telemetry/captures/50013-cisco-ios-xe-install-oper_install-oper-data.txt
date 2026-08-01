@@ -1,0 +1,1337 @@
+==========================================================================================
+  Sub 50013: Subscription 50013
+  Folder: 50013-cisco-ios-xe-install-oper_install-oper-data
+  1113 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.install-location-information.bay  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.install-location-information.chassis  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.install-location-information.fru_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fru-rp
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fru-rp
+
+  cisco.content.install-location-information.install-packages.cisco-image-name_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k_iosxe.26.01.01.SPA.bin
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k_iosxe.26.01.01.SPA.bin
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-sipspa.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-espbase.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-sipbase.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.26.01.01.SPA.pkg
+
+  cisco.content.install-location-information.install-packages.ios-dir_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=flash:
+
+  cisco.content.install-location-information.install-packages.pkg-action_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-action-none
+
+  cisco.content.install-location-information.install-packages.pkg-data.checksum_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=3ed4177abf08e6fdf9f89f5e95fb8411e1a02d8b
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=6e7fb1a8246c7a661b588c4cb7cfeac8f24e4365
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cb3077c4054fb4ddf99cba420db794bd207ec236
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=5fbb433d56d1db420a1253630f53bdba1710911d
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=9e55f4273f370d818b6141c677477068debb997d
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=4ad123719fee0b633baca99744d2da6c646ae540
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1943cf9083efd9d65dd73671449457c49d070cfe
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=db3f87427990d1b18b198525df94d212a19aa5f2
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=3ed4177abf08e6fdf9f89f5e95fb8411e1a02d8b
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=6e7fb1a8246c7a661b588c4cb7cfeac8f24e4365
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cb3077c4054fb4ddf99cba420db794bd207ec236
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=5fbb433d56d1db420a1253630f53bdba1710911d
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=9e55f4273f370d818b6141c677477068debb997d
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=4ad123719fee0b633baca99744d2da6c646ae540
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1943cf9083efd9d65dd73671449457c49d070cfe
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=db3f87427990d1b18b198525df94d212a19aa5f2
+
+  cisco.content.install-location-information.install-packages.pkg-data.img-attr.header-package-type_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-rp-super
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-rp-super
+
+  cisco.content.install-location-information.install-packages.pkg-data.img-attr.header-size  (gauge, 2)
+  ----------------------------------------------------------------------
+            1,032  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,032  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.install-location-information.install-packages.pkg-data.img-attr.pkg-info-data.common-data.generic-info.build-name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+
+  cisco.content.install-location-information.install-packages.pkg-data.img-attr.pkg-info-data.common-data.generic-info.build-time_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+
+  cisco.content.install-location-information.install-packages.pkg-data.img-attr.pkg-info-data.common-data.generic-info.installer-ver_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+
+  cisco.content.install-location-information.install-packages.pkg-data.img-attr.pkg-info-data.common-data.generic-info.name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rp_super
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rp_super
+
+  cisco.content.install-location-information.install-packages.pkg-data.img-attr.pkg-info-data.common-data.generic-info.package-name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=universalk9
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=universalk9
+
+  cisco.content.install-location-information.install-packages.pkg-data.img-attr.pkg-info-data.common-data.generic-info.release-date_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+
+  cisco.content.install-location-information.install-packages.pkg-data.img-attr.pkg-info-data.common-data.generic-info.user-name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+
+  cisco.content.install-location-information.install-packages.pkg-data.img-attr.timestamp_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T02:53:02+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:13:40+00:00
+
+  cisco.content.install-location-information.install-packages.pkg-data.pkg-attr.header-package-type_info  (gauge, 14)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-invalid
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-invalid
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-invalid
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-rp-daemons
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-invalid
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-invalid
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-cc-spawma
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-invalid
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-invalid
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-invalid
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-rp-daemons
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-invalid
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-invalid
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-header-package-type-cc-spawma
+
+  cisco.content.install-location-information.install-packages.pkg-data.pkg-attr.header-size  (gauge, 14)
+  ----------------------------------------------------------------------
+            1,024  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,024  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,024  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,024  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,028  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,028  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,032  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,024  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,024  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,024  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,024  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,028  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,028  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            1,032  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.install-location-information.install-packages.pkg-data.pkg-attr.pkg-info-data.common-data.generic-info.build-name_info  (gauge, 14)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01
+
+  cisco.content.install-location-information.install-packages.pkg-data.pkg-attr.pkg-info-data.common-data.generic-info.build-time_info  (gauge, 14)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T07:11:00+00:00
+
+  cisco.content.install-location-information.install-packages.pkg-data.pkg-attr.pkg-info-data.common-data.generic-info.installer-ver_info  (gauge, 14)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1.0.0
+
+  cisco.content.install-location-information.install-packages.pkg-data.pkg-attr.pkg-info-data.common-data.generic-info.name_info  (gauge, 14)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fp_lni_optional
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rp_wlc_optional
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rp_webui
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rp_base
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=srdriver
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=guestshell
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cc_srdriver
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fp_lni_optional
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rp_wlc_optional
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rp_webui
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rp_base
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=srdriver
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=guestshell
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cc_srdriver
+
+  cisco.content.install-location-information.install-packages.pkg-data.pkg-attr.pkg-info-data.common-data.generic-info.package-name_info  (gauge, 14)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=lni
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=wlc
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=webui
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rpbase
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=srdriver
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=guestshell
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cc_srdriver
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=lni
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=wlc
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=webui
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rpbase
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=srdriver
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=guestshell
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cc_srdriver
+
+  cisco.content.install-location-information.install-packages.pkg-data.pkg-attr.pkg-info-data.common-data.generic-info.release-date_info  (gauge, 14)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-02T06:38:00+00:00
+
+  cisco.content.install-location-information.install-packages.pkg-data.pkg-attr.pkg-info-data.common-data.generic-info.user-name_info  (gauge, 14)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=mcpre
+
+  cisco.content.install-location-information.install-packages.pkg-data.pkg-attr.timestamp_info  (gauge, 14)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:11+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:12+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:12+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:11+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:12+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:12+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:11+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+
+  cisco.content.install-location-information.install-packages.pkg-data.pkg-name_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k_iosxe.26.01.01.SPA.bin
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k_iosxe.26.01.01.SPA.bin
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-sipspa.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-espbase.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-sipbase.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.26.01.01.SPA.pkg
+
+  cisco.content.install-location-information.install-packages.pkg-data.pkg-size  (gauge, 37)
+  ----------------------------------------------------------------------
+            9,216  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            9,216  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            9,216  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            9,216  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       20,386,816  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       20,124,672  |  bay=0, chassis=1, fru=fru-rp, slot=0
+    1,260,613,875  |  bay=0, chassis=1, fru=fru-rp, slot=0
+    1,093,157,888  |  bay=0, chassis=1, fru=fru-rp, slot=0
+    1,103,008,768  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       66,933,861  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       67,951,851  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       40,907,780  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       41,812,996  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        1,963,012  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        1,954,820  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       25,199,624  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       26,440,712  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            9,220  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            9,216  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            9,220  |  bay=0, chassis=1, fru=fru-rp, slot=0
+            9,216  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       18,924,548  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       20,124,672  |  bay=0, chassis=1, fru=fru-rp, slot=0
+    1,260,613,875  |  bay=0, chassis=1, fru=fru-rp, slot=0
+      822,948,868  |  bay=0, chassis=1, fru=fru-rp, slot=0
+    1,103,008,768  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       53,967,960  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       67,951,851  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       66,028,548  |  bay=0, chassis=1, fru=fru-rp, slot=0
+      174,752,776  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       51,856,392  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       44,758,024  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       41,812,996  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        2,159,624  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        1,954,820  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       28,726,284  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       26,440,712  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.install-location-information.install-packages.pkg-data.timestamp_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-02-16T02:18:27+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:11+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-02-16T02:18:27+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:12+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-02-16T02:18:27+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:12+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T02:53:02+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-02-16T02:18:27+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:11+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-02-16T02:18:27+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:12+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-02-16T02:18:27+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:12+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-02-16T02:18:27+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:12+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-02-16T02:18:27+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:29:11+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-13T00:38:35+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-13T00:38:35+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-13T00:38:35+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:13:40+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-13T00:38:35+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-13T00:38:35+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-13T00:38:35+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-13T00:38:35+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-13T00:38:35+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-13T00:38:35+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-13T00:38:35+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-13T00:38:35+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:15:31+00:00
+
+  cisco.content.install-location-information.install-packages.pkg-data.verify-status_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-not-done
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-not-done
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-not-done
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-not-done
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-deferred
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-package-verify-ok
+
+  cisco.content.install-location-information.install-packages.pkg-data.version_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.02.0.4112.1766116039..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.02.0.4112.1766116039..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.02.0.4112.1766116039..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.02.0.4112.1766116039..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.02.0.4112.1766116039..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.02.0.4112.1766116039..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.02.0.4112.1766116039..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.02.0.4112.1766116039..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836.1758214307..Cupertino
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836.1758214307..Cupertino
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836.1758214307..Cupertino
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836.1758214307..Cupertino
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836.1758214307..Cupertino
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836.1758214307..Cupertino
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836.1758214307..Cupertino
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836.1758214307..Cupertino
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836.1758214307..Cupertino
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836.1758214307..Cupertino
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836.1758214307..Cupertino
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329.1775085094..IOSXE
+
+  cisco.content.install-location-information.install-packages.pkg-dir_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+
+  cisco.content.install-location-information.install-packages.pkg-name_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k_iosxe.26.01.01.SPA.bin
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k_iosxe.26.01.01.SPA.bin
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-sipspa.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-espbase.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-sipbase.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.26.01.01.SPA.pkg
+
+  cisco.content.install-location-information.install-profile.descr_info  (gauge, 27)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 1
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 2
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 3
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 4
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 5
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 6
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 7
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 8
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 9
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 10
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 11
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 12
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 13
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 14
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 15
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 16
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Last Committed Rollback Point
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 1
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 2
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 3
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 4
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 5
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 6
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 7
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 8
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Rollback Point 9
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Profile for Last Committed Rollback Point
+
+  cisco.content.install-location-information.install-profile.name_info  (gauge, 27)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_1
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_2
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_3
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_4
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_5
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_6
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_7
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_8
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_9
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_10
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_11
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_12
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_13
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_14
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_15
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_16
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_1
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_2
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_3
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_4
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_5
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_6
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_7
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_8
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_9
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=rollback_pt_committed
+
+  cisco.content.install-location-information.install-profile.rbk-profile-info.rbk-id  (gauge, 27)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                7  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                8  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                9  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               10  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               11  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               12  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               13  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               14  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               15  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               16  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               15  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                7  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                8  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                9  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                8  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.install-location-information.install-rbk-info.base-version.version-extension_info  (gauge, 27)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1721753292
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1754452555
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1742971872
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1754452555
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1742971872
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1723440522
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1754452555
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1758214307
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1754452555
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1758214307
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1723440522
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1754452555
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1757500764
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1754452555
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1758214307
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1766116039
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1775085094
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1721753292
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1754452555
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1742971872
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1721753292
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1754452555
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1614202916
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1756620733
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1754452555
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1758214307
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1775085094
+
+  cisco.content.install-location-information.install-rbk-info.base-version.version_info  (gauge, 27)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.12.04.0.4826
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.01.0.163
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.15.03.0.5635
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.01.0.163
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.15.03.0.5635
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.15.01.0.126
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.01.0.163
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.01.0.163
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.15.01.0.126
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.01.0.163
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.15.04b.0.10
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.01.0.163
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.02.0.4112
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.12.04.0.4826
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.01.0.163
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.15.03.0.5635
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.12.04.0.4826
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.01.0.163
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=16.6.9.0.4765
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.12.06.0.7364
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.01.0.163
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329
+
+  cisco.content.install-location-information.install-rbk-info.boot-mode_info  (gauge, 27)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-bundle
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-bundle
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-mode-install
+
+  cisco.content.install-location-information.install-rbk-info.date-created_info  (gauge, 27)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-02-06T21:10:28+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-10-23T19:53:41+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-11-25T02:05:10+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-11-25T17:27:39+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-08T19:21:12+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-08T20:30:58+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-08T21:07:10+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-10T01:14:01+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-10T16:38:36+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-10T18:48:30+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-10T19:44:20+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-10T20:44:50+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-12T04:55:34+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-12T05:20:53+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-12T05:46:10+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-02-16T02:20:18+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:26:48+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-02-06T21:10:05+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-10-23T19:55:27+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-11-25T20:03:49+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-11-25T20:43:39+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-10T16:50:50+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-10T18:28:29+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-10T20:09:32+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-10T21:31:46+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2025-12-13T00:30:57+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:18:11+00:00
+
+  cisco.content.install-location-information.install-rbk-info.is-valid  (gauge, 27)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.install-location-information.install-rbk-info.pkg-commit-type_info  (gauge, 27)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+
+  cisco.content.install-location-information.install-rbk-info.rbk-id  (gauge, 27)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                7  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                8  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                9  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               10  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               11  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               12  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               13  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               14  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               15  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               16  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                7  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                8  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                9  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.install-location-information.install-rbk-info.rbk-label_info  (gauge, 27)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Golden_image
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Golden_image
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+
+  cisco.content.install-location-information.install-rbk-info.reload-required  (gauge, 27)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.install-location-information.install-version-info.cisco-image-name_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k_iosxe.26.01.01.SPA.bin
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k_iosxe.26.01.01.SPA.bin
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k_iosxe.17.09.08.SPA.bin
+
+  cisco.content.install-location-information.install-version-info.commit-type_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-commit-user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-commit-pend
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-commit-user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-commit-pend
+
+  cisco.content.install-location-information.install-version-info.ctrl-ver_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+
+  cisco.content.install-location-information.install-version-info.current_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-version-state-provisioned-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-version-state-present
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-version-state-provisioned-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-version-state-present
+
+  cisco.content.install-location-information.install-version-info.install-package-state-info.package-state_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-state-new
+
+  cisco.content.install-location-information.install-version-info.install-package-state-info.package-type_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-img
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-pkg-pkg
+
+  cisco.content.install-location-information.install-version-info.install-package-state-info.pkg-dir_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user
+
+  cisco.content.install-location-information.install-version-info.install-package-state-info.pkg-name_info  (gauge, 37)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k_iosxe.26.01.01.SPA.bin
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.17.18.02.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k_iosxe.26.01.01.SPA.bin
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.26.01.01.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-lni.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-wlc.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-webui.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpbase.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-rpboot.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-sipspa.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-espbase.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-sipbase.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-srdriver.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-guestshell.17.09.08.SPA.pkg
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=cat9k-cc_srdriver.17.09.08.SPA.pkg
+
+  cisco.content.install-location-information.install-version-info.is-default  (gauge, 4)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.install-location-information.install-version-info.previous_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-version-state-present
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-version-state-present
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-version-state-present
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-version-state-present
+
+  cisco.content.install-location-information.install-version-info.src-checksum_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=5fbb433d56d1db420a1253630f53bdba1710911d
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=5fbb433d56d1db420a1253630f53bdba1710911d
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=64d37d6ee6a8970d84d27902f024897288b03de9
+
+  cisco.content.install-location-information.install-version-info.src-filename_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user/cat9k_iosxe.26.01.01.SPA.bin
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user/cat9k_iosxe.26.01.01.SPA.bin
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=/mnt/sd3/user/cat9k_iosxe.17.09.08.SPA.bin
+
+  cisco.content.install-location-information.install-version-info.timestamp_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:30:58.719020+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:31:25.491216+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:28:07.595211+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=2026-04-09T04:28:37.001937+00:00
+
+  cisco.content.install-location-information.install-version-info.version-extension_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1775085094
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1766116039
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1775085094
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1758214307
+
+  cisco.content.install-location-information.install-version-info.version_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.18.02.0.4112
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=17.09.08.0.8836
+
+  cisco.content.install-location-information.install-version-state-info.version-extension_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1775085094
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=1775085094
+
+  cisco.content.install-location-information.install-version-state-info.version-state_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-version-state-provisioned-committed
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-version-state-provisioned-committed
+
+  cisco.content.install-location-information.install-version-state-info.version_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=26.01.01.0.329
+
+  cisco.content.install-location-information.issu-oper-state.issu-cap_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-issu-not-supported
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-issu-not-supported
+
+  cisco.content.install-location-information.oper-state.added-profile_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=
+
+  cisco.content.install-location-information.oper-state.auto-abort-timer.state_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-timer-state-inactive
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-timer-state-inactive
+
+  cisco.content.install-location-information.oper-state.boot-mode_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-boot-mode-install
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-boot-mode-install
+
+  cisco.content.install-location-information.oper-state.ctrl-mode  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.install-location-information.oper-state.op-mode_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=iom-none
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=iom-none
+
+  cisco.content.install-location-information.oper-state.sso-state  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.install-location-information.oper-state.sys-activity_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-no-activity
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=install-no-activity
+
+  cisco.content.install-location-information.slot  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0

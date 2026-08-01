@@ -1,0 +1,824 @@
+==========================================================================================
+  Sub 60017: Subscription 60017
+  Folder: 60017-cisco-ios-xe-bgp-nbr-oper_bgp-nbr-oper-data
+  630 data points from 10 telemetry messages
+==========================================================================================
+
+  cisco.content.bgp-nbr-cntrs.af_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+
+  cisco.content.bgp-nbr-cntrs.conn-cntrs.last-reset_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-09T04:29:06.036000+00:00
+                1  |  value=2026-04-09T04:26:33.841000+00:00
+                1  |  value=2026-04-09T04:29:06.239000+00:00
+                1  |  value=2026-04-09T04:26:33.689000+00:00
+                1  |  value=2026-04-09T04:29:06.102000+00:00
+                1  |  value=2026-04-09T04:26:33.884000+00:00
+                1  |  value=2026-04-09T04:29:06.831000+00:00
+                1  |  value=2026-04-09T04:26:33.625000+00:00
+                1  |  value=2026-04-09T04:29:06.049000+00:00
+                1  |  value=2026-04-09T04:26:33.481000+00:00
+
+  cisco.content.bgp-nbr-cntrs.conn-cntrs.reset-reason_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=brs-never-reset
+                1  |  value=brs-never-reset
+                1  |  value=brs-never-reset
+                1  |  value=brs-never-reset
+                1  |  value=brs-never-reset
+                1  |  value=brs-never-reset
+                1  |  value=brs-never-reset
+                1  |  value=brs-never-reset
+                1  |  value=brs-never-reset
+                1  |  value=brs-never-reset
+
+  cisco.content.bgp-nbr-cntrs.conn-cntrs.total-dropped  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.conn-cntrs.total-est  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.if-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.bgp-nbr-cntrs.inq-dep  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.inst-prfx  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.ip_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+
+  cisco.content.bgp-nbr-cntrs.last-read_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-20T19:42:43.126000+00:00
+                1  |  value=2026-04-20T19:42:30.986000+00:00
+                1  |  value=2026-04-20T19:44:34.954000+00:00
+                1  |  value=2026-04-20T19:43:22.037000+00:00
+                1  |  value=2026-04-20T19:45:32.163000+00:00
+                1  |  value=2026-04-20T19:45:13.856000+00:00
+                1  |  value=2026-04-20T19:46:24.095000+00:00
+                1  |  value=2026-04-20T19:46:03.778000+00:00
+                1  |  value=2026-04-20T19:47:18.614000+00:00
+                1  |  value=2026-04-20T19:46:55.865000+00:00
+
+  cisco.content.bgp-nbr-cntrs.last-write_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-20T19:43:01.107000+00:00
+                1  |  value=2026-04-20T19:43:12.400000+00:00
+                1  |  value=2026-04-20T19:44:44.742000+00:00
+                1  |  value=2026-04-20T19:44:04.477000+00:00
+                1  |  value=2026-04-20T19:44:44.605000+00:00
+                1  |  value=2026-04-20T19:45:02.018000+00:00
+                1  |  value=2026-04-20T19:46:34.910000+00:00
+                1  |  value=2026-04-20T19:45:52.962000+00:00
+                1  |  value=2026-04-20T19:47:26.359000+00:00
+                1  |  value=2026-04-20T19:46:48.120000+00:00
+
+  cisco.content.bgp-nbr-cntrs.ni-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+
+  cisco.content.bgp-nbr-cntrs.ni-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+
+  cisco.content.bgp-nbr-cntrs.outq-dep  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.prfx-act.rcvd.acc-prfx  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.prfx-act.rcvd.bpath  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.prfx-act.rcvd.cur-prfx  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.prfx-act.rcvd.exp-with  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.prfx-act.rcvd.imp-with  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.prfx-act.rcvd.mpath  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.prfx-act.sent.acc-prfx  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.prfx-act.sent.bpath  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.prfx-act.sent.cur-prfx  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.prfx-act.sent.exp-with  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.prfx-act.sent.imp-with  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.prfx-act.sent.mpath  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.rcvd.keepalives  (gauge, 10)
+  ----------------------------------------------------------------------
+            2,286  |  (global)
+            2,280  |  (global)
+            2,288  |  (global)
+            2,281  |  (global)
+            2,289  |  (global)
+            2,283  |  (global)
+            2,290  |  (global)
+            2,284  |  (global)
+            2,291  |  (global)
+            2,285  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.rcvd.notifs  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.rcvd.opens  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.rcvd.route-refreshes  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.rcvd.updates  (gauge, 10)
+  ----------------------------------------------------------------------
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.sent.keepalives  (gauge, 10)
+  ----------------------------------------------------------------------
+            2,280  |  (global)
+            2,287  |  (global)
+            2,282  |  (global)
+            2,288  |  (global)
+            2,282  |  (global)
+            2,289  |  (global)
+            2,284  |  (global)
+            2,290  |  (global)
+            2,285  |  (global)
+            2,291  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.sent.notifs  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.sent.opens  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.sent.route-refreshes  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.sent.updates  (gauge, 10)
+  ----------------------------------------------------------------------
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+                2  |  (global)
+
+  cisco.content.bgp-nbr-cntrs.up-time_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-19T09:11:31.417000+00:00
+                1  |  value=2026-04-19T09:11:01.313000+00:00
+                1  |  value=2026-04-19T09:11:31.620000+00:00
+                1  |  value=2026-04-19T09:11:01.161000+00:00
+                1  |  value=2026-04-19T09:11:31.483000+00:00
+                1  |  value=2026-04-19T09:11:01.356000+00:00
+                1  |  value=2026-04-19T09:11:32.213000+00:00
+                1  |  value=2026-04-19T09:11:01.097000+00:00
+                1  |  value=2026-04-19T09:11:31.430000+00:00
+                1  |  value=2026-04-19T09:11:00.953000+00:00
+
+  cisco.content.bgp-nbr-data.af_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+                1  |  value=af-ipv4-unicast
+
+  cisco.content.bgp-nbr-data.as  (gauge, 10)
+  ----------------------------------------------------------------------
+           65,002  |  (global)
+           65,001  |  (global)
+           65,002  |  (global)
+           65,001  |  (global)
+           65,002  |  (global)
+           65,001  |  (global)
+           65,002  |  (global)
+           65,001  |  (global)
+           65,002  |  (global)
+           65,001  |  (global)
+
+  cisco.content.bgp-nbr-data.conn.mode_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=mode-active
+                1  |  value=mode-active
+                1  |  value=mode-active
+                1  |  value=mode-active
+                1  |  value=mode-active
+                1  |  value=mode-active
+                1  |  value=mode-active
+                1  |  value=mode-active
+                1  |  value=mode-active
+                1  |  value=mode-active
+
+  cisco.content.bgp-nbr-data.conn.state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=bgp-tcp-est
+                1  |  value=bgp-tcp-est
+                1  |  value=bgp-tcp-est
+                1  |  value=bgp-tcp-est
+                1  |  value=bgp-tcp-est
+                1  |  value=bgp-tcp-est
+                1  |  value=bgp-tcp-est
+                1  |  value=bgp-tcp-est
+                1  |  value=bgp-tcp-est
+                1  |  value=bgp-tcp-est
+
+  cisco.content.bgp-nbr-data.desc_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.bgp-nbr-data.dyn-conf  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-data.encaps-pref_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=encaps-any
+                1  |  value=encaps-any
+                1  |  value=encaps-any
+                1  |  value=encaps-any
+                1  |  value=encaps-any
+                1  |  value=encaps-any
+                1  |  value=encaps-any
+                1  |  value=encaps-any
+                1  |  value=encaps-any
+                1  |  value=encaps-any
+
+  cisco.content.bgp-nbr-data.if-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.bgp-nbr-data.ip_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+
+  cisco.content.bgp-nbr-data.link_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=link-ext
+                1  |  value=link-ext
+                1  |  value=link-ext
+                1  |  value=link-ext
+                1  |  value=link-ext
+                1  |  value=link-ext
+                1  |  value=link-ext
+                1  |  value=link-ext
+                1  |  value=link-ext
+                1  |  value=link-ext
+
+  cisco.content.bgp-nbr-data.ni-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+
+  cisco.content.bgp-nbr-data.ni-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+                1  |  value=net-inst-default
+
+  cisco.content.bgp-nbr-data.session_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=fsm-est
+                1  |  value=fsm-est
+                1  |  value=fsm-est
+                1  |  value=fsm-est
+                1  |  value=fsm-est
+                1  |  value=fsm-est
+                1  |  value=fsm-est
+                1  |  value=fsm-est
+                1  |  value=fsm-est
+                1  |  value=fsm-est
+
+  cisco.content.bgp-nbr-data.timers.hold-time  (gauge, 10)
+  ----------------------------------------------------------------------
+              180  |  (global)
+              180  |  (global)
+              180  |  (global)
+              180  |  (global)
+              180  |  (global)
+              180  |  (global)
+              180  |  (global)
+              180  |  (global)
+              180  |  (global)
+              180  |  (global)
+
+  cisco.content.bgp-nbr-data.timers.keepalive-time  (gauge, 10)
+  ----------------------------------------------------------------------
+               60  |  (global)
+               60  |  (global)
+               60  |  (global)
+               60  |  (global)
+               60  |  (global)
+               60  |  (global)
+               60  |  (global)
+               60  |  (global)
+               60  |  (global)
+               60  |  (global)
+
+  cisco.content.bgp-nbr-data.transp.ao-acc-mis-conn  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-data.transp.ao-incl-tcp-opts  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-data.transp.ao-key-id  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.bgp-nbr-data.transp.ao-key_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.bgp-nbr-data.transp.foreign-host_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+
+  cisco.content.bgp-nbr-data.transp.foreign-port  (gauge, 10)
+  ----------------------------------------------------------------------
+              179  |  (global)
+           48,390  |  (global)
+              179  |  (global)
+           48,390  |  (global)
+              179  |  (global)
+           48,390  |  (global)
+              179  |  (global)
+           48,390  |  (global)
+              179  |  (global)
+           48,390  |  (global)
+
+  cisco.content.bgp-nbr-data.transp.local-host_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+
+  cisco.content.bgp-nbr-data.transp.local-port  (gauge, 10)
+  ----------------------------------------------------------------------
+           48,390  |  (global)
+              179  |  (global)
+           48,390  |  (global)
+              179  |  (global)
+           48,390  |  (global)
+              179  |  (global)
+           48,390  |  (global)
+              179  |  (global)
+           48,390  |  (global)
+              179  |  (global)
+
+  cisco.content.bgp-nbr-data.transp.mss  (gauge, 10)
+  ----------------------------------------------------------------------
+            1,460  |  (global)
+            1,460  |  (global)
+            1,460  |  (global)
+            1,460  |  (global)
+            1,460  |  (global)
+            1,460  |  (global)
+            1,460  |  (global)
+            1,460  |  (global)
+            1,460  |  (global)
+            1,460  |  (global)
+
+  cisco.content.bgp-nbr-data.transp.path-mtu-dis  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.bgp-nbr-data.ver  (gauge, 10)
+  ----------------------------------------------------------------------
+                4  |  (global)
+                4  |  (global)
+                4  |  (global)
+                4  |  (global)
+                4  |  (global)
+                4  |  (global)
+                4  |  (global)
+                4  |  (global)
+                4  |  (global)
+                4  |  (global)

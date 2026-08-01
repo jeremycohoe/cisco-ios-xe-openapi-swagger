@@ -1,0 +1,40 @@
+==========================================================================================
+  Sub 50027: Subscription 50027
+  Folder: 50027-cisco-ios-xe-isis-oper_isis-oper-data_isis-instance
+  14 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.isis-neighbor.holdtime  (gauge, 2)
+  ----------------------------------------------------------------------
+               21  |  (global)
+               28  |  (global)
+
+  cisco.content.isis-neighbor.if-name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+
+  cisco.content.isis-neighbor.ipv4-address_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+
+  cisco.content.isis-neighbor.level_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=isis-level-2
+                1  |  value=isis-level-2
+
+  cisco.content.isis-neighbor.state_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=isis-adj-up
+                1  |  value=isis-adj-up
+
+  cisco.content.isis-neighbor.system-id_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=00:00:00:00:00:02
+                1  |  value=00:00:00:00:00:01
+
+  cisco.keys.tag_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=LAB
+                1  |  value=LAB

@@ -1,0 +1,2534 @@
+==========================================================================================
+  Sub 50012: Subscription 50012
+  Folder: 50012-cisco-ios-xe-mdt-oper-v2_mdt-oper-v2-data
+  2391 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.mdt-connections.conn-id.address_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.3
+
+  cisco.content.mdt-connections.conn-id.con-params.address_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.3
+
+  cisco.content.mdt-connections.conn-id.con-params.p-pass-type_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=pw-encryption-clear
+                1  |  value=pw-encryption-clear
+
+  cisco.content.mdt-connections.conn-id.con-params.p-pass_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+
+  cisco.content.mdt-connections.conn-id.con-params.p-user_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+
+  cisco.content.mdt-connections.conn-id.con-params.port  (gauge, 2)
+  ----------------------------------------------------------------------
+           57,500  |  (global)
+           57,500  |  (global)
+
+  cisco.content.mdt-connections.conn-id.con-params.source-address_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+
+  cisco.content.mdt-connections.conn-id.con-params.t-host_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+
+  cisco.content.mdt-connections.conn-id.con-params.t-port  (gauge, 2)
+  ----------------------------------------------------------------------
+           57,500  |  (global)
+           57,500  |  (global)
+
+  cisco.content.mdt-connections.conn-id.con-params.vrf-table-id  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mdt-connections.conn-id.port  (gauge, 2)
+  ----------------------------------------------------------------------
+           57,500  |  (global)
+           57,500  |  (global)
+
+  cisco.content.mdt-connections.conn-id.source-address_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+
+  cisco.content.mdt-connections.conn-id.vrf-table-id  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.mdt-connections.index  (gauge, 2)
+  ----------------------------------------------------------------------
+               43  |  (global)
+               58  |  (global)
+
+  cisco.content.mdt-connections.last-state-change-time_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-20T19:43:56.621743+00:00
+                1  |  value=2026-04-20T19:43:25.700076+00:00
+
+  cisco.content.mdt-connections.peer-id_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=(10.1.1.3:57500)
+                1  |  value=(10.1.1.3:57500)
+
+  cisco.content.mdt-connections.state-desc_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=Connection up
+                1  |  value=Connection up
+
+  cisco.content.mdt-connections.state_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=con-state-active
+                1  |  value=con-state-active
+
+  cisco.content.mdt-named-receivers.last-state-change-time_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-20T19:27:38.786476+00:00
+                1  |  value=2026-04-20T19:27:48.120449+00:00
+
+  cisco.content.mdt-named-receivers.name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+
+  cisco.content.mdt-named-receivers.params.host.address_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.3
+                1  |  value=10.1.1.3
+
+  cisco.content.mdt-named-receivers.params.port  (gauge, 2)
+  ----------------------------------------------------------------------
+           57,500  |  (global)
+           57,500  |  (global)
+
+  cisco.content.mdt-named-receivers.params.protocol_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=grpc-tcp
+                1  |  value=grpc-tcp
+
+  cisco.content.mdt-named-receivers.profile_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+
+  cisco.content.mdt-named-receivers.state_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=named-rcvr-state-valid
+                1  |  value=named-rcvr-state-valid
+
+  cisco.content.mdt-streams.stream_info  (gauge, 6)
+  ----------------------------------------------------------------------
+                1  |  value=native
+                1  |  value=yang-notif-native
+                1  |  value=yang-push
+                1  |  value=native
+                1  |  value=yang-notif-native
+                1  |  value=yang-push
+
+  cisco.content.mdt-subscriptions.base.encoding_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+                1  |  value=encode-kvgpb
+
+  cisco.content.mdt-subscriptions.base.period  (gauge, 132)
+  ----------------------------------------------------------------------
+            3,000  |  (global)
+            3,000  |  (global)
+            3,000  |  (global)
+            3,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            3,000  |  (global)
+            3,000  |  (global)
+            3,000  |  (global)
+            3,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+           30,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+            6,000  |  (global)
+
+  cisco.content.mdt-subscriptions.base.rcvr-type_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+                1  |  value=rcvr-type-unspecified
+
+  cisco.content.mdt-subscriptions.base.source-vrf_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.mdt-subscriptions.base.stream_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+                1  |  value=yang-push
+
+  cisco.content.mdt-subscriptions.base.xpath_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=/process-cpu-ios-xe-oper:cpu-usage/cpu-utilization
+                1  |  value=/process-memory-ios-xe-oper:memory-usage-processes
+                1  |  value=/interfaces-ios-xe-oper:interfaces/interface
+                1  |  value=/switch-dp-punt-inject-oper:switch-dp-punt-inject-oper-data/location/punt-inject-cpuq-brief-stats
+                1  |  value=/vlan-ios-xe-oper:vlans
+                1  |  value=/matm-ios-xe-oper:matm-oper-data
+                1  |  value=/arp-ios-xe-oper:arp-data
+                1  |  value=/lldp-ios-xe-oper:lldp-entries
+                1  |  value=/cdp-ios-xe-oper:cdp-neighbor-details
+                1  |  value=/device-hardware-xe-oper:device-hardware-data/device-hardware
+                1  |  value=/switchport-ios-xe-oper:switchport-oper-data
+                1  |  value=/xcvr-ios-xe-oper:transceiver-oper-data
+                1  |  value=/udld-ios-xe-oper:udld-oper-data
+                1  |  value=/identity-ios-xe-oper:identity-oper-data
+                1  |  value=/tcam-ios-xe-oper:tcam-details
+                1  |  value=/mdt-oper-v2:mdt-oper-v2-data
+                1  |  value=/install-ios-xe-oper:install-oper-data
+                1  |  value=/dhcp-ios-xe-oper:dhcp-oper-data
+                1  |  value=/ha-ios-xe-oper:ha-oper-data
+                1  |  value=/linecard-ios-xe-oper:linecard-oper-data
+                1  |  value=/trustsec-ios-xe-oper:trustsec-state
+                1  |  value=/interfaces-ios-xe-oper:interfaces/interface/lag-aggregate-state
+                1  |  value=/acl-ios-xe-oper:access-lists/access-list
+                1  |  value=/aaa-ios-xe-oper:aaa-data/aaa-radius-stats
+                1  |  value=/psecure-ios-xe-oper:psecure-oper-data/psecure-state
+                1  |  value=/macsec-ios-xe-oper:macsec-oper-data/macsec-statistics
+                1  |  value=/mka-ios-xe-oper:mka-oper-data/mka-statistics
+                1  |  value=/vrf-ios-xe-oper:vrf-oper-data/vrf-entry
+                1  |  value=/dp-resources-oper:switch-dp-resources-oper-data/location/dp-feature-resource
+                1  |  value=/eigrp-ios-xe-oper:eigrp-oper-data/eigrp-instance
+                1  |  value=/isis-ios-xe-oper:isis-oper-data/isis-instance
+                1  |  value=/bgp-ios-rib-xe-oper:bgp-rib-oper-data/bgp-route
+                1  |  value=/ip-arp-ios-xe-oper:ip-arp-oper-data/ni-ip-arp/ip-arp-entry
+                1  |  value=/ipv6-nd-ios-xe-oper:ipv6-nd-oper-data/ni-ipv6-nd/ipv6-nd-entry
+                1  |  value=/yang-interfaces-oper:yang-interfaces-oper-data
+                1  |  value=/mpls-forwarding-ios-xe-oper:mpls-forwarding-oper-data
+                1  |  value=/ptp-synce-ios-xe-oper:ptp-synce-oper-data
+                1  |  value=/memory-ios-xe-oper:memory-statistics/memory-statistic
+                1  |  value=/platform-sw-ios-xe-oper:cisco-platform-software/control-processes
+                1  |  value=/environment-ios-xe-oper:environment-sensors
+                1  |  value=/poe-ios-xe-oper:poe-oper-data
+                1  |  value=/stp-ios-xe-oper:stp-details
+                1  |  value=/stack-ios-xe-oper:stack-oper-data
+                1  |  value=/platform-ios-xe-oper:components
+                1  |  value=/bgp-ios-xe-oper:bgp-state-data
+                1  |  value=/ospf-ios-xe-oper:ospf-oper-data
+                1  |  value=/ntp-ios-xe-oper:ntp-oper-data/ntp-status-info
+                1  |  value=/bfd-ios-xe-oper:bfd-state/sessions
+                1  |  value=/hsrp-ios-xe-oper:hsrp-oper-data/hsrp-group-info
+                1  |  value=/vrrp-ios-xe-oper:vrrp-oper-data/vrrp-oper-state
+                1  |  value=/flow-monitor-ios-xe-oper:flow-monitors/flow-monitor
+                1  |  value=/ip-sla-ios-xe-oper:ip-sla-stats/sla-oper-entry
+                1  |  value=/fib-ios-xe-oper:fib-oper-data
+                1  |  value=/bgp-nbr-ios-xe-oper:bgp-nbr-oper-data
+                1  |  value=/isis-intf-ios-xe-oper:isis-intf-oper-data/isis-if-tag-type
+                1  |  value=/mroute-ios-xe-oper:mroute-oper-data/mroute-state
+                1  |  value=/stack-member-ios-xe-oper:stack-member-oper-data/location/stack-member-info
+                1  |  value=/ios-tunnel-oper:tunnel-oper-data/tunnel-if
+                1  |  value=/pim-ios-xe-oper:pim-oper-data
+                1  |  value=/mpls-ldp-ios-xe-oper:mpls-ldp-oper-data
+                1  |  value=/lisp-ios-xe-oper:lisp-state
+                1  |  value=/nve-ios-xe-oper:nve-oper-data
+                1  |  value=/evpn-ios-xe-oper:evpn-oper-data
+                1  |  value=/if:interfaces-state/interface
+                1  |  value=/rt:routing-state
+                1  |  value=/poe-health-xe:poe-health-oper-data
+                1  |  value=/process-cpu-ios-xe-oper:cpu-usage/cpu-utilization
+                1  |  value=/process-memory-ios-xe-oper:memory-usage-processes
+                1  |  value=/interfaces-ios-xe-oper:interfaces/interface
+                1  |  value=/switch-dp-punt-inject-oper:switch-dp-punt-inject-oper-data/location/punt-inject-cpuq-brief-stats
+                1  |  value=/vlan-ios-xe-oper:vlans
+                1  |  value=/matm-ios-xe-oper:matm-oper-data
+                1  |  value=/arp-ios-xe-oper:arp-data
+                1  |  value=/lldp-ios-xe-oper:lldp-entries
+                1  |  value=/cdp-ios-xe-oper:cdp-neighbor-details
+                1  |  value=/device-hardware-xe-oper:device-hardware-data/device-hardware
+                1  |  value=/switchport-ios-xe-oper:switchport-oper-data
+                1  |  value=/xcvr-ios-xe-oper:transceiver-oper-data
+                1  |  value=/udld-ios-xe-oper:udld-oper-data
+                1  |  value=/identity-ios-xe-oper:identity-oper-data
+                1  |  value=/tcam-ios-xe-oper:tcam-details
+                1  |  value=/mdt-oper-v2:mdt-oper-v2-data
+                1  |  value=/install-ios-xe-oper:install-oper-data
+                1  |  value=/dhcp-ios-xe-oper:dhcp-oper-data
+                1  |  value=/ha-ios-xe-oper:ha-oper-data
+                1  |  value=/linecard-ios-xe-oper:linecard-oper-data
+                1  |  value=/trustsec-ios-xe-oper:trustsec-state
+                1  |  value=/interfaces-ios-xe-oper:interfaces/interface/lag-aggregate-state
+                1  |  value=/acl-ios-xe-oper:access-lists/access-list
+                1  |  value=/aaa-ios-xe-oper:aaa-data/aaa-radius-stats
+                1  |  value=/psecure-ios-xe-oper:psecure-oper-data/psecure-state
+                1  |  value=/macsec-ios-xe-oper:macsec-oper-data/macsec-statistics
+                1  |  value=/mka-ios-xe-oper:mka-oper-data/mka-statistics
+                1  |  value=/vrf-ios-xe-oper:vrf-oper-data/vrf-entry
+                1  |  value=/dp-resources-oper:switch-dp-resources-oper-data/location/dp-feature-resource
+                1  |  value=/eigrp-ios-xe-oper:eigrp-oper-data/eigrp-instance
+                1  |  value=/isis-ios-xe-oper:isis-oper-data/isis-instance
+                1  |  value=/bgp-ios-rib-xe-oper:bgp-rib-oper-data/bgp-route
+                1  |  value=/ip-arp-ios-xe-oper:ip-arp-oper-data/ni-ip-arp/ip-arp-entry
+                1  |  value=/ipv6-nd-ios-xe-oper:ipv6-nd-oper-data/ni-ipv6-nd/ipv6-nd-entry
+                1  |  value=/yang-interfaces-oper:yang-interfaces-oper-data
+                1  |  value=/mpls-forwarding-ios-xe-oper:mpls-forwarding-oper-data
+                1  |  value=/ptp-synce-ios-xe-oper:ptp-synce-oper-data
+                1  |  value=/memory-ios-xe-oper:memory-statistics/memory-statistic
+                1  |  value=/platform-sw-ios-xe-oper:cisco-platform-software/control-processes
+                1  |  value=/environment-ios-xe-oper:environment-sensors
+                1  |  value=/poe-ios-xe-oper:poe-oper-data
+                1  |  value=/stp-ios-xe-oper:stp-details
+                1  |  value=/stack-ios-xe-oper:stack-oper-data
+                1  |  value=/platform-ios-xe-oper:components
+                1  |  value=/bgp-ios-xe-oper:bgp-state-data
+                1  |  value=/ospf-ios-xe-oper:ospf-oper-data
+                1  |  value=/ntp-ios-xe-oper:ntp-oper-data/ntp-status-info
+                1  |  value=/bfd-ios-xe-oper:bfd-state/sessions
+                1  |  value=/hsrp-ios-xe-oper:hsrp-oper-data/hsrp-group-info
+                1  |  value=/vrrp-ios-xe-oper:vrrp-oper-data/vrrp-oper-state
+                1  |  value=/flow-monitor-ios-xe-oper:flow-monitors/flow-monitor
+                1  |  value=/ip-sla-ios-xe-oper:ip-sla-stats/sla-oper-entry
+                1  |  value=/fib-ios-xe-oper:fib-oper-data
+                1  |  value=/bgp-nbr-ios-xe-oper:bgp-nbr-oper-data
+                1  |  value=/isis-intf-ios-xe-oper:isis-intf-oper-data/isis-if-tag-type
+                1  |  value=/mroute-ios-xe-oper:mroute-oper-data/mroute-state
+                1  |  value=/stack-member-ios-xe-oper:stack-member-oper-data/location/stack-member-info
+                1  |  value=/ios-tunnel-oper:tunnel-oper-data/tunnel-if
+                1  |  value=/pim-ios-xe-oper:pim-oper-data
+                1  |  value=/mpls-ldp-ios-xe-oper:mpls-ldp-oper-data
+                1  |  value=/lisp-ios-xe-oper:lisp-state
+                1  |  value=/nve-ios-xe-oper:nve-oper-data
+                1  |  value=/evpn-ios-xe-oper:evpn-oper-data
+                1  |  value=/if:interfaces-state/interface
+                1  |  value=/rt:routing-state
+                1  |  value=/poe-health-xe:poe-health-oper-data
+
+  cisco.content.mdt-subscriptions.last-state-change-time_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-20T19:27:08.562548+00:00
+                1  |  value=2026-04-20T19:27:09.025443+00:00
+                1  |  value=2026-04-20T19:27:09.488512+00:00
+                1  |  value=2026-04-20T19:27:09.970744+00:00
+                1  |  value=2026-04-20T19:27:23.903535+00:00
+                1  |  value=2026-04-20T19:27:24.340979+00:00
+                1  |  value=2026-04-20T19:27:24.784667+00:00
+                1  |  value=2026-04-20T19:27:25.267265+00:00
+                1  |  value=2026-04-20T19:27:25.748772+00:00
+                1  |  value=2026-04-20T19:27:26.204942+00:00
+                1  |  value=2026-04-20T19:27:26.672289+00:00
+                1  |  value=2026-04-20T19:27:27.112504+00:00
+                1  |  value=2026-04-20T19:27:27.592032+00:00
+                1  |  value=2026-04-20T19:27:28.048304+00:00
+                1  |  value=2026-04-20T19:27:28.511523+00:00
+                1  |  value=2026-04-20T19:27:28.970084+00:00
+                1  |  value=2026-04-20T19:27:29.450342+00:00
+                1  |  value=2026-04-20T19:27:29.931402+00:00
+                1  |  value=2026-04-20T19:27:30.414922+00:00
+                1  |  value=2026-04-20T19:27:30.874234+00:00
+                1  |  value=2026-04-20T19:27:31.347924+00:00
+                1  |  value=2026-04-20T19:27:31.790882+00:00
+                1  |  value=2026-04-20T19:27:32.254767+00:00
+                1  |  value=2026-04-20T19:27:32.733852+00:00
+                1  |  value=2026-04-20T19:27:33.196692+00:00
+                1  |  value=2026-04-20T19:27:33.657425+00:00
+                1  |  value=2026-04-20T19:27:34.118808+00:00
+                1  |  value=2026-04-20T19:27:34.558937+00:00
+                1  |  value=2026-04-20T19:27:35.013884+00:00
+                1  |  value=2026-04-20T19:27:35.484596+00:00
+                1  |  value=2026-04-20T19:27:35.953615+00:00
+                1  |  value=2026-04-20T19:27:36.418670+00:00
+                1  |  value=2026-04-20T19:27:36.877871+00:00
+                1  |  value=2026-04-20T19:27:37.331127+00:00
+                1  |  value=2026-04-20T19:27:37.797267+00:00
+                1  |  value=2026-04-20T19:27:38.257031+00:00
+                1  |  value=2026-04-20T19:27:38.703525+00:00
+                1  |  value=2026-04-20T19:27:10.412441+00:00
+                1  |  value=2026-04-20T19:27:10.868518+00:00
+                1  |  value=2026-04-20T19:27:11.316693+00:00
+                1  |  value=2026-04-20T19:27:11.796082+00:00
+                1  |  value=2026-04-20T19:27:12.277828+00:00
+                1  |  value=2026-04-20T19:27:12.718252+00:00
+                1  |  value=2026-04-20T19:27:13.144445+00:00
+                1  |  value=2026-04-20T19:27:13.588754+00:00
+                1  |  value=2026-04-20T19:27:14.072549+00:00
+                1  |  value=2026-04-20T19:27:14.554083+00:00
+                1  |  value=2026-04-20T19:27:15.010399+00:00
+                1  |  value=2026-04-20T19:27:15.474074+00:00
+                1  |  value=2026-04-20T19:27:15.953803+00:00
+                1  |  value=2026-04-20T19:27:16.416393+00:00
+                1  |  value=2026-04-20T19:27:16.898310+00:00
+                1  |  value=2026-04-20T19:27:17.363309+00:00
+                1  |  value=2026-04-20T19:27:17.823944+00:00
+                1  |  value=2026-04-20T19:27:18.285423+00:00
+                1  |  value=2026-04-20T19:27:18.767008+00:00
+                1  |  value=2026-04-20T19:27:19.270699+00:00
+                1  |  value=2026-04-20T19:27:19.736021+00:00
+                1  |  value=2026-04-20T19:27:20.191718+00:00
+                1  |  value=2026-04-20T19:27:20.655307+00:00
+                1  |  value=2026-04-20T19:27:21.136050+00:00
+                1  |  value=2026-04-20T19:27:21.596426+00:00
+                1  |  value=2026-04-20T19:27:22.075379+00:00
+                1  |  value=2026-04-20T19:27:22.536847+00:00
+                1  |  value=2026-04-20T19:27:22.976239+00:00
+                1  |  value=2026-04-20T19:27:23.435727+00:00
+                1  |  value=2026-04-20T19:27:17.349914+00:00
+                1  |  value=2026-04-20T19:27:17.854584+00:00
+                1  |  value=2026-04-20T19:27:18.307937+00:00
+                1  |  value=2026-04-20T19:27:18.765501+00:00
+                1  |  value=2026-04-20T19:27:32.949632+00:00
+                1  |  value=2026-04-20T19:27:33.433859+00:00
+                1  |  value=2026-04-20T19:27:33.893368+00:00
+                1  |  value=2026-04-20T19:27:34.356395+00:00
+                1  |  value=2026-04-20T19:27:34.838661+00:00
+                1  |  value=2026-04-20T19:27:35.299047+00:00
+                1  |  value=2026-04-20T19:27:35.759341+00:00
+                1  |  value=2026-04-20T19:27:36.205949+00:00
+                1  |  value=2026-04-20T19:27:36.665486+00:00
+                1  |  value=2026-04-20T19:27:37.128435+00:00
+                1  |  value=2026-04-20T19:27:37.630783+00:00
+                1  |  value=2026-04-20T19:27:38.112474+00:00
+                1  |  value=2026-04-20T19:27:38.554052+00:00
+                1  |  value=2026-04-20T19:27:39.015204+00:00
+                1  |  value=2026-04-20T19:27:39.478561+00:00
+                1  |  value=2026-04-20T19:27:39.940396+00:00
+                1  |  value=2026-04-20T19:27:40.426894+00:00
+                1  |  value=2026-04-20T19:27:40.895333+00:00
+                1  |  value=2026-04-20T19:27:41.357253+00:00
+                1  |  value=2026-04-20T19:27:41.828789+00:00
+                1  |  value=2026-04-20T19:27:42.312147+00:00
+                1  |  value=2026-04-20T19:27:42.795694+00:00
+                1  |  value=2026-04-20T19:27:43.274443+00:00
+                1  |  value=2026-04-20T19:27:43.743592+00:00
+                1  |  value=2026-04-20T19:27:44.267691+00:00
+                1  |  value=2026-04-20T19:27:44.751134+00:00
+                1  |  value=2026-04-20T19:27:45.217498+00:00
+                1  |  value=2026-04-20T19:27:45.697222+00:00
+                1  |  value=2026-04-20T19:27:46.157367+00:00
+                1  |  value=2026-04-20T19:27:46.649683+00:00
+                1  |  value=2026-04-20T19:27:47.127905+00:00
+                1  |  value=2026-04-20T19:27:47.552814+00:00
+                1  |  value=2026-04-20T19:27:48.036921+00:00
+                1  |  value=2026-04-20T19:27:19.210050+00:00
+                1  |  value=2026-04-20T19:27:19.670824+00:00
+                1  |  value=2026-04-20T19:27:20.149072+00:00
+                1  |  value=2026-04-20T19:27:20.612145+00:00
+                1  |  value=2026-04-20T19:27:21.098786+00:00
+                1  |  value=2026-04-20T19:27:21.577648+00:00
+                1  |  value=2026-04-20T19:27:22.038112+00:00
+                1  |  value=2026-04-20T19:27:22.498068+00:00
+                1  |  value=2026-04-20T19:27:22.961261+00:00
+                1  |  value=2026-04-20T19:27:23.422015+00:00
+                1  |  value=2026-04-20T19:27:23.888745+00:00
+                1  |  value=2026-04-20T19:27:24.352728+00:00
+                1  |  value=2026-04-20T19:27:24.817652+00:00
+                1  |  value=2026-04-20T19:27:25.299755+00:00
+                1  |  value=2026-04-20T19:27:25.770934+00:00
+                1  |  value=2026-04-20T19:27:26.251668+00:00
+                1  |  value=2026-04-20T19:27:26.712547+00:00
+                1  |  value=2026-04-20T19:27:27.180863+00:00
+                1  |  value=2026-04-20T19:27:27.664333+00:00
+                1  |  value=2026-04-20T19:27:28.129997+00:00
+                1  |  value=2026-04-20T19:27:28.622174+00:00
+                1  |  value=2026-04-20T19:27:29.102941+00:00
+                1  |  value=2026-04-20T19:27:29.586438+00:00
+                1  |  value=2026-04-20T19:27:30.065871+00:00
+                1  |  value=2026-04-20T19:27:30.566441+00:00
+                1  |  value=2026-04-20T19:27:31.036639+00:00
+                1  |  value=2026-04-20T19:27:31.523042+00:00
+                1  |  value=2026-04-20T19:27:32.004989+00:00
+                1  |  value=2026-04-20T19:27:32.486626+00:00
+
+  cisco.content.mdt-subscriptions.mdt-receiver-names.con-index  (gauge, 132)
+  ----------------------------------------------------------------------
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+           65,535  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               43  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+           65,535  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+               58  |  (global)
+
+  cisco.content.mdt-subscriptions.mdt-receiver-names.last-error_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+                1  |  value=Transport lost
+
+  cisco.content.mdt-subscriptions.mdt-receiver-names.last-state-change-time_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-20T19:43:56.658363+00:00
+                1  |  value=2026-04-20T19:43:56.658435+00:00
+                1  |  value=2026-04-20T19:43:56.658478+00:00
+                1  |  value=2026-04-20T19:43:56.658518+00:00
+                1  |  value=2026-04-20T19:43:56.658556+00:00
+                1  |  value=2026-04-20T19:43:56.658597+00:00
+                1  |  value=2026-04-20T19:43:56.658637+00:00
+                1  |  value=2026-04-20T19:43:56.658686+00:00
+                1  |  value=2026-04-20T19:43:56.658733+00:00
+                1  |  value=2026-04-20T19:43:56.658774+00:00
+                1  |  value=2026-04-20T19:43:56.658813+00:00
+                1  |  value=2026-04-20T19:43:56.658851+00:00
+                1  |  value=2026-04-20T19:43:56.658890+00:00
+                1  |  value=2026-04-20T19:43:56.658929+00:00
+                1  |  value=2026-04-20T19:43:56.658968+00:00
+                1  |  value=2026-04-20T19:43:56.659007+00:00
+                1  |  value=2026-04-20T19:43:56.659052+00:00
+                1  |  value=2026-04-20T19:43:56.659092+00:00
+                1  |  value=2026-04-20T19:43:56.659131+00:00
+                1  |  value=2026-04-20T19:43:56.659170+00:00
+                1  |  value=2026-04-20T19:43:56.659209+00:00
+                1  |  value=2026-04-20T19:43:56.659248+00:00
+                1  |  value=2026-04-20T19:43:56.659287+00:00
+                1  |  value=2026-04-20T19:43:56.659335+00:00
+                1  |  value=2026-04-20T19:43:56.659375+00:00
+                1  |  value=2026-04-20T19:43:56.659414+00:00
+                1  |  value=2026-04-20T19:43:56.659454+00:00
+                1  |  value=2026-04-20T19:43:56.659493+00:00
+                1  |  value=2026-04-20T19:43:56.659532+00:00
+                1  |  value=2026-04-20T19:43:56.659570+00:00
+                1  |  value=2026-04-20T19:43:56.659616+00:00
+                1  |  value=2026-04-20T19:43:56.659666+00:00
+                1  |  value=2026-04-20T19:43:56.659707+00:00
+                1  |  value=2026-04-20T19:43:56.659745+00:00
+                1  |  value=2026-04-20T19:43:56.659785+00:00
+                1  |  value=2026-04-20T19:43:56.659823+00:00
+                1  |  value=2026-04-20T19:27:38.786513+00:00
+                1  |  value=2026-04-20T19:43:56.659861+00:00
+                1  |  value=2026-04-20T19:43:56.659907+00:00
+                1  |  value=2026-04-20T19:43:56.659947+00:00
+                1  |  value=2026-04-20T19:43:56.659985+00:00
+                1  |  value=2026-04-20T19:43:56.660024+00:00
+                1  |  value=2026-04-20T19:43:56.660063+00:00
+                1  |  value=2026-04-20T19:43:57.803626+00:00
+                1  |  value=2026-04-20T19:43:57.804168+00:00
+                1  |  value=2026-04-20T19:43:57.831798+00:00
+                1  |  value=2026-04-20T19:43:57.831852+00:00
+                1  |  value=2026-04-20T19:43:57.832367+00:00
+                1  |  value=2026-04-20T19:43:57.832421+00:00
+                1  |  value=2026-04-20T19:43:57.832459+00:00
+                1  |  value=2026-04-20T19:43:57.833242+00:00
+                1  |  value=2026-04-20T19:43:57.833274+00:00
+                1  |  value=2026-04-20T19:43:57.833619+00:00
+                1  |  value=2026-04-20T19:43:57.833660+00:00
+                1  |  value=2026-04-20T19:43:57.834044+00:00
+                1  |  value=2026-04-20T19:43:57.834387+00:00
+                1  |  value=2026-04-20T19:43:57.834735+00:00
+                1  |  value=2026-04-20T19:43:57.834766+00:00
+                1  |  value=2026-04-20T19:43:57.834790+00:00
+                1  |  value=2026-04-20T19:43:57.835483+00:00
+                1  |  value=2026-04-20T19:43:57.835516+00:00
+                1  |  value=2026-04-20T19:43:57.835549+00:00
+                1  |  value=2026-04-20T19:43:57.835574+00:00
+                1  |  value=2026-04-20T19:43:57.835997+00:00
+                1  |  value=2026-04-20T19:43:57.836141+00:00
+                1  |  value=2026-04-20T19:43:57.836205+00:00
+                1  |  value=2026-04-20T19:43:25.747267+00:00
+                1  |  value=2026-04-20T19:43:25.747331+00:00
+                1  |  value=2026-04-20T19:43:25.747383+00:00
+                1  |  value=2026-04-20T19:43:25.747432+00:00
+                1  |  value=2026-04-20T19:43:25.747492+00:00
+                1  |  value=2026-04-20T19:43:25.747541+00:00
+                1  |  value=2026-04-20T19:43:25.747590+00:00
+                1  |  value=2026-04-20T19:43:25.747639+00:00
+                1  |  value=2026-04-20T19:43:25.747688+00:00
+                1  |  value=2026-04-20T19:43:25.747737+00:00
+                1  |  value=2026-04-20T19:43:25.747786+00:00
+                1  |  value=2026-04-20T19:43:25.747844+00:00
+                1  |  value=2026-04-20T19:43:25.747894+00:00
+                1  |  value=2026-04-20T19:43:25.747949+00:00
+                1  |  value=2026-04-20T19:43:25.748007+00:00
+                1  |  value=2026-04-20T19:43:25.748058+00:00
+                1  |  value=2026-04-20T19:43:25.748107+00:00
+                1  |  value=2026-04-20T19:43:25.748156+00:00
+                1  |  value=2026-04-20T19:43:25.748229+00:00
+                1  |  value=2026-04-20T19:43:25.748280+00:00
+                1  |  value=2026-04-20T19:43:25.748330+00:00
+                1  |  value=2026-04-20T19:43:25.748379+00:00
+                1  |  value=2026-04-20T19:43:25.748429+00:00
+                1  |  value=2026-04-20T19:43:25.748477+00:00
+                1  |  value=2026-04-20T19:43:25.748526+00:00
+                1  |  value=2026-04-20T19:43:25.748582+00:00
+                1  |  value=2026-04-20T19:43:25.748633+00:00
+                1  |  value=2026-04-20T19:43:25.748682+00:00
+                1  |  value=2026-04-20T19:43:25.748730+00:00
+                1  |  value=2026-04-20T19:43:25.748780+00:00
+                1  |  value=2026-04-20T19:43:25.748829+00:00
+                1  |  value=2026-04-20T19:43:25.748878+00:00
+                1  |  value=2026-04-20T19:43:25.748927+00:00
+                1  |  value=2026-04-20T19:43:25.748987+00:00
+                1  |  value=2026-04-20T19:43:25.749048+00:00
+                1  |  value=2026-04-20T19:43:25.749102+00:00
+                1  |  value=2026-04-20T19:27:48.120491+00:00
+                1  |  value=2026-04-20T19:43:25.749151+00:00
+                1  |  value=2026-04-20T19:43:25.749209+00:00
+                1  |  value=2026-04-20T19:43:25.749262+00:00
+                1  |  value=2026-04-20T19:43:25.749311+00:00
+                1  |  value=2026-04-20T19:43:25.749369+00:00
+                1  |  value=2026-04-20T19:43:25.749419+00:00
+                1  |  value=2026-04-20T19:43:25.749469+00:00
+                1  |  value=2026-04-20T19:43:27.198813+00:00
+                1  |  value=2026-04-20T19:43:27.237791+00:00
+                1  |  value=2026-04-20T19:43:27.237840+00:00
+                1  |  value=2026-04-20T19:43:27.237888+00:00
+                1  |  value=2026-04-20T19:43:27.237921+00:00
+                1  |  value=2026-04-20T19:43:27.237953+00:00
+                1  |  value=2026-04-20T19:43:27.237985+00:00
+                1  |  value=2026-04-20T19:43:27.239362+00:00
+                1  |  value=2026-04-20T19:43:27.239406+00:00
+                1  |  value=2026-04-20T19:43:27.239438+00:00
+                1  |  value=2026-04-20T19:43:27.239470+00:00
+                1  |  value=2026-04-20T19:43:27.239889+00:00
+                1  |  value=2026-04-20T19:43:27.240349+00:00
+                1  |  value=2026-04-20T19:43:27.240388+00:00
+                1  |  value=2026-04-20T19:43:27.240434+00:00
+                1  |  value=2026-04-20T19:43:27.240465+00:00
+                1  |  value=2026-04-20T19:43:27.240496+00:00
+                1  |  value=2026-04-20T19:43:27.240527+00:00
+                1  |  value=2026-04-20T19:43:27.240557+00:00
+                1  |  value=2026-04-20T19:43:27.240587+00:00
+                1  |  value=2026-04-20T19:43:27.240618+00:00
+                1  |  value=2026-04-20T19:43:27.240648+00:00
+
+  cisco.content.mdt-subscriptions.mdt-receiver-names.name_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+                1  |  value=grpc-tcp://10.1.1.3:57500
+
+  cisco.content.mdt-subscriptions.mdt-receiver-names.state-descr_info  (gauge, 87)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=Subscription invalid
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=Subscription invalid
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.mdt-subscriptions.mdt-receiver-names.state_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-disconnected
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-disconnected
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connecting
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+
+  cisco.content.mdt-subscriptions.mdt-receiver-names.target-state_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-disconnected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-disconnected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+                1  |  value=rcvr-state-connected
+
+  cisco.content.mdt-subscriptions.state-explanation_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Invalid XPath filter: '/ptp-synce-ios-xe-oper:ptp-synce-oper-data'.
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Invalid XPath filter: '/ptp-synce-ios-xe-oper:ptp-synce-oper-data'.
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+                1  |  value=Subscription validated
+
+  cisco.content.mdt-subscriptions.state_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-invalid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-invalid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+                1  |  value=sub-state-valid
+
+  cisco.content.mdt-subscriptions.subscription-id  (gauge, 132)
+  ----------------------------------------------------------------------
+           30,001  |  (global)
+           30,002  |  (global)
+           30,003  |  (global)
+           30,004  |  (global)
+           50,001  |  (global)
+           50,002  |  (global)
+           50,003  |  (global)
+           50,004  |  (global)
+           50,005  |  (global)
+           50,006  |  (global)
+           50,007  |  (global)
+           50,008  |  (global)
+           50,009  |  (global)
+           50,010  |  (global)
+           50,011  |  (global)
+           50,012  |  (global)
+           50,013  |  (global)
+           50,014  |  (global)
+           50,015  |  (global)
+           50,016  |  (global)
+           50,017  |  (global)
+           50,018  |  (global)
+           50,019  |  (global)
+           50,020  |  (global)
+           50,021  |  (global)
+           50,022  |  (global)
+           50,023  |  (global)
+           50,024  |  (global)
+           50,025  |  (global)
+           50,026  |  (global)
+           50,027  |  (global)
+           50,028  |  (global)
+           50,029  |  (global)
+           50,030  |  (global)
+           50,031  |  (global)
+           50,032  |  (global)
+           50,033  |  (global)
+           60,001  |  (global)
+           60,002  |  (global)
+           60,003  |  (global)
+           60,004  |  (global)
+           60,005  |  (global)
+           60,006  |  (global)
+           60,007  |  (global)
+           60,008  |  (global)
+           60,009  |  (global)
+           60,010  |  (global)
+           60,011  |  (global)
+           60,012  |  (global)
+           60,013  |  (global)
+           60,014  |  (global)
+           60,015  |  (global)
+           60,016  |  (global)
+           60,017  |  (global)
+           60,018  |  (global)
+           60,019  |  (global)
+           60,020  |  (global)
+           60,021  |  (global)
+           60,022  |  (global)
+           60,023  |  (global)
+           60,024  |  (global)
+           60,025  |  (global)
+           60,026  |  (global)
+           60,027  |  (global)
+           60,028  |  (global)
+           60,029  |  (global)
+           30,001  |  (global)
+           30,002  |  (global)
+           30,003  |  (global)
+           30,004  |  (global)
+           50,001  |  (global)
+           50,002  |  (global)
+           50,003  |  (global)
+           50,004  |  (global)
+           50,005  |  (global)
+           50,006  |  (global)
+           50,007  |  (global)
+           50,008  |  (global)
+           50,009  |  (global)
+           50,010  |  (global)
+           50,011  |  (global)
+           50,012  |  (global)
+           50,013  |  (global)
+           50,014  |  (global)
+           50,015  |  (global)
+           50,016  |  (global)
+           50,017  |  (global)
+           50,018  |  (global)
+           50,019  |  (global)
+           50,020  |  (global)
+           50,021  |  (global)
+           50,022  |  (global)
+           50,023  |  (global)
+           50,024  |  (global)
+           50,025  |  (global)
+           50,026  |  (global)
+           50,027  |  (global)
+           50,028  |  (global)
+           50,029  |  (global)
+           50,030  |  (global)
+           50,031  |  (global)
+           50,032  |  (global)
+           50,033  |  (global)
+           60,001  |  (global)
+           60,002  |  (global)
+           60,003  |  (global)
+           60,004  |  (global)
+           60,005  |  (global)
+           60,006  |  (global)
+           60,007  |  (global)
+           60,008  |  (global)
+           60,009  |  (global)
+           60,010  |  (global)
+           60,011  |  (global)
+           60,012  |  (global)
+           60,013  |  (global)
+           60,014  |  (global)
+           60,015  |  (global)
+           60,016  |  (global)
+           60,017  |  (global)
+           60,018  |  (global)
+           60,019  |  (global)
+           60,020  |  (global)
+           60,021  |  (global)
+           60,022  |  (global)
+           60,023  |  (global)
+           60,024  |  (global)
+           60,025  |  (global)
+           60,026  |  (global)
+           60,027  |  (global)
+           60,028  |  (global)
+           60,029  |  (global)
+
+  cisco.content.mdt-subscriptions.type_info  (gauge, 132)
+  ----------------------------------------------------------------------
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+                1  |  value=sub-type-static
+
+  cisco.content.mdt-system-status.subs-max-num  (gauge, 2)
+  ----------------------------------------------------------------------
+              150  |  (global)
+              150  |  (global)
+
+  cisco.content.mdt-system-status.subs-valid-num  (gauge, 2)
+  ----------------------------------------------------------------------
+               65  |  (global)
+               65  |  (global)

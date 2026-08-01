@@ -1,0 +1,495 @@
+==========================================================================================
+  Sub 50002: Subscription 50002
+  Folder: 50002-cisco-ios-xe-matm-oper_matm-oper-data_matm-table
+  466 data points from 3 telemetry messages
+==========================================================================================
+
+  cisco.content.aging-time  (gauge, 12)
+  ----------------------------------------------------------------------
+              300  |  table-type=mat-vlan
+              300  |  table-type=mat-vlan
+              300  |  table-type=mat-vlan
+              300  |  table-type=mat-vlan
+              300  |  table-type=mat-vlan
+                0  |  table-type=mat-vlan-independent
+              300  |  table-type=mat-vlan
+              300  |  table-type=mat-vlan
+              300  |  table-type=mat-vlan
+              300  |  table-type=mat-vlan
+              300  |  table-type=mat-vlan
+                0  |  table-type=mat-vlan-independent
+
+  cisco.content.matm-mac-entry.mac_info  (gauge, 86)
+  ----------------------------------------------------------------------
+                1  |  table-type=mat-vlan, value=6c:03:b5:57:74:47
+                1  |  table-type=mat-vlan, value=00:00:5e:00:01:01
+                1  |  table-type=mat-vlan, value=01:80:c2:00:00:14
+                1  |  table-type=mat-vlan, value=01:80:c2:00:00:15
+                1  |  table-type=mat-vlan, value=09:00:2b:00:00:04
+                1  |  table-type=mat-vlan, value=09:00:2b:00:00:05
+                1  |  table-type=mat-vlan, value=0c:75:bd:b1:db:88
+                1  |  table-type=mat-vlan, value=6c:03:b5:57:74:65
+                1  |  table-type=mat-vlan, value=70:35:09:57:98:e5
+                1  |  table-type=mat-vlan, value=76:8f:83:13:9a:bf
+                1  |  table-type=mat-vlan, value=bc:24:11:83:32:2d
+                1  |  table-type=mat-vlan, value=e4:5f:01:5e:6d:fb
+                1  |  table-type=mat-vlan, value=fc:fb:fb:e1:c8:0d
+                1  |  table-type=mat-vlan, value=01:80:c2:00:00:14
+                1  |  table-type=mat-vlan, value=01:80:c2:00:00:15
+                1  |  table-type=mat-vlan, value=09:00:2b:00:00:04
+                1  |  table-type=mat-vlan, value=09:00:2b:00:00:05
+                1  |  table-type=mat-vlan, value=6c:03:b5:57:74:62
+                1  |  table-type=mat-vlan, value=00:00:0c:9f:f0:c9
+                1  |  table-type=mat-vlan, value=6c:03:b5:57:74:4c
+                1  |  table-type=mat-vlan, value=00:00:5e:00:01:ca
+                1  |  table-type=mat-vlan, value=6c:03:b5:57:74:42
+                1  |  table-type=mat-vlan-independent, value=01:00:0c:cc:cc:cc
+                1  |  table-type=mat-vlan-independent, value=01:00:0c:cc:cc:cd
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:00
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:01
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:02
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:03
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:04
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:05
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:06
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:07
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:08
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:09
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:0a
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:0b
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:0c
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:0d
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:0e
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:0f
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:10
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:21
+                1  |  table-type=mat-vlan-independent, value=ff:ff:ff:ff:ff:ff
+                1  |  table-type=mat-vlan, value=70:35:09:57:98:c7
+                1  |  table-type=mat-vlan, value=00:00:5e:00:01:01
+                1  |  table-type=mat-vlan, value=01:80:c2:00:00:14
+                1  |  table-type=mat-vlan, value=01:80:c2:00:00:15
+                1  |  table-type=mat-vlan, value=09:00:2b:00:00:04
+                1  |  table-type=mat-vlan, value=09:00:2b:00:00:05
+                1  |  table-type=mat-vlan, value=0c:75:bd:b1:db:88
+                1  |  table-type=mat-vlan, value=6c:03:b5:57:74:65
+                1  |  table-type=mat-vlan, value=70:18:a7:e6:d6:50
+                1  |  table-type=mat-vlan, value=70:35:09:57:98:e5
+                1  |  table-type=mat-vlan, value=8c:44:a5:22:5a:8a
+                1  |  table-type=mat-vlan, value=bc:24:11:83:32:2d
+                1  |  table-type=mat-vlan, value=e4:5f:01:5e:6d:fb
+                1  |  table-type=mat-vlan, value=01:80:c2:00:00:14
+                1  |  table-type=mat-vlan, value=01:80:c2:00:00:15
+                1  |  table-type=mat-vlan, value=09:00:2b:00:00:04
+                1  |  table-type=mat-vlan, value=09:00:2b:00:00:05
+                1  |  table-type=mat-vlan, value=70:35:09:57:98:e2
+                1  |  table-type=mat-vlan, value=00:00:0c:9f:f0:c9
+                1  |  table-type=mat-vlan, value=70:35:09:57:98:cc
+                1  |  table-type=mat-vlan, value=00:00:5e:00:01:ca
+                1  |  table-type=mat-vlan, value=70:35:09:57:98:c2
+                1  |  table-type=mat-vlan-independent, value=01:00:0c:cc:cc:cc
+                1  |  table-type=mat-vlan-independent, value=01:00:0c:cc:cc:cd
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:00
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:01
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:02
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:03
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:04
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:05
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:06
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:07
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:08
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:09
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:0a
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:0b
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:0c
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:0d
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:0e
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:0f
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:10
+                1  |  table-type=mat-vlan-independent, value=01:80:c2:00:00:21
+                1  |  table-type=mat-vlan-independent, value=ff:ff:ff:ff:ff:ff
+
+  cisco.content.matm-mac-entry.mat-addr-type_info  (gauge, 86)
+  ----------------------------------------------------------------------
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=dynamic
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+                1  |  table-type=mat-vlan-independent, value=static
+
+  cisco.content.matm-mac-entry.port_info  (gauge, 86)
+  ----------------------------------------------------------------------
+                1  |  table-type=mat-vlan, value=Vlan1
+                1  |  table-type=mat-vlan, value=TenGigabitEthernet1/0/48
+                1  |  table-type=mat-vlan, value=Vlan30
+                1  |  table-type=mat-vlan, value=Vlan30
+                1  |  table-type=mat-vlan, value=Vlan30
+                1  |  table-type=mat-vlan, value=Vlan30
+                1  |  table-type=mat-vlan, value=TenGigabitEthernet1/0/48
+                1  |  table-type=mat-vlan, value=Vlan30
+                1  |  table-type=mat-vlan, value=TenGigabitEthernet1/0/48
+                1  |  table-type=mat-vlan, value=TenGigabitEthernet1/0/48
+                1  |  table-type=mat-vlan, value=TenGigabitEthernet1/0/48
+                1  |  table-type=mat-vlan, value=TenGigabitEthernet1/0/48
+                1  |  table-type=mat-vlan, value=TenGigabitEthernet1/0/48
+                1  |  table-type=mat-vlan, value=Vlan200
+                1  |  table-type=mat-vlan, value=Vlan200
+                1  |  table-type=mat-vlan, value=Vlan200
+                1  |  table-type=mat-vlan, value=Vlan200
+                1  |  table-type=mat-vlan, value=Vlan200
+                1  |  table-type=mat-vlan, value=Vlan201
+                1  |  table-type=mat-vlan, value=Vlan201
+                1  |  table-type=mat-vlan, value=Vlan202
+                1  |  table-type=mat-vlan, value=Vlan202
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan, value=Vlan1
+                1  |  table-type=mat-vlan, value=GigabitEthernet1/0/13
+                1  |  table-type=mat-vlan, value=Vlan30
+                1  |  table-type=mat-vlan, value=Vlan30
+                1  |  table-type=mat-vlan, value=Vlan30
+                1  |  table-type=mat-vlan, value=Vlan30
+                1  |  table-type=mat-vlan, value=GigabitEthernet1/0/13
+                1  |  table-type=mat-vlan, value=GigabitEthernet1/0/24
+                1  |  table-type=mat-vlan, value=Port-channel30
+                1  |  table-type=mat-vlan, value=Vlan30
+                1  |  table-type=mat-vlan, value=GigabitEthernet1/0/24
+                1  |  table-type=mat-vlan, value=GigabitEthernet1/0/24
+                1  |  table-type=mat-vlan, value=GigabitEthernet1/0/4
+                1  |  table-type=mat-vlan, value=Vlan200
+                1  |  table-type=mat-vlan, value=Vlan200
+                1  |  table-type=mat-vlan, value=Vlan200
+                1  |  table-type=mat-vlan, value=Vlan200
+                1  |  table-type=mat-vlan, value=Vlan200
+                1  |  table-type=mat-vlan, value=Vlan201
+                1  |  table-type=mat-vlan, value=Vlan201
+                1  |  table-type=mat-vlan, value=Vlan202
+                1  |  table-type=mat-vlan, value=Vlan202
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+                1  |  table-type=mat-vlan-independent, value=CPU
+
+  cisco.content.matm-mac-entry.table-type_info  (gauge, 86)
+  ----------------------------------------------------------------------
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+
+  cisco.content.matm-mac-entry.vlan-id-number  (gauge, 86)
+  ----------------------------------------------------------------------
+                1  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+              200  |  table-type=mat-vlan
+              200  |  table-type=mat-vlan
+              200  |  table-type=mat-vlan
+              200  |  table-type=mat-vlan
+              200  |  table-type=mat-vlan
+              201  |  table-type=mat-vlan
+              201  |  table-type=mat-vlan
+              202  |  table-type=mat-vlan
+              202  |  table-type=mat-vlan
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+              200  |  table-type=mat-vlan
+              200  |  table-type=mat-vlan
+              200  |  table-type=mat-vlan
+              200  |  table-type=mat-vlan
+              200  |  table-type=mat-vlan
+              201  |  table-type=mat-vlan
+              201  |  table-type=mat-vlan
+              202  |  table-type=mat-vlan
+              202  |  table-type=mat-vlan
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan-independent
+
+  cisco.keys.table-type_info  (gauge, 12)
+  ----------------------------------------------------------------------
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan, value=mat-vlan
+                1  |  table-type=mat-vlan-independent, value=mat-vlan-independent
+
+  cisco.keys.vlan-id-number  (gauge, 12)
+  ----------------------------------------------------------------------
+                1  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+              200  |  table-type=mat-vlan
+              201  |  table-type=mat-vlan
+              202  |  table-type=mat-vlan
+                1  |  table-type=mat-vlan-independent
+                1  |  table-type=mat-vlan
+               30  |  table-type=mat-vlan
+              200  |  table-type=mat-vlan
+              201  |  table-type=mat-vlan
+              202  |  table-type=mat-vlan
+                1  |  table-type=mat-vlan-independent

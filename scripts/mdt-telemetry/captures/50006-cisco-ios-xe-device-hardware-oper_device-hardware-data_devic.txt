@@ -1,0 +1,339 @@
+==========================================================================================
+  Sub 50006: Subscription 50006
+  Folder: 50006-cisco-ios-xe-device-hardware-oper_device-hardware-data_devic
+  250 data points from 1 telemetry messages
+==========================================================================================
+
+  cisco.content.device-inventory.dev-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=c93xx Stack
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=Switch 1
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=Switch 1 - Power Supply A
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=Memory
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value=CPU
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=c93xx Stack
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=Switch 1
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=Switch 1 - Power Supply B
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=Memory
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value=CPU
+
+  cisco.content.device-inventory.field-replaceable  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  hw-dev-index=0, hw-type=hw-type-emmc
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis
+                1  |  hw-dev-index=2, hw-type=hw-type-pem
+                0  |  hw-dev-index=3, hw-type=hw-type-dram
+                0  |  hw-dev-index=4, hw-type=hw-type-cpu
+                0  |  hw-dev-index=0, hw-type=hw-type-emmc
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis
+                1  |  hw-dev-index=2, hw-type=hw-type-pem
+                0  |  hw-dev-index=3, hw-type=hw-type-dram
+                0  |  hw-dev-index=4, hw-type=hw-type-cpu
+
+  cisco.content.device-inventory.hw-class_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=hw-class-physical
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=hw-class-physical
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=hw-class-physical
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=hw-class-physical
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value=hw-class-physical
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=hw-class-physical
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=hw-class-physical
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=hw-class-physical
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=hw-class-physical
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value=hw-class-physical
+
+  cisco.content.device-inventory.hw-description_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=c93xx Stack
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=C9300X-48HX
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=Switch 1 - Power Supply A
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=Physical Memory
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value= Intel(R) Xeon(R) CPU D-1624N @ 2.40GHz
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=c93xx Stack
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=C9300-24P
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=Switch 1 - Power Supply B
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=Physical Memory
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value= Intel(R) Xeon(R) CPU D-1526 @ 1.80GHz
+
+  cisco.content.device-inventory.hw-dev-index  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  hw-dev-index=0, hw-type=hw-type-emmc
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis
+                2  |  hw-dev-index=2, hw-type=hw-type-pem
+                3  |  hw-dev-index=3, hw-type=hw-type-dram
+                4  |  hw-dev-index=4, hw-type=hw-type-cpu
+                0  |  hw-dev-index=0, hw-type=hw-type-emmc
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis
+                2  |  hw-dev-index=2, hw-type=hw-type-pem
+                3  |  hw-dev-index=3, hw-type=hw-type-dram
+                4  |  hw-dev-index=4, hw-type=hw-type-cpu
+
+  cisco.content.device-inventory.hw-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=hw-type-emmc
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=hw-type-chassis
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=hw-type-pem
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=hw-type-dram
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value=hw-type-cpu
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=hw-type-emmc
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=hw-type-chassis
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=hw-type-pem
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=hw-type-dram
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value=hw-type-cpu
+
+  cisco.content.device-inventory.part-number_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=C9300X-48HX
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=C9300X-48HX
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=PWR-C1-1100WAC-P  
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value= GenuineIntel
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=C9300-24P
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=C9300-24P
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=PWR-C1-715WAC     
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value= GenuineIntel
+
+  cisco.content.device-inventory.serial-number_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=FOC2727Y72G
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=FOC2727Y72G
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=DCC2728D5LT
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value=
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=FCW2241AHAT
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=FCW2241AHAT
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=DCA2232G1YZ
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value=
+
+  cisco.content.device-inventory.version_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=V02
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=V02
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=V01
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value= 6
+                1  |  hw-dev-index=0, hw-type=hw-type-emmc, value=V02
+                1  |  hw-dev-index=1, hw-type=hw-type-chassis, value=V02
+                1  |  hw-dev-index=2, hw-type=hw-type-pem, value=V02
+                1  |  hw-dev-index=3, hw-type=hw-type-dram, value=
+                1  |  hw-dev-index=4, hw-type=hw-type-cpu, value= 6
+
+  cisco.content.device-system-data.boot-time_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-09T04:31:00+00:00
+                1  |  value=2026-04-09T04:28:09+00:00
+
+  cisco.content.device-system-data.current-time_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-20T19:43:57+00:00
+                1  |  value=2026-04-20T19:43:26+00:00
+
+  cisco.content.device-system-data.last-reboot-reason_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=Image Install
+                1  |  value=Image Install
+
+  cisco.content.device-system-data.mac-address_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=6c:03:b5:57:74:00
+                1  |  value=70:35:09:57:98:80
+
+  cisco.content.device-system-data.reason-severity_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=normal
+                1  |  value=normal
+
+  cisco.content.device-system-data.reload-history.fru-id  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.device-system-data.reload-history.fru-type_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=device-hardware-fru-rp
+                1  |  value=device-hardware-fru-rp
+
+  cisco.content.device-system-data.reload-history.rl-history.crash-data-file_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.device-system-data.reload-history.rl-history.ha-role_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-unknown
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-active
+                1  |  value=ha-role-unknown
+
+  cisco.content.device-system-data.reload-history.rl-history.reload-category_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  value=rc-img-install
+                1  |  value=rc-unknown
+                1  |  value=rc-img-install
+                1  |  value=rc-img-install
+                1  |  value=rc-img-install
+                1  |  value=rc-rld
+                1  |  value=rc-img-install
+                1  |  value=rc-rld
+                1  |  value=rc-rld
+                1  |  value=rc-img-install
+                1  |  value=rc-img-install
+                1  |  value=rc-unknown
+                1  |  value=rc-img-install
+                1  |  value=rc-img-install
+                1  |  value=rc-img-install
+                1  |  value=rc-img-install
+                1  |  value=rc-rld
+                1  |  value=rc-img-install
+                1  |  value=rc-rld
+                1  |  value=rc-rld
+
+  cisco.content.device-system-data.reload-history.rl-history.reload-desc_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  value=Image Install
+                1  |  value=PnP reset CLI
+                1  |  value=Image Install
+                1  |  value=Image Install
+                1  |  value=Image Install
+                1  |  value=Reload Command
+                1  |  value=Image Install
+                1  |  value=Reload Command
+                1  |  value=Reload Command
+                1  |  value=Image Install
+                1  |  value=Image Install
+                1  |  value=PnP reset CLI
+                1  |  value=Image Install
+                1  |  value=Image Install
+                1  |  value=Image Install
+                1  |  value=Image Install Abort
+                1  |  value=Reload Command
+                1  |  value=Image Install
+                1  |  value=Reload Command
+                1  |  value=Reload Command
+
+  cisco.content.device-system-data.reload-history.rl-history.reload-severity_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  value=normal
+                1  |  value=abnormal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=abnormal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=normal
+                1  |  value=normal
+
+  cisco.content.device-system-data.reload-history.rl-history.reload-time_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-09T04:31:15+00:00
+                1  |  value=2026-04-09T02:17:46+00:00
+                1  |  value=2026-02-16T02:30:35+00:00
+                1  |  value=2025-12-12T05:24:14+00:00
+                1  |  value=2025-12-12T04:58:54+00:00
+                1  |  value=2025-12-12T04:33:24+00:00
+                1  |  value=2025-12-10T20:54:47+00:00
+                1  |  value=2025-12-10T20:23:31+00:00
+                1  |  value=2025-12-10T20:01:08+00:00
+                1  |  value=2025-12-10T19:54:19+00:00
+                1  |  value=2026-04-09T04:28:23+00:00
+                1  |  value=2025-12-13T00:08:32+00:00
+                1  |  value=2025-12-10T21:41:10+00:00
+                1  |  value=2025-12-10T17:00:15+00:00
+                1  |  value=2025-11-25T20:13:11+00:00
+                1  |  value=2025-11-25T18:41:52+00:00
+                1  |  value=2025-11-25T16:46:10+00:00
+                1  |  value=2025-11-25T16:40:50+00:00
+                1  |  value=2025-11-25T15:50:27+00:00
+                1  |  value=2025-11-25T15:41:35+00:00
+
+  cisco.content.device-system-data.reload-history.rl-history.sw-ver_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  value=17.18.2
+                1  |  value=17.18.2
+                1  |  value=17.18.1
+                1  |  value=17.15.4b
+                1  |  value=17.18.1
+                1  |  value=17.18.1
+                1  |  value=17.15.1
+                1  |  value=17.15.1
+                1  |  value=17.15.1
+                1  |  value=
+                1  |  value=17.18.1
+                1  |  value=17.18.1
+                1  |  value=17.18.1
+                1  |  value=17.15.3
+                1  |  value=17.18.1
+                1  |  value=17.15.3
+                1  |  value=17.15.3
+                1  |  value=17.18.1
+                1  |  value=17.18.1
+                1  |  value=
+
+  cisco.content.device-system-data.rommon-version_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=IOS-XE ROMMON
+                1  |  value=IOS-XE ROMMON
+
+  cisco.content.device-system-data.software-version_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=Cisco IOS Software [IOSXE], Catalyst L3 Switch Software (CAT9K_IOSXE), Version 26.01.1, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2026 by Cisco Systems, Inc.
+Compiled Wed 01-Apr-26 22:53 by mcpre
+                1  |  value=Cisco IOS Software [IOSXE], Catalyst L3 Switch Software (CAT9K_IOSXE), Version 26.01.1, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2026 by Cisco Systems, Inc.
+Compiled Wed 01-Apr-26 22:53 by mcpre
+
+  cisco.content.device-system-data.unsaved-config  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)

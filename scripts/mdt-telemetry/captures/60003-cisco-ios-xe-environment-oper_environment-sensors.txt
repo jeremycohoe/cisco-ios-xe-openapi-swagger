@@ -1,0 +1,1066 @@
+==========================================================================================
+  Sub 60003: Subscription 60003
+  Folder: 60003-cisco-ios-xe-environment-oper_environment-sensors
+  1010 data points from 15 telemetry messages
+==========================================================================================
+
+  cisco.content.env-stat.cancl-snsrs  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.env-stat.crit-alrm  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.env-stat.major-alrm  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.env-stat.minor-alrm  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.env-stat.null-st-snsrs  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.environment-sensor.current-reading  (gauge, 80)
+  ----------------------------------------------------------------------
+               47  |  location=Switch 1, name=Inlet Temp Sensor
+               48  |  location=Switch 1, name=Outlet Temp Sensor
+               63  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               42  |  location=Switch 1, name=Inlet Temp Sensor
+               52  |  location=Switch 1, name=Outlet Temp Sensor
+               75  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               46  |  location=Switch 1, name=Inlet Temp Sensor
+               48  |  location=Switch 1, name=Outlet Temp Sensor
+               63  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               42  |  location=Switch 1, name=Inlet Temp Sensor
+               52  |  location=Switch 1, name=Outlet Temp Sensor
+               75  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               46  |  location=Switch 1, name=Inlet Temp Sensor
+               48  |  location=Switch 1, name=Outlet Temp Sensor
+               63  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               42  |  location=Switch 1, name=Inlet Temp Sensor
+               52  |  location=Switch 1, name=Outlet Temp Sensor
+               75  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               46  |  location=Switch 1, name=Inlet Temp Sensor
+               48  |  location=Switch 1, name=Outlet Temp Sensor
+               63  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               42  |  location=Switch 1, name=Inlet Temp Sensor
+               52  |  location=Switch 1, name=Outlet Temp Sensor
+               75  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               46  |  location=Switch 1, name=Inlet Temp Sensor
+               48  |  location=Switch 1, name=Outlet Temp Sensor
+               63  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               42  |  location=Switch 1, name=Inlet Temp Sensor
+               52  |  location=Switch 1, name=Outlet Temp Sensor
+               75  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+
+  cisco.content.environment-sensor.hi-major-thrsld  (gauge, 80)
+  ----------------------------------------------------------------------
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+
+  cisco.content.environment-sensor.hi-minor-thrsld  (gauge, 80)
+  ----------------------------------------------------------------------
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+
+  cisco.content.environment-sensor.high-critical-threshold  (gauge, 80)
+  ----------------------------------------------------------------------
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               56  |  location=Switch 1, name=Inlet Temp Sensor
+              125  |  location=Switch 1, name=Outlet Temp Sensor
+              125  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+
+  cisco.content.environment-sensor.high-normal-threshold  (gauge, 80)
+  ----------------------------------------------------------------------
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              105  |  location=Switch 1, name=Outlet Temp Sensor
+              105  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               46  |  location=Switch 1, name=Inlet Temp Sensor
+              105  |  location=Switch 1, name=Outlet Temp Sensor
+              105  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              105  |  location=Switch 1, name=Outlet Temp Sensor
+              105  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               46  |  location=Switch 1, name=Inlet Temp Sensor
+              105  |  location=Switch 1, name=Outlet Temp Sensor
+              105  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              105  |  location=Switch 1, name=Outlet Temp Sensor
+              105  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               46  |  location=Switch 1, name=Inlet Temp Sensor
+              105  |  location=Switch 1, name=Outlet Temp Sensor
+              105  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              105  |  location=Switch 1, name=Outlet Temp Sensor
+              105  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               46  |  location=Switch 1, name=Inlet Temp Sensor
+              105  |  location=Switch 1, name=Outlet Temp Sensor
+              105  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              105  |  location=Switch 1, name=Outlet Temp Sensor
+              105  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+               46  |  location=Switch 1, name=Inlet Temp Sensor
+              105  |  location=Switch 1, name=Outlet Temp Sensor
+              105  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+
+  cisco.content.environment-sensor.location_info  (gauge, 80)
+  ----------------------------------------------------------------------
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 1, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 3, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply A, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply B, value=Switch 1
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 1, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 3, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply A, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply B, value=Switch 1
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 1, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 3, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply A, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply B, value=Switch 1
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 1, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 3, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply A, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply B, value=Switch 1
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 1, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 3, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply A, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply B, value=Switch 1
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 1, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 3, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply A, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply B, value=Switch 1
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 1, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 3, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply A, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply B, value=Switch 1
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 1, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 3, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply A, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply B, value=Switch 1
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 1, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 3, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply A, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply B, value=Switch 1
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 1, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=Switch 1
+                1  |  location=Switch 1, name=FAN - T1 3, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply A, value=Switch 1
+                1  |  location=Switch 1, name=Power Supply B, value=Switch 1
+
+  cisco.content.environment-sensor.low-critical-threshold  (gauge, 80)
+  ----------------------------------------------------------------------
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              -10  |  location=Switch 1, name=Outlet Temp Sensor
+              -10  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+              -10  |  location=Switch 1, name=Inlet Temp Sensor
+              -10  |  location=Switch 1, name=Outlet Temp Sensor
+              -10  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              -10  |  location=Switch 1, name=Outlet Temp Sensor
+              -10  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+              -10  |  location=Switch 1, name=Inlet Temp Sensor
+              -10  |  location=Switch 1, name=Outlet Temp Sensor
+              -10  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              -10  |  location=Switch 1, name=Outlet Temp Sensor
+              -10  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+              -10  |  location=Switch 1, name=Inlet Temp Sensor
+              -10  |  location=Switch 1, name=Outlet Temp Sensor
+              -10  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              -10  |  location=Switch 1, name=Outlet Temp Sensor
+              -10  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+              -10  |  location=Switch 1, name=Inlet Temp Sensor
+              -10  |  location=Switch 1, name=Outlet Temp Sensor
+              -10  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+              -10  |  location=Switch 1, name=Outlet Temp Sensor
+              -10  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+              -10  |  location=Switch 1, name=Inlet Temp Sensor
+              -10  |  location=Switch 1, name=Outlet Temp Sensor
+              -10  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+
+  cisco.content.environment-sensor.low-normal-threshold  (gauge, 80)
+  ----------------------------------------------------------------------
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+                0  |  location=Switch 1, name=Outlet Temp Sensor
+                0  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+                0  |  location=Switch 1, name=Outlet Temp Sensor
+                0  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+                0  |  location=Switch 1, name=Outlet Temp Sensor
+                0  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+                0  |  location=Switch 1, name=Outlet Temp Sensor
+                0  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+                0  |  location=Switch 1, name=Outlet Temp Sensor
+                0  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+                0  |  location=Switch 1, name=Outlet Temp Sensor
+                0  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+                0  |  location=Switch 1, name=Outlet Temp Sensor
+                0  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+                0  |  location=Switch 1, name=Outlet Temp Sensor
+                0  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+                0  |  location=Switch 1, name=Outlet Temp Sensor
+                0  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+                0  |  location=Switch 1, name=Inlet Temp Sensor
+                0  |  location=Switch 1, name=Outlet Temp Sensor
+                0  |  location=Switch 1, name=HotSpot Temp Sensor
+                0  |  location=Switch 1, name=FAN - T1 1
+                0  |  location=Switch 1, name=FAN - T1 2
+                0  |  location=Switch 1, name=FAN - T1 3
+                0  |  location=Switch 1, name=Power Supply A
+                0  |  location=Switch 1, name=Power Supply B
+
+  cisco.content.environment-sensor.name_info  (gauge, 80)
+  ----------------------------------------------------------------------
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Inlet Temp Sensor
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Outlet Temp Sensor
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=HotSpot Temp Sensor
+                1  |  location=Switch 1, name=FAN - T1 1, value=FAN - T1 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=FAN - T1 2
+                1  |  location=Switch 1, name=FAN - T1 3, value=FAN - T1 3
+                1  |  location=Switch 1, name=Power Supply A, value=Power Supply A
+                1  |  location=Switch 1, name=Power Supply B, value=Power Supply B
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Inlet Temp Sensor
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Outlet Temp Sensor
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=HotSpot Temp Sensor
+                1  |  location=Switch 1, name=FAN - T1 1, value=FAN - T1 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=FAN - T1 2
+                1  |  location=Switch 1, name=FAN - T1 3, value=FAN - T1 3
+                1  |  location=Switch 1, name=Power Supply A, value=Power Supply A
+                1  |  location=Switch 1, name=Power Supply B, value=Power Supply B
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Inlet Temp Sensor
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Outlet Temp Sensor
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=HotSpot Temp Sensor
+                1  |  location=Switch 1, name=FAN - T1 1, value=FAN - T1 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=FAN - T1 2
+                1  |  location=Switch 1, name=FAN - T1 3, value=FAN - T1 3
+                1  |  location=Switch 1, name=Power Supply A, value=Power Supply A
+                1  |  location=Switch 1, name=Power Supply B, value=Power Supply B
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Inlet Temp Sensor
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Outlet Temp Sensor
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=HotSpot Temp Sensor
+                1  |  location=Switch 1, name=FAN - T1 1, value=FAN - T1 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=FAN - T1 2
+                1  |  location=Switch 1, name=FAN - T1 3, value=FAN - T1 3
+                1  |  location=Switch 1, name=Power Supply A, value=Power Supply A
+                1  |  location=Switch 1, name=Power Supply B, value=Power Supply B
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Inlet Temp Sensor
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Outlet Temp Sensor
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=HotSpot Temp Sensor
+                1  |  location=Switch 1, name=FAN - T1 1, value=FAN - T1 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=FAN - T1 2
+                1  |  location=Switch 1, name=FAN - T1 3, value=FAN - T1 3
+                1  |  location=Switch 1, name=Power Supply A, value=Power Supply A
+                1  |  location=Switch 1, name=Power Supply B, value=Power Supply B
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Inlet Temp Sensor
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Outlet Temp Sensor
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=HotSpot Temp Sensor
+                1  |  location=Switch 1, name=FAN - T1 1, value=FAN - T1 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=FAN - T1 2
+                1  |  location=Switch 1, name=FAN - T1 3, value=FAN - T1 3
+                1  |  location=Switch 1, name=Power Supply A, value=Power Supply A
+                1  |  location=Switch 1, name=Power Supply B, value=Power Supply B
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Inlet Temp Sensor
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Outlet Temp Sensor
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=HotSpot Temp Sensor
+                1  |  location=Switch 1, name=FAN - T1 1, value=FAN - T1 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=FAN - T1 2
+                1  |  location=Switch 1, name=FAN - T1 3, value=FAN - T1 3
+                1  |  location=Switch 1, name=Power Supply A, value=Power Supply A
+                1  |  location=Switch 1, name=Power Supply B, value=Power Supply B
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Inlet Temp Sensor
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Outlet Temp Sensor
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=HotSpot Temp Sensor
+                1  |  location=Switch 1, name=FAN - T1 1, value=FAN - T1 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=FAN - T1 2
+                1  |  location=Switch 1, name=FAN - T1 3, value=FAN - T1 3
+                1  |  location=Switch 1, name=Power Supply A, value=Power Supply A
+                1  |  location=Switch 1, name=Power Supply B, value=Power Supply B
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Inlet Temp Sensor
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Outlet Temp Sensor
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=HotSpot Temp Sensor
+                1  |  location=Switch 1, name=FAN - T1 1, value=FAN - T1 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=FAN - T1 2
+                1  |  location=Switch 1, name=FAN - T1 3, value=FAN - T1 3
+                1  |  location=Switch 1, name=Power Supply A, value=Power Supply A
+                1  |  location=Switch 1, name=Power Supply B, value=Power Supply B
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Inlet Temp Sensor
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Outlet Temp Sensor
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=HotSpot Temp Sensor
+                1  |  location=Switch 1, name=FAN - T1 1, value=FAN - T1 1
+                1  |  location=Switch 1, name=FAN - T1 2, value=FAN - T1 2
+                1  |  location=Switch 1, name=FAN - T1 3, value=FAN - T1 3
+                1  |  location=Switch 1, name=Power Supply A, value=Power Supply A
+                1  |  location=Switch 1, name=Power Supply B, value=Power Supply B
+
+  cisco.content.environment-sensor.sensor-name_info  (gauge, 80)
+  ----------------------------------------------------------------------
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=FAN - T1 1, value=fan
+                1  |  location=Switch 1, name=FAN - T1 2, value=fan
+                1  |  location=Switch 1, name=FAN - T1 3, value=fan
+                1  |  location=Switch 1, name=Power Supply A, value=power
+                1  |  location=Switch 1, name=Power Supply B, value=power
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=FAN - T1 1, value=fan
+                1  |  location=Switch 1, name=FAN - T1 2, value=fan
+                1  |  location=Switch 1, name=FAN - T1 3, value=fan
+                1  |  location=Switch 1, name=Power Supply A, value=power
+                1  |  location=Switch 1, name=Power Supply B, value=power
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=FAN - T1 1, value=fan
+                1  |  location=Switch 1, name=FAN - T1 2, value=fan
+                1  |  location=Switch 1, name=FAN - T1 3, value=fan
+                1  |  location=Switch 1, name=Power Supply A, value=power
+                1  |  location=Switch 1, name=Power Supply B, value=power
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=FAN - T1 1, value=fan
+                1  |  location=Switch 1, name=FAN - T1 2, value=fan
+                1  |  location=Switch 1, name=FAN - T1 3, value=fan
+                1  |  location=Switch 1, name=Power Supply A, value=power
+                1  |  location=Switch 1, name=Power Supply B, value=power
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=FAN - T1 1, value=fan
+                1  |  location=Switch 1, name=FAN - T1 2, value=fan
+                1  |  location=Switch 1, name=FAN - T1 3, value=fan
+                1  |  location=Switch 1, name=Power Supply A, value=power
+                1  |  location=Switch 1, name=Power Supply B, value=power
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=FAN - T1 1, value=fan
+                1  |  location=Switch 1, name=FAN - T1 2, value=fan
+                1  |  location=Switch 1, name=FAN - T1 3, value=fan
+                1  |  location=Switch 1, name=Power Supply A, value=power
+                1  |  location=Switch 1, name=Power Supply B, value=power
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=FAN - T1 1, value=fan
+                1  |  location=Switch 1, name=FAN - T1 2, value=fan
+                1  |  location=Switch 1, name=FAN - T1 3, value=fan
+                1  |  location=Switch 1, name=Power Supply A, value=power
+                1  |  location=Switch 1, name=Power Supply B, value=power
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=FAN - T1 1, value=fan
+                1  |  location=Switch 1, name=FAN - T1 2, value=fan
+                1  |  location=Switch 1, name=FAN - T1 3, value=fan
+                1  |  location=Switch 1, name=Power Supply A, value=power
+                1  |  location=Switch 1, name=Power Supply B, value=power
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=FAN - T1 1, value=fan
+                1  |  location=Switch 1, name=FAN - T1 2, value=fan
+                1  |  location=Switch 1, name=FAN - T1 3, value=fan
+                1  |  location=Switch 1, name=Power Supply A, value=power
+                1  |  location=Switch 1, name=Power Supply B, value=power
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=temperature
+                1  |  location=Switch 1, name=FAN - T1 1, value=fan
+                1  |  location=Switch 1, name=FAN - T1 2, value=fan
+                1  |  location=Switch 1, name=FAN - T1 3, value=fan
+                1  |  location=Switch 1, name=Power Supply A, value=power
+                1  |  location=Switch 1, name=Power Supply B, value=power
+
+  cisco.content.environment-sensor.sensor-units_info  (gauge, 80)
+  ----------------------------------------------------------------------
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=FAN - T1 1, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 2, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 3, value=revolutions-per-minute
+                1  |  location=Switch 1, name=Power Supply A, value=watts
+                1  |  location=Switch 1, name=Power Supply B, value=watts
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=FAN - T1 1, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 2, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 3, value=revolutions-per-minute
+                1  |  location=Switch 1, name=Power Supply A, value=watts
+                1  |  location=Switch 1, name=Power Supply B, value=watts
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=FAN - T1 1, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 2, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 3, value=revolutions-per-minute
+                1  |  location=Switch 1, name=Power Supply A, value=watts
+                1  |  location=Switch 1, name=Power Supply B, value=watts
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=FAN - T1 1, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 2, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 3, value=revolutions-per-minute
+                1  |  location=Switch 1, name=Power Supply A, value=watts
+                1  |  location=Switch 1, name=Power Supply B, value=watts
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=FAN - T1 1, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 2, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 3, value=revolutions-per-minute
+                1  |  location=Switch 1, name=Power Supply A, value=watts
+                1  |  location=Switch 1, name=Power Supply B, value=watts
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=FAN - T1 1, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 2, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 3, value=revolutions-per-minute
+                1  |  location=Switch 1, name=Power Supply A, value=watts
+                1  |  location=Switch 1, name=Power Supply B, value=watts
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=FAN - T1 1, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 2, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 3, value=revolutions-per-minute
+                1  |  location=Switch 1, name=Power Supply A, value=watts
+                1  |  location=Switch 1, name=Power Supply B, value=watts
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=FAN - T1 1, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 2, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 3, value=revolutions-per-minute
+                1  |  location=Switch 1, name=Power Supply A, value=watts
+                1  |  location=Switch 1, name=Power Supply B, value=watts
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=FAN - T1 1, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 2, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 3, value=revolutions-per-minute
+                1  |  location=Switch 1, name=Power Supply A, value=watts
+                1  |  location=Switch 1, name=Power Supply B, value=watts
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=celsius
+                1  |  location=Switch 1, name=FAN - T1 1, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 2, value=revolutions-per-minute
+                1  |  location=Switch 1, name=FAN - T1 3, value=revolutions-per-minute
+                1  |  location=Switch 1, name=Power Supply A, value=watts
+                1  |  location=Switch 1, name=Power Supply B, value=watts
+
+  cisco.content.environment-sensor.state_info  (gauge, 80)
+  ----------------------------------------------------------------------
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Warn
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 1, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 2, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 3, value=Norm
+                1  |  location=Switch 1, name=Power Supply A, value=Norm
+                1  |  location=Switch 1, name=Power Supply B, value=NotExist
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 1, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 2, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 3, value=Norm
+                1  |  location=Switch 1, name=Power Supply A, value=NotExist
+                1  |  location=Switch 1, name=Power Supply B, value=Norm
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Warn
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 1, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 2, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 3, value=Norm
+                1  |  location=Switch 1, name=Power Supply A, value=Norm
+                1  |  location=Switch 1, name=Power Supply B, value=NotExist
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 1, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 2, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 3, value=Norm
+                1  |  location=Switch 1, name=Power Supply A, value=NotExist
+                1  |  location=Switch 1, name=Power Supply B, value=Norm
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Warn
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 1, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 2, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 3, value=Norm
+                1  |  location=Switch 1, name=Power Supply A, value=Norm
+                1  |  location=Switch 1, name=Power Supply B, value=NotExist
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 1, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 2, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 3, value=Norm
+                1  |  location=Switch 1, name=Power Supply A, value=NotExist
+                1  |  location=Switch 1, name=Power Supply B, value=Norm
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Warn
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 1, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 2, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 3, value=Norm
+                1  |  location=Switch 1, name=Power Supply A, value=Norm
+                1  |  location=Switch 1, name=Power Supply B, value=NotExist
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 1, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 2, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 3, value=Norm
+                1  |  location=Switch 1, name=Power Supply A, value=NotExist
+                1  |  location=Switch 1, name=Power Supply B, value=Norm
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Warn
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 1, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 2, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 3, value=Norm
+                1  |  location=Switch 1, name=Power Supply A, value=Norm
+                1  |  location=Switch 1, name=Power Supply B, value=NotExist
+                1  |  location=Switch 1, name=Inlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=Outlet Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=HotSpot Temp Sensor, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 1, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 2, value=Norm
+                1  |  location=Switch 1, name=FAN - T1 3, value=Norm
+                1  |  location=Switch 1, name=Power Supply A, value=NotExist
+                1  |  location=Switch 1, name=Power Supply B, value=Norm

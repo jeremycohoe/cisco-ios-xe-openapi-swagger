@@ -1,0 +1,45 @@
+==========================================================================================
+  Sub 50021: Subscription 50021
+  Folder: 50021-cisco-ios-xe-psecure-oper_psecure-oper-data_psecure-state
+  16 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.psecure-entry.mac_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=aa:aa:00:01:00:01
+                1  |  value=aa:aa:00:02:00:01
+
+  cisco.content.psecure-entry.type_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=psecure-configured
+                1  |  value=psecure-configured
+
+  cisco.content.psecure-entry.vlan  (gauge, 2)
+  ----------------------------------------------------------------------
+              201  |  (global)
+              201  |  (global)
+
+  cisco.content.psecure-param.age-remain  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.psecure-param.mac_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=aa:aa:00:01:00:01
+                1  |  value=aa:aa:00:02:00:01
+
+  cisco.content.psecure-param.type_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=psecure-configured
+                1  |  value=psecure-configured
+
+  cisco.content.psecure-param.vlan  (gauge, 2)
+  ----------------------------------------------------------------------
+              201  |  (global)
+              201  |  (global)
+
+  cisco.keys.if-name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=TenGigabitEthernet1/0/2
+                1  |  value=GigabitEthernet1/0/2

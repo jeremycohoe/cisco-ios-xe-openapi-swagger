@@ -1,0 +1,740 @@
+==========================================================================================
+  Sub 50004: Subscription 50004
+  Folder: 50004-cisco-ios-xe-lldp-oper_lldp-entries
+  585 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.lldp-entry.connecting-interface_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  connecting-interface=0, device-id=AP0C75.BDB1.DB88, local-interface=Gi1/0/13, value=0
+                1  |  connecting-interface=Te1/0/10, device-id=FVH2812L1E7-TOR2, local-interface=Gi1/0/24, value=Te1/0/10
+
+  cisco.content.lldp-entry.device-id_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  connecting-interface=0, device-id=AP0C75.BDB1.DB88, local-interface=Gi1/0/13, value=AP0C75.BDB1.DB88
+                1  |  connecting-interface=Te1/0/10, device-id=FVH2812L1E7-TOR2, local-interface=Gi1/0/24, value=FVH2812L1E7-TOR2
+
+  cisco.content.lldp-entry.local-efp-id  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  connecting-interface=0, device-id=AP0C75.BDB1.DB88, local-interface=Gi1/0/13
+                0  |  connecting-interface=Te1/0/10, device-id=FVH2812L1E7-TOR2, local-interface=Gi1/0/24
+
+  cisco.content.lldp-entry.local-interface_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  connecting-interface=0, device-id=AP0C75.BDB1.DB88, local-interface=Gi1/0/13, value=Gi1/0/13
+                1  |  connecting-interface=Te1/0/10, device-id=FVH2812L1E7-TOR2, local-interface=Gi1/0/24, value=Gi1/0/24
+
+  cisco.content.lldp-entry.mau-type  (gauge, 2)
+  ----------------------------------------------------------------------
+               30  |  connecting-interface=0, device-id=AP0C75.BDB1.DB88, local-interface=Gi1/0/13
+               30  |  connecting-interface=Te1/0/10, device-id=FVH2812L1E7-TOR2, local-interface=Gi1/0/24
+
+  cisco.content.lldp-entry.port-vlan-id  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  connecting-interface=0, device-id=AP0C75.BDB1.DB88, local-interface=Gi1/0/13
+               30  |  connecting-interface=Te1/0/10, device-id=FVH2812L1E7-TOR2, local-interface=Gi1/0/24
+
+  cisco.content.lldp-entry.ttl  (gauge, 2)
+  ----------------------------------------------------------------------
+              120  |  connecting-interface=0, device-id=AP0C75.BDB1.DB88, local-interface=Gi1/0/13
+              120  |  connecting-interface=Te1/0/10, device-id=FVH2812L1E7-TOR2, local-interface=Gi1/0/24
+
+  cisco.content.lldp-intf-details.if-name_info  (gauge, 123)
+  ----------------------------------------------------------------------
+                1  |  value=GigabitEthernet0/0
+                1  |  value=GigabitEthernet1/0/1
+                1  |  value=GigabitEthernet1/0/2
+                1  |  value=GigabitEthernet1/0/3
+                1  |  value=GigabitEthernet1/0/4
+                1  |  value=GigabitEthernet1/0/5
+                1  |  value=GigabitEthernet1/0/6
+                1  |  value=GigabitEthernet1/0/7
+                1  |  value=GigabitEthernet1/0/8
+                1  |  value=GigabitEthernet1/0/9
+                1  |  value=GigabitEthernet1/0/10
+                1  |  value=GigabitEthernet1/0/11
+                1  |  value=GigabitEthernet1/0/12
+                1  |  value=GigabitEthernet1/0/13
+                1  |  value=GigabitEthernet1/0/14
+                1  |  value=GigabitEthernet1/0/15
+                1  |  value=GigabitEthernet1/0/16
+                1  |  value=GigabitEthernet1/0/17
+                1  |  value=GigabitEthernet1/0/18
+                1  |  value=GigabitEthernet1/0/19
+                1  |  value=GigabitEthernet1/0/20
+                1  |  value=GigabitEthernet1/0/21
+                1  |  value=GigabitEthernet1/0/22
+                1  |  value=GigabitEthernet1/0/23
+                1  |  value=GigabitEthernet1/0/24
+                1  |  value=GigabitEthernet1/1/1
+                1  |  value=GigabitEthernet1/1/2
+                1  |  value=GigabitEthernet1/1/3
+                1  |  value=GigabitEthernet1/1/4
+                1  |  value=TenGigabitEthernet1/1/1
+                1  |  value=TenGigabitEthernet1/1/2
+                1  |  value=TenGigabitEthernet1/1/3
+                1  |  value=TenGigabitEthernet1/1/4
+                1  |  value=TenGigabitEthernet1/1/5
+                1  |  value=TenGigabitEthernet1/1/6
+                1  |  value=TenGigabitEthernet1/1/7
+                1  |  value=TenGigabitEthernet1/1/8
+                1  |  value=FortyGigabitEthernet1/1/1
+                1  |  value=FortyGigabitEthernet1/1/2
+                1  |  value=TwentyFiveGigE1/1/1
+                1  |  value=TwentyFiveGigE1/1/2
+                1  |  value=AppGigabitEthernet1/0/1
+                1  |  value=Bluetooth0/4
+                1  |  value=GigabitEthernet0/0
+                1  |  value=TenGigabitEthernet1/0/1
+                1  |  value=TenGigabitEthernet1/0/2
+                1  |  value=TenGigabitEthernet1/0/3
+                1  |  value=TenGigabitEthernet1/0/4
+                1  |  value=TenGigabitEthernet1/0/5
+                1  |  value=TenGigabitEthernet1/0/6
+                1  |  value=TenGigabitEthernet1/0/7
+                1  |  value=TenGigabitEthernet1/0/8
+                1  |  value=TenGigabitEthernet1/0/9
+                1  |  value=TenGigabitEthernet1/0/10
+                1  |  value=TenGigabitEthernet1/0/11
+                1  |  value=TenGigabitEthernet1/0/12
+                1  |  value=TenGigabitEthernet1/0/13
+                1  |  value=TenGigabitEthernet1/0/14
+                1  |  value=TenGigabitEthernet1/0/15
+                1  |  value=TenGigabitEthernet1/0/16
+                1  |  value=TenGigabitEthernet1/0/17
+                1  |  value=TenGigabitEthernet1/0/18
+                1  |  value=TenGigabitEthernet1/0/19
+                1  |  value=TenGigabitEthernet1/0/20
+                1  |  value=TenGigabitEthernet1/0/21
+                1  |  value=TenGigabitEthernet1/0/22
+                1  |  value=TenGigabitEthernet1/0/23
+                1  |  value=TenGigabitEthernet1/0/24
+                1  |  value=TenGigabitEthernet1/0/25
+                1  |  value=TenGigabitEthernet1/0/26
+                1  |  value=TenGigabitEthernet1/0/27
+                1  |  value=TenGigabitEthernet1/0/28
+                1  |  value=TenGigabitEthernet1/0/29
+                1  |  value=TenGigabitEthernet1/0/30
+                1  |  value=TenGigabitEthernet1/0/31
+                1  |  value=TenGigabitEthernet1/0/32
+                1  |  value=TenGigabitEthernet1/0/33
+                1  |  value=TenGigabitEthernet1/0/34
+                1  |  value=TenGigabitEthernet1/0/35
+                1  |  value=TenGigabitEthernet1/0/36
+                1  |  value=TenGigabitEthernet1/0/37
+                1  |  value=TenGigabitEthernet1/0/38
+                1  |  value=TenGigabitEthernet1/0/39
+                1  |  value=TenGigabitEthernet1/0/40
+                1  |  value=TenGigabitEthernet1/0/41
+                1  |  value=TenGigabitEthernet1/0/42
+                1  |  value=TenGigabitEthernet1/0/43
+                1  |  value=TenGigabitEthernet1/0/44
+                1  |  value=TenGigabitEthernet1/0/45
+                1  |  value=TenGigabitEthernet1/0/46
+                1  |  value=TenGigabitEthernet1/0/47
+                1  |  value=TenGigabitEthernet1/0/48
+                1  |  value=TenGigabitEthernet1/1/1
+                1  |  value=TenGigabitEthernet1/1/2
+                1  |  value=TenGigabitEthernet1/1/3
+                1  |  value=TenGigabitEthernet1/1/4
+                1  |  value=TenGigabitEthernet1/1/5
+                1  |  value=TenGigabitEthernet1/1/6
+                1  |  value=TenGigabitEthernet1/1/7
+                1  |  value=TenGigabitEthernet1/1/8
+                1  |  value=TwentyFiveGigE1/1/1
+                1  |  value=TwentyFiveGigE1/1/2
+                1  |  value=TwentyFiveGigE1/1/3
+                1  |  value=TwentyFiveGigE1/1/4
+                1  |  value=TwentyFiveGigE1/1/5
+                1  |  value=TwentyFiveGigE1/1/6
+                1  |  value=TwentyFiveGigE1/1/7
+                1  |  value=TwentyFiveGigE1/1/8
+                1  |  value=TwentyFiveGigE1/1/9
+                1  |  value=TwentyFiveGigE1/1/10
+                1  |  value=TwentyFiveGigE1/1/11
+                1  |  value=TwentyFiveGigE1/1/12
+                1  |  value=TwentyFiveGigE1/1/13
+                1  |  value=TwentyFiveGigE1/1/14
+                1  |  value=TwentyFiveGigE1/1/15
+                1  |  value=TwentyFiveGigE1/1/16
+                1  |  value=HundredGigE1/1/1
+                1  |  value=HundredGigE1/1/2
+                1  |  value=HundredGigE1/1/3
+                1  |  value=HundredGigE1/1/4
+                1  |  value=AppGigabitEthernet1/0/1
+                1  |  value=AppGigabitEthernet1/0/2
+                1  |  value=Bluetooth0/4
+
+  cisco.content.lldp-intf-details.isenabled  (gauge, 123)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.adv-media-cap_info  (gauge, 9)
+  ----------------------------------------------------------------------
+                1  |  value=1000baset-fd
+                1  |  value=1000base-t-hd
+                1  |  value=100basetx-fd
+                1  |  value=100basetx
+                1  |  value=10baset-fd
+                1  |  value=10baset
+                1  |  value=1000baset-fd
+                1  |  value=100basetx-fd
+                1  |  value=100basetx
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.age  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.chassis-id-type_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=chassis-mac
+                1  |  value=chassis-mac
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.chassis-id_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=0c75.bdb1.db88
+                1  |  value=8c44.a522.5a80
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.identifier_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=0c75.bdb1.db880
+                1  |  value=8c44.a522.5a80Te1/0/10
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.local-efp-id  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.media-caps_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=10baset
+                1  |  value=100basetx
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.mgmt-addrs.mgmt-addr-type_info  (gauge, 3)
+  ----------------------------------------------------------------------
+                1  |  value=mgmt-ip
+                1  |  value=mgmt-ipv6
+                1  |  value=mgmt-ip
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.mgmt-addrs.mgmt-addr_info  (gauge, 3)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.155
+                1  |  value=2001:DB8:30:0:E75:BDFF:FEB1:DB88
+                1  |  value=10.128.128.4
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.peer-src-mac_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=0c:75:bd:b1:db:88
+                1  |  value=8c:44:a5:22:5a:8a
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.port-desc_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=eth0
+                1  |  value=C9300-POD10-Gi24
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.port-id-type_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=port-ifalias
+                1  |  value=port-ifname
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.port-id_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=0
+                1  |  value=Te1/0/10
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.system-desc_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=Cisco AP Software, ap1g6a-k9w8 Version: 17.3.3.26
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2021 by Cisco Systems, Inc.
+Compiled Tue Mar  2 21:39:56 PST 2021 by aut
+                1  |  value=Cisco IOS Software [IOSXE], Catalyst L3 Switch Software (CAT9K_IOSXE), Version 17.15.1, RELEASE SOFTWARE (fc4)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2024 by Cisco Systems, Inc.
+Compiled Sun 11-Aug-24 22:16 by mcpre
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.system-name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=AP0C75.BDB1.DB88
+                1  |  value=FVH2812L1E7-TOR2
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.time-remaining  (gauge, 2)
+  ----------------------------------------------------------------------
+              100  |  (global)
+              107  |  (global)
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.time-since-last-update  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.lldp-intf-details.lldp-neighbor-details.ttl  (gauge, 2)
+  ----------------------------------------------------------------------
+              120  |  (global)
+              120  |  (global)
+
+  cisco.content.lldp-intf-details.rx_info  (gauge, 123)
+  ----------------------------------------------------------------------
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-for-frame
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-for-frame
+                1  |  value=wait-port-oper
+                1  |  value=wait-for-frame
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-for-frame
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-for-frame
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-for-frame
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-port-oper
+                1  |  value=wait-for-frame
+                1  |  value=wait-for-frame
+                1  |  value=wait-port-oper
+
+  cisco.content.lldp-intf-details.tx_info  (gauge, 123)
+  ----------------------------------------------------------------------
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=idle
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=idle
+                1  |  value=rx-init
+                1  |  value=idle
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=idle
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=idle
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=idle
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=rx-init
+                1  |  value=idle
+                1  |  value=idle
+                1  |  value=rx-init
+
+  cisco.content.lldp-state-details.chassis-id-type_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=chassis-mac
+                1  |  value=chassis-mac
+
+  cisco.content.lldp-state-details.chassis-id_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=7035.0957.9880
+                1  |  value=6c03.b557.7400
+
+  cisco.content.lldp-state-details.enabled  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.lldp-state-details.encap-failures  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.lldp-state-details.entries-aged-out  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.lldp-state-details.frame-discard  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.lldp-state-details.frame-error-in  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.lldp-state-details.frame-in  (gauge, 2)
+  ----------------------------------------------------------------------
+            4,412  |  (global)
+                0  |  (global)
+
+  cisco.content.lldp-state-details.frame-out  (gauge, 2)
+  ----------------------------------------------------------------------
+           17,043  |  (global)
+           12,630  |  (global)
+
+  cisco.content.lldp-state-details.hello-timer  (gauge, 2)
+  ----------------------------------------------------------------------
+               30  |  (global)
+               30  |  (global)
+
+  cisco.content.lldp-state-details.inqueue-overflow  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.lldp-state-details.mem-failures  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.lldp-state-details.system-desc_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=Cisco IOS Software [IOSXE], Catalyst L3 Switch Software (CAT9K_IOSXE), Version 26.01.1, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2026 by Cisco Systems, Inc.
+Compiled Wed 01-Apr-26 22:53 by mcpre
+                1  |  value=Cisco IOS Software [IOSXE], Catalyst L3 Switch Software (CAT9K_IOSXE), Version 26.01.1, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2026 by Cisco Systems, Inc.
+Compiled Wed 01-Apr-26 22:53 by mcpre
+
+  cisco.content.lldp-state-details.system-name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=cat9300-pod10b
+                1  |  value=cat9300x-pod10a
+
+  cisco.content.lldp-state-details.table-overflow  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.lldp-state-details.tlv-discard  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.lldp-state-details.tlv-unknown  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)

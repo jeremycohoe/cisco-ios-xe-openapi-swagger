@@ -1,0 +1,85 @@
+==========================================================================================
+  Sub 50030: Subscription 50030
+  Folder: 50030-cisco-ios-xe-ipv6-nd-oper_ipv6-nd-oper-data_ni-ipv6-nd_ipv6-
+  56 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.is-router  (gauge, 7)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.mac-addr_info  (gauge, 7)
+  ----------------------------------------------------------------------
+                1  |  value=76:8f:83:13:9a:bf
+                1  |  value=76:8f:83:13:9a:bf
+                1  |  value=0c:75:bd:b1:db:88
+                1  |  value=76:8f:83:13:9a:bf
+                1  |  value=bc:24:11:be:bd:fe
+                1  |  value=0c:75:bd:b1:db:88
+                1  |  value=bc:24:11:be:bd:fe
+
+  cisco.content.mode_info  (gauge, 7)
+  ----------------------------------------------------------------------
+                1  |  value=v6-nd-mode-dyn
+                1  |  value=v6-nd-mode-dyn
+                1  |  value=v6-nd-mode-dyn
+                1  |  value=v6-nd-mode-dyn
+                1  |  value=v6-nd-mode-dyn
+                1  |  value=v6-nd-mode-dyn
+                1  |  value=v6-nd-mode-dyn
+
+  cisco.content.state_info  (gauge, 7)
+  ----------------------------------------------------------------------
+                1  |  value=v6-nd-st-reachable
+                1  |  value=v6-nd-st-reachable
+                1  |  value=v6-nd-st-stale
+                1  |  value=v6-nd-st-reachable
+                1  |  value=v6-nd-st-stale
+                1  |  value=v6-nd-st-reachable
+                1  |  value=v6-nd-st-stale
+
+  cisco.content.update-time_info  (gauge, 7)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-20T19:15:58.980000+00:00
+                1  |  value=2026-04-20T19:07:01.963000+00:00
+                1  |  value=2026-04-20T18:03:17.590000+00:00
+                1  |  value=2026-04-20T19:39:15.953000+00:00
+                1  |  value=2026-04-20T18:36:19.283000+00:00
+                1  |  value=2026-04-20T18:02:49.973000+00:00
+                1  |  value=2026-04-20T18:35:48.263000+00:00
+
+  cisco.keys.if-name_info  (gauge, 7)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+
+  cisco.keys.ni-name_info  (gauge, 7)
+  ----------------------------------------------------------------------
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+                1  |  value=default
+
+  cisco.keys.v6addr_info  (gauge, 7)
+  ----------------------------------------------------------------------
+                1  |  value=2001:db8:30:0:8c56:10b9:adf4:8b9f
+                1  |  value=2001:db8:30:0:d1f0:6561:d623:d67a
+                1  |  value=fe80::e75:bdff:feb1:db88
+                1  |  value=fe80::748f:83ff:fe13:9abf
+                1  |  value=fe80::be24:11ff:febe:bdfe
+                1  |  value=fe80::e75:bdff:feb1:db88
+                1  |  value=fe80::be24:11ff:febe:bdfe

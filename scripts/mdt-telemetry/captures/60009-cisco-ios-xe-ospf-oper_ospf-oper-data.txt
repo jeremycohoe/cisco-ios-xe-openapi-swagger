@@ -1,0 +1,2561 @@
+==========================================================================================
+  Sub 60009: Subscription 60009
+  Folder: 60009-cisco-ios-xe-ospf-oper_ospf-oper-data
+  2280 data points from 17 telemetry messages
+==========================================================================================
+
+  cisco.content.ospf-state.op-mode_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=ospf-ships-in-the-night
+                1  |  value=ospf-ships-in-the-night
+                1  |  value=ospf-ships-in-the-night
+                1  |  value=ospf-ships-in-the-night
+                1  |  value=ospf-ships-in-the-night
+                1  |  value=ospf-ships-in-the-night
+                1  |  value=ospf-ships-in-the-night
+                1  |  value=ospf-ships-in-the-night
+                1  |  value=ospf-ships-in-the-night
+                1  |  value=ospf-ships-in-the-night
+
+  cisco.content.ospf-state.ospf-instance.af_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  router-id=184483841, value=address-family-ipv4
+                1  |  router-id=184483842, value=address-family-ipv4
+                1  |  router-id=184483841, value=address-family-ipv4
+                1  |  router-id=184483842, value=address-family-ipv4
+                1  |  router-id=184483841, value=address-family-ipv4
+                1  |  router-id=184483842, value=address-family-ipv4
+                1  |  router-id=184483841, value=address-family-ipv4
+                1  |  router-id=184483842, value=address-family-ipv4
+                1  |  router-id=184483841, value=address-family-ipv4
+                1  |  router-id=184483842, value=address-family-ipv4
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.area-id  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.authentication.no-auth  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.bdr_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841, value=10.255.0.1
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=10.255.0.1
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=10.255.0.1
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=10.255.0.1
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=10.255.0.1
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=10.255.0.1
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=10.255.0.1
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=10.255.0.1
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=10.255.0.1
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=10.255.0.1
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.bfd  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.cost  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.dead-interval  (gauge, 30)
+  ----------------------------------------------------------------------
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483841
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483842
+               40  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.demand-circuit  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.dr_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841, value=10.255.0.2
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=10.255.0.2
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=10.255.0.2
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=10.255.0.2
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=10.255.0.2
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=10.255.0.2
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=10.255.0.2
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=10.255.0.2
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=10.255.0.2
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483841, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=10.255.0.2
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+                1  |  area-id=0, router-id=184483842, value=0.0.0.0
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.enable  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.fast-reroute.candidate-disabled  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.fast-reroute.enabled  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.fast-reroute.remote-lfa-enabled  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.hello-interval  (gauge, 30)
+  ----------------------------------------------------------------------
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483841
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483842
+               10  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.hello-timer  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                3  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                4  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                6  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                9  |  area-id=0, router-id=184483842
+                2  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                2  |  area-id=0, router-id=184483841
+                8  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483842
+                9  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                4  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                4  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                6  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                9  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.lls  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.mtu-ignore  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.multi-area.cost  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.multi-area.multi-area-id  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.name_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841, value=Vlan30
+                1  |  area-id=0, router-id=184483841, value=Vlan200
+                1  |  area-id=0, router-id=184483841, value=Loopback0
+                1  |  area-id=0, router-id=184483842, value=Vlan30
+                1  |  area-id=0, router-id=184483842, value=Vlan200
+                1  |  area-id=0, router-id=184483842, value=Loopback0
+                1  |  area-id=0, router-id=184483841, value=Vlan30
+                1  |  area-id=0, router-id=184483841, value=Vlan200
+                1  |  area-id=0, router-id=184483841, value=Loopback0
+                1  |  area-id=0, router-id=184483842, value=Vlan30
+                1  |  area-id=0, router-id=184483842, value=Vlan200
+                1  |  area-id=0, router-id=184483842, value=Loopback0
+                1  |  area-id=0, router-id=184483841, value=Vlan30
+                1  |  area-id=0, router-id=184483841, value=Vlan200
+                1  |  area-id=0, router-id=184483841, value=Loopback0
+                1  |  area-id=0, router-id=184483842, value=Vlan30
+                1  |  area-id=0, router-id=184483842, value=Vlan200
+                1  |  area-id=0, router-id=184483842, value=Loopback0
+                1  |  area-id=0, router-id=184483841, value=Vlan30
+                1  |  area-id=0, router-id=184483841, value=Vlan200
+                1  |  area-id=0, router-id=184483841, value=Loopback0
+                1  |  area-id=0, router-id=184483842, value=Vlan30
+                1  |  area-id=0, router-id=184483842, value=Vlan200
+                1  |  area-id=0, router-id=184483842, value=Loopback0
+                1  |  area-id=0, router-id=184483841, value=Vlan30
+                1  |  area-id=0, router-id=184483841, value=Vlan200
+                1  |  area-id=0, router-id=184483841, value=Loopback0
+                1  |  area-id=0, router-id=184483842, value=Vlan30
+                1  |  area-id=0, router-id=184483842, value=Vlan200
+                1  |  area-id=0, router-id=184483842, value=Loopback0
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.network-type_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483841, value=ospf-point-to-point
+                1  |  area-id=0, router-id=184483841, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483842, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483842, value=ospf-point-to-point
+                1  |  area-id=0, router-id=184483842, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483841, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483841, value=ospf-point-to-point
+                1  |  area-id=0, router-id=184483841, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483842, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483842, value=ospf-point-to-point
+                1  |  area-id=0, router-id=184483842, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483841, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483841, value=ospf-point-to-point
+                1  |  area-id=0, router-id=184483841, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483842, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483842, value=ospf-point-to-point
+                1  |  area-id=0, router-id=184483842, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483841, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483841, value=ospf-point-to-point
+                1  |  area-id=0, router-id=184483841, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483842, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483842, value=ospf-point-to-point
+                1  |  area-id=0, router-id=184483842, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483841, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483841, value=ospf-point-to-point
+                1  |  area-id=0, router-id=184483841, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483842, value=ospf-broadcast
+                1  |  area-id=0, router-id=184483842, value=ospf-point-to-point
+                1  |  area-id=0, router-id=184483842, value=ospf-broadcast
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.node-flag  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.ospf-neighbor.address_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841, value=10.1.1.55
+                1  |  area-id=0, router-id=184483842, value=10.1.1.5
+                1  |  area-id=0, router-id=184483841, value=10.1.1.55
+                1  |  area-id=0, router-id=184483842, value=10.1.1.5
+                1  |  area-id=0, router-id=184483841, value=10.1.1.55
+                1  |  area-id=0, router-id=184483842, value=10.1.1.5
+                1  |  area-id=0, router-id=184483841, value=10.1.1.55
+                1  |  area-id=0, router-id=184483842, value=10.1.1.5
+                1  |  area-id=0, router-id=184483841, value=10.1.1.55
+                1  |  area-id=0, router-id=184483842, value=10.1.1.5
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.ospf-neighbor.bdr_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841, value=10.1.1.5
+                1  |  area-id=0, router-id=184483842, value=10.1.1.5
+                1  |  area-id=0, router-id=184483841, value=10.1.1.5
+                1  |  area-id=0, router-id=184483842, value=10.1.1.5
+                1  |  area-id=0, router-id=184483841, value=10.1.1.5
+                1  |  area-id=0, router-id=184483842, value=10.1.1.5
+                1  |  area-id=0, router-id=184483841, value=10.1.1.5
+                1  |  area-id=0, router-id=184483842, value=10.1.1.5
+                1  |  area-id=0, router-id=184483841, value=10.1.1.5
+                1  |  area-id=0, router-id=184483842, value=10.1.1.5
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.ospf-neighbor.dr_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841, value=10.1.1.55
+                1  |  area-id=0, router-id=184483842, value=10.1.1.55
+                1  |  area-id=0, router-id=184483841, value=10.1.1.55
+                1  |  area-id=0, router-id=184483842, value=10.1.1.55
+                1  |  area-id=0, router-id=184483841, value=10.1.1.55
+                1  |  area-id=0, router-id=184483842, value=10.1.1.55
+                1  |  area-id=0, router-id=184483841, value=10.1.1.55
+                1  |  area-id=0, router-id=184483842, value=10.1.1.55
+                1  |  area-id=0, router-id=184483841, value=10.1.1.55
+                1  |  area-id=0, router-id=184483842, value=10.1.1.55
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.ospf-neighbor.neighbor-id_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841, value=10.255.0.2
+                1  |  area-id=0, router-id=184483842, value=10.255.0.1
+                1  |  area-id=0, router-id=184483841, value=10.255.0.2
+                1  |  area-id=0, router-id=184483842, value=10.255.0.1
+                1  |  area-id=0, router-id=184483841, value=10.255.0.2
+                1  |  area-id=0, router-id=184483842, value=10.255.0.1
+                1  |  area-id=0, router-id=184483841, value=10.255.0.2
+                1  |  area-id=0, router-id=184483842, value=10.255.0.1
+                1  |  area-id=0, router-id=184483841, value=10.255.0.2
+                1  |  area-id=0, router-id=184483842, value=10.255.0.1
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.ospf-neighbor.state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841, value=ospf-nbr-full
+                1  |  area-id=0, router-id=184483842, value=ospf-nbr-full
+                1  |  area-id=0, router-id=184483841, value=ospf-nbr-full
+                1  |  area-id=0, router-id=184483842, value=ospf-nbr-full
+                1  |  area-id=0, router-id=184483841, value=ospf-nbr-full
+                1  |  area-id=0, router-id=184483842, value=ospf-nbr-full
+                1  |  area-id=0, router-id=184483841, value=ospf-nbr-full
+                1  |  area-id=0, router-id=184483842, value=ospf-nbr-full
+                1  |  area-id=0, router-id=184483841, value=ospf-nbr-full
+                1  |  area-id=0, router-id=184483842, value=ospf-nbr-full
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.ospf-neighbor.stats.nbr-event-count  (gauge, 10)
+  ----------------------------------------------------------------------
+                6  |  area-id=0, router-id=184483841
+                6  |  area-id=0, router-id=184483842
+                6  |  area-id=0, router-id=184483841
+                6  |  area-id=0, router-id=184483842
+                6  |  area-id=0, router-id=184483841
+                6  |  area-id=0, router-id=184483842
+                6  |  area-id=0, router-id=184483841
+                6  |  area-id=0, router-id=184483842
+                6  |  area-id=0, router-id=184483841
+                6  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.ospf-neighbor.stats.nbr-retrans-qlen  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.passive  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.prefix-suppression  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.priority  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.retransmit-interval  (gauge, 30)
+  ----------------------------------------------------------------------
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483841
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483842
+                5  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.state_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841, value=BDR
+                1  |  area-id=0, router-id=184483841, value=Point-to-Point
+                1  |  area-id=0, router-id=184483841, value=Loopback
+                1  |  area-id=0, router-id=184483842, value=DR
+                1  |  area-id=0, router-id=184483842, value=Point-to-Point
+                1  |  area-id=0, router-id=184483842, value=Loopback
+                1  |  area-id=0, router-id=184483841, value=BDR
+                1  |  area-id=0, router-id=184483841, value=Point-to-Point
+                1  |  area-id=0, router-id=184483841, value=Loopback
+                1  |  area-id=0, router-id=184483842, value=DR
+                1  |  area-id=0, router-id=184483842, value=Point-to-Point
+                1  |  area-id=0, router-id=184483842, value=Loopback
+                1  |  area-id=0, router-id=184483841, value=BDR
+                1  |  area-id=0, router-id=184483841, value=Point-to-Point
+                1  |  area-id=0, router-id=184483841, value=Loopback
+                1  |  area-id=0, router-id=184483842, value=DR
+                1  |  area-id=0, router-id=184483842, value=Point-to-Point
+                1  |  area-id=0, router-id=184483842, value=Loopback
+                1  |  area-id=0, router-id=184483841, value=BDR
+                1  |  area-id=0, router-id=184483841, value=Point-to-Point
+                1  |  area-id=0, router-id=184483841, value=Loopback
+                1  |  area-id=0, router-id=184483842, value=DR
+                1  |  area-id=0, router-id=184483842, value=Point-to-Point
+                1  |  area-id=0, router-id=184483842, value=Loopback
+                1  |  area-id=0, router-id=184483841, value=BDR
+                1  |  area-id=0, router-id=184483841, value=Point-to-Point
+                1  |  area-id=0, router-id=184483841, value=Loopback
+                1  |  area-id=0, router-id=184483842, value=DR
+                1  |  area-id=0, router-id=184483842, value=Point-to-Point
+                1  |  area-id=0, router-id=184483842, value=Loopback
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.transmit-delay  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483841
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+                1  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.ttl-security.enabled  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.ttl-security.hops  (gauge, 30)
+  ----------------------------------------------------------------------
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483841
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483842
+              255  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.ospf-area.ospf-interface.wait-timer  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483841
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+                0  |  area-id=0, router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.process-id  (gauge, 10)
+  ----------------------------------------------------------------------
+              100  |  router-id=184483841
+              100  |  router-id=184483842
+              100  |  router-id=184483841
+              100  |  router-id=184483842
+              100  |  router-id=184483841
+              100  |  router-id=184483842
+              100  |  router-id=184483841
+              100  |  router-id=184483842
+              100  |  router-id=184483841
+              100  |  router-id=184483842
+
+  cisco.content.ospf-state.ospf-instance.router-id  (gauge, 10)
+  ----------------------------------------------------------------------
+      184,483,841  |  router-id=184483841
+      184,483,842  |  router-id=184483842
+      184,483,841  |  router-id=184483841
+      184,483,842  |  router-id=184483842
+      184,483,841  |  router-id=184483841
+      184,483,842  |  router-id=184483842
+      184,483,841  |  router-id=184483841
+      184,483,842  |  router-id=184483842
+      184,483,841  |  router-id=184483841
+      184,483,842  |  router-id=184483842
+
+  cisco.content.ospfv2-instance.instance-id  (gauge, 10)
+  ----------------------------------------------------------------------
+              100  |  (global)
+              100  |  (global)
+              100  |  (global)
+              100  |  (global)
+              100  |  (global)
+              100  |  (global)
+              100  |  (global)
+              100  |  (global)
+              100  |  (global)
+              100  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.area-id  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.auth-val.no-auth  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.bdr  (gauge, 30)
+  ----------------------------------------------------------------------
+      184,483,841  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,841  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,841  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,841  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,841  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,841  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,841  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,841  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,841  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,841  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.bdr-ip_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.5
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.5
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.5
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.5
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.5
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.5
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.5
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.5
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.5
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.5
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.cost  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.dead-interval  (gauge, 30)
+  ----------------------------------------------------------------------
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+               40  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.demand-circuit  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.dr  (gauge, 30)
+  ----------------------------------------------------------------------
+      184,483,842  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,842  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,842  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,842  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,842  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,842  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,842  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,842  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,842  |  (global)
+                0  |  (global)
+                0  |  (global)
+      184,483,842  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.dr-ip_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+                1  |  value=10.1.1.55
+                1  |  value=0.0.0.0
+                1  |  value=0.0.0.0
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.enable  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.hello-interval  (gauge, 30)
+  ----------------------------------------------------------------------
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+               10  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.hello-timer  (gauge, 30)
+  ----------------------------------------------------------------------
+                9  |  (global)
+                2  |  (global)
+                0  |  (global)
+                1  |  (global)
+                4  |  (global)
+                0  |  (global)
+                6  |  (global)
+                0  |  (global)
+                0  |  (global)
+                8  |  (global)
+                2  |  (global)
+                0  |  (global)
+                2  |  (global)
+                7  |  (global)
+                0  |  (global)
+                5  |  (global)
+                9  |  (global)
+                0  |  (global)
+                0  |  (global)
+                4  |  (global)
+                0  |  (global)
+                1  |  (global)
+                4  |  (global)
+                0  |  (global)
+                6  |  (global)
+                1  |  (global)
+                0  |  (global)
+                9  |  (global)
+                1  |  (global)
+                0  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.mtu-ignore  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.name_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.network-type_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-point-to-point
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-point-to-point
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-point-to-point
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-point-to-point
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-point-to-point
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-point-to-point
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-point-to-point
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-point-to-point
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-point-to-point
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-broadcast
+                1  |  value=ospf-point-to-point
+                1  |  value=ospf-broadcast
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.ospfv2-neighbor.address_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.ospfv2-neighbor.bdr  (gauge, 10)
+  ----------------------------------------------------------------------
+      167,837,957  |  (global)
+      167,837,957  |  (global)
+      167,837,957  |  (global)
+      167,837,957  |  (global)
+      167,837,957  |  (global)
+      167,837,957  |  (global)
+      167,837,957  |  (global)
+      167,837,957  |  (global)
+      167,837,957  |  (global)
+      167,837,957  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.ospfv2-neighbor.bdr-ip_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.5
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.ospfv2-neighbor.dead-timer  (gauge, 10)
+  ----------------------------------------------------------------------
+               32  |  (global)
+               39  |  (global)
+               39  |  (global)
+               36  |  (global)
+               36  |  (global)
+               33  |  (global)
+               32  |  (global)
+               39  |  (global)
+               39  |  (global)
+               36  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.ospfv2-neighbor.dr  (gauge, 10)
+  ----------------------------------------------------------------------
+      167,838,007  |  (global)
+      167,838,007  |  (global)
+      167,838,007  |  (global)
+      167,838,007  |  (global)
+      167,838,007  |  (global)
+      167,838,007  |  (global)
+      167,838,007  |  (global)
+      167,838,007  |  (global)
+      167,838,007  |  (global)
+      167,838,007  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.ospfv2-neighbor.dr-ip_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.55
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.ospfv2-neighbor.event-count  (gauge, 10)
+  ----------------------------------------------------------------------
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+                6  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.ospfv2-neighbor.nbr-id  (gauge, 10)
+  ----------------------------------------------------------------------
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.ospfv2-neighbor.retrans-count  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.ospfv2-neighbor.state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=ospf-nbr-full
+                1  |  value=ospf-nbr-full
+                1  |  value=ospf-nbr-full
+                1  |  value=ospf-nbr-full
+                1  |  value=ospf-nbr-full
+                1  |  value=ospf-nbr-full
+                1  |  value=ospf-nbr-full
+                1  |  value=ospf-nbr-full
+                1  |  value=ospf-nbr-full
+                1  |  value=ospf-nbr-full
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.passive  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+                0  |  (global)
+                0  |  (global)
+                1  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.prefix-suppresion  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.retransmit-interval  (gauge, 30)
+  ----------------------------------------------------------------------
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+                5  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.state_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  value=ospfv2-interface-state-backup
+                1  |  value=ospfv2-interface-state-point-to-point
+                1  |  value=ospfv2-interface-state-loopback
+                1  |  value=ospfv2-interface-state-dr
+                1  |  value=ospfv2-interface-state-point-to-point
+                1  |  value=ospfv2-interface-state-loopback
+                1  |  value=ospfv2-interface-state-backup
+                1  |  value=ospfv2-interface-state-point-to-point
+                1  |  value=ospfv2-interface-state-loopback
+                1  |  value=ospfv2-interface-state-dr
+                1  |  value=ospfv2-interface-state-point-to-point
+                1  |  value=ospfv2-interface-state-loopback
+                1  |  value=ospfv2-interface-state-backup
+                1  |  value=ospfv2-interface-state-point-to-point
+                1  |  value=ospfv2-interface-state-loopback
+                1  |  value=ospfv2-interface-state-dr
+                1  |  value=ospfv2-interface-state-point-to-point
+                1  |  value=ospfv2-interface-state-loopback
+                1  |  value=ospfv2-interface-state-backup
+                1  |  value=ospfv2-interface-state-point-to-point
+                1  |  value=ospfv2-interface-state-loopback
+                1  |  value=ospfv2-interface-state-dr
+                1  |  value=ospfv2-interface-state-point-to-point
+                1  |  value=ospfv2-interface-state-loopback
+                1  |  value=ospfv2-interface-state-backup
+                1  |  value=ospfv2-interface-state-point-to-point
+                1  |  value=ospfv2-interface-state-loopback
+                1  |  value=ospfv2-interface-state-dr
+                1  |  value=ospfv2-interface-state-point-to-point
+                1  |  value=ospfv2-interface-state-loopback
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.transmit-delay  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.ttl-security-val.enable  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.ttl-security-val.hops  (gauge, 30)
+  ----------------------------------------------------------------------
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+              255  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-interface.wait-timer  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.advertising-router  (gauge, 30)
+  ----------------------------------------------------------------------
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,842  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.lsa-age  (gauge, 30)
+  ----------------------------------------------------------------------
+            1,782  |  (global)
+            1,763  |  (global)
+            1,763  |  (global)
+            1,784  |  (global)
+            1,762  |  (global)
+            1,762  |  (global)
+            1,842  |  (global)
+            1,823  |  (global)
+            1,823  |  (global)
+            1,844  |  (global)
+            1,822  |  (global)
+            1,822  |  (global)
+            1,902  |  (global)
+            1,883  |  (global)
+            1,883  |  (global)
+            1,904  |  (global)
+            1,883  |  (global)
+            1,883  |  (global)
+            1,962  |  (global)
+            1,943  |  (global)
+            1,943  |  (global)
+            1,964  |  (global)
+            1,943  |  (global)
+            1,943  |  (global)
+               33  |  (global)
+            2,003  |  (global)
+            2,003  |  (global)
+               34  |  (global)
+            2,003  |  (global)
+            2,003  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.lsa-checksum  (gauge, 30)
+  ----------------------------------------------------------------------
+           10,592  |  (global)
+           15,895  |  (global)
+           54,210  |  (global)
+           10,592  |  (global)
+           15,895  |  (global)
+           54,210  |  (global)
+           10,592  |  (global)
+           15,895  |  (global)
+           54,210  |  (global)
+           10,592  |  (global)
+           15,895  |  (global)
+           54,210  |  (global)
+           10,592  |  (global)
+           15,895  |  (global)
+           54,210  |  (global)
+           10,592  |  (global)
+           15,895  |  (global)
+           54,210  |  (global)
+           10,592  |  (global)
+           15,895  |  (global)
+           54,210  |  (global)
+           10,592  |  (global)
+           15,895  |  (global)
+           54,210  |  (global)
+           10,081  |  (global)
+           15,895  |  (global)
+           54,210  |  (global)
+           10,081  |  (global)
+           15,895  |  (global)
+           54,210  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.lsa-id  (gauge, 30)
+  ----------------------------------------------------------------------
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.lsa-length  (gauge, 30)
+  ----------------------------------------------------------------------
+               60  |  (global)
+               60  |  (global)
+               32  |  (global)
+               60  |  (global)
+               60  |  (global)
+               32  |  (global)
+               60  |  (global)
+               60  |  (global)
+               32  |  (global)
+               60  |  (global)
+               60  |  (global)
+               32  |  (global)
+               60  |  (global)
+               60  |  (global)
+               32  |  (global)
+               60  |  (global)
+               60  |  (global)
+               32  |  (global)
+               60  |  (global)
+               60  |  (global)
+               32  |  (global)
+               60  |  (global)
+               60  |  (global)
+               32  |  (global)
+               60  |  (global)
+               60  |  (global)
+               32  |  (global)
+               60  |  (global)
+               60  |  (global)
+               32  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.lsa-options_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+                1  |  value=ospfv2-lsa-flag-options-e ospfv2-lsa-flag-options-dc
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.lsa-seq-number  (gauge, 30)
+  ----------------------------------------------------------------------
+    2,147,483,715  |  (global)
+    2,147,483,714  |  (global)
+    2,147,483,710  |  (global)
+    2,147,483,715  |  (global)
+    2,147,483,714  |  (global)
+    2,147,483,710  |  (global)
+    2,147,483,715  |  (global)
+    2,147,483,714  |  (global)
+    2,147,483,710  |  (global)
+    2,147,483,715  |  (global)
+    2,147,483,714  |  (global)
+    2,147,483,710  |  (global)
+    2,147,483,715  |  (global)
+    2,147,483,714  |  (global)
+    2,147,483,710  |  (global)
+    2,147,483,715  |  (global)
+    2,147,483,714  |  (global)
+    2,147,483,710  |  (global)
+    2,147,483,715  |  (global)
+    2,147,483,714  |  (global)
+    2,147,483,710  |  (global)
+    2,147,483,715  |  (global)
+    2,147,483,714  |  (global)
+    2,147,483,710  |  (global)
+    2,147,483,716  |  (global)
+    2,147,483,714  |  (global)
+    2,147,483,710  |  (global)
+    2,147,483,716  |  (global)
+    2,147,483,714  |  (global)
+    2,147,483,710  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.lsa-type  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                1  |  (global)
+                2  |  (global)
+                1  |  (global)
+                1  |  (global)
+                2  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.network-lsa.network-attached-routers  (gauge, 20)
+  ----------------------------------------------------------------------
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.network-lsa.network-lsa-mask  (gauge, 10)
+  ----------------------------------------------------------------------
+    4,294,967,040  |  (global)
+    4,294,967,040  |  (global)
+    4,294,967,040  |  (global)
+    4,294,967,040  |  (global)
+    4,294,967,040  |  (global)
+    4,294,967,040  |  (global)
+    4,294,967,040  |  (global)
+    4,294,967,040  |  (global)
+    4,294,967,040  |  (global)
+    4,294,967,040  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.ospfv2-router-lsa-links.link-data  (gauge, 60)
+  ----------------------------------------------------------------------
+    4,294,967,295  |  (global)
+      167,837,957  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,838,007  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,837,957  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,838,007  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,837,957  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,838,007  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,837,957  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,838,007  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,837,957  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,838,007  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,837,957  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,838,007  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,837,957  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,838,007  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,837,957  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,838,007  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,837,957  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,838,007  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,837,957  |  (global)
+    4,294,967,292  |  (global)
+    4,294,967,295  |  (global)
+      167,838,007  |  (global)
+    4,294,967,292  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.ospfv2-router-lsa-links.link-id  (gauge, 60)
+  ----------------------------------------------------------------------
+      184,483,841  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,841  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,841  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,841  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,841  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,841  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,841  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,841  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,841  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,841  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+      184,483,842  |  (global)
+      167,838,007  |  (global)
+      180,879,360  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.ospfv2-router-lsa-links.link-type  (gauge, 60)
+  ----------------------------------------------------------------------
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+                3  |  (global)
+                2  |  (global)
+                3  |  (global)
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.router-lsa.router-lsa-bits_info  (gauge, 20)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.ospfv2-instance.ospfv2-area.ospfv2-lsdb-area.router-lsa.router-lsa-number-links  (gauge, 20)
+  ----------------------------------------------------------------------
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+                3  |  (global)
+
+  cisco.content.ospfv2-instance.router-id  (gauge, 10)
+  ----------------------------------------------------------------------
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+      184,483,841  |  (global)
+      184,483,842  |  (global)
+
+  cisco.content.ospfv2-instance.vrf-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=

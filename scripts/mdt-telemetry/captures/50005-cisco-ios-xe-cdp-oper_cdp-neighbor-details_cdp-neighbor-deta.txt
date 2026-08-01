@@ -1,0 +1,290 @@
+==========================================================================================
+  Sub 50005: Subscription 50005
+  Folder: 50005-cisco-ios-xe-cdp-oper_cdp-neighbor-details_cdp-neighbor-deta
+  155 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.adv-version_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=cdp-advertised-v2
+                1  |  device-id=2041, value=cdp-advertised-v2
+                1  |  device-id=4082, value=cdp-advertised-v2
+                1  |  device-id=6124, value=cdp-advertised-v2
+
+  cisco.content.capability_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=Switch IGMP 
+                1  |  device-id=2041, value=Switch IGMP 
+                1  |  device-id=4082, value=Router Switch IGMP 
+                1  |  device-id=6124, value=Router Trans-Bridge 
+
+  cisco.content.clns-address_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=
+                1  |  device-id=2041, value=
+                1  |  device-id=4082, value=
+                1  |  device-id=6124, value=
+
+  cisco.content.decnet-addr_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=
+                1  |  device-id=2041, value=
+                1  |  device-id=4082, value=
+                1  |  device-id=6124, value=
+
+  cisco.content.device-name_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=XE-LAB-TOR3
+                1  |  device-id=2041, value=FVH2812L1E7-TOR2
+                1  |  device-id=4082, value=ISR4331
+                1  |  device-id=6124, value=AP0C75.BDB1.DB88
+
+  cisco.content.duplex_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=cdp-full-duplex
+                1  |  device-id=2041, value=cdp-full-duplex
+                1  |  device-id=4082, value=cdp-full-duplex
+                1  |  device-id=6124, value=cdp-full-duplex
+
+  cisco.content.hello-message.oui_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=0x00000C
+                1  |  device-id=2041, value=
+                1  |  device-id=4082, value=
+                1  |  device-id=6124, value=
+
+  cisco.content.hello-message.payload-len  (gauge, 4)
+  ----------------------------------------------------------------------
+               27  |  device-id=8165
+                0  |  device-id=2041
+                0  |  device-id=4082
+                0  |  device-id=6124
+
+  cisco.content.hello-message.payload-value_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=00000000FFFFFFFF010221FF000000000000FCFBFBE1C800FF0000
+                1  |  device-id=2041, value=
+                1  |  device-id=4082, value=
+                1  |  device-id=6124, value=
+
+  cisco.content.hello-message.protocol-id_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=0x0112
+                1  |  device-id=2041, value=
+                1  |  device-id=4082, value=
+                1  |  device-id=6124, value=
+
+  cisco.content.ip-address_info  (gauge, 3)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=10.128.128.5
+                1  |  device-id=2041, value=10.128.128.4
+                1  |  device-id=6124, value=10.1.1.155
+
+  cisco.content.ipv6-address_info  (gauge, 1)
+  ----------------------------------------------------------------------
+                1  |  device-id=6124, value=fe80::e75:bdff:feb1:db88
+
+  cisco.content.local-intf-name_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=TenGigabitEthernet1/0/48
+                1  |  device-id=2041, value=GigabitEthernet1/0/24
+                1  |  device-id=4082, value=GigabitEthernet1/0/11
+                1  |  device-id=6124, value=GigabitEthernet1/0/13
+
+  cisco.content.mgmt-address_info  (gauge, 3)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=10.128.128.5
+                1  |  device-id=2041, value=10.128.128.4
+                1  |  device-id=6124, value=10.1.1.155
+
+  cisco.content.native-vlan  (gauge, 4)
+  ----------------------------------------------------------------------
+               30  |  device-id=8165
+               30  |  device-id=2041
+                0  |  device-id=4082
+                0  |  device-id=6124
+
+  cisco.content.neighbor-identifier_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=
+                1  |  device-id=2041, value=PID:C9300X-48HX,VID:C1,SN:FVH2812L1E7
+                1  |  device-id=4082, value=
+                1  |  device-id=6124, value=PID:C9130AXI-B,VID:V01,SN:FJC240110FN
+
+  cisco.content.neighbor-port-mac_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=fc:fb:fb:e1:c8:0d
+                1  |  device-id=2041, value=8c:44:a5:22:5a:8a
+                1  |  device-id=4082, value=70:18:a7:e6:d6:50
+                1  |  device-id=6124, value=0c:75:bd:b1:db:88
+
+  cisco.content.novell-addr_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=
+                1  |  device-id=2041, value=
+                1  |  device-id=4082, value=
+                1  |  device-id=6124, value=
+
+  cisco.content.platform-name_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=cisco WS-C3750G-48TS
+                1  |  device-id=2041, value=cisco C9300X-48HX
+                1  |  device-id=4082, value=cisco ISR4331/K9
+                1  |  device-id=6124, value=cisco C9130AXI-B
+
+  cisco.content.port-id_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=GigabitEthernet1/0/13
+                1  |  device-id=2041, value=TenGigabitEthernet1/0/10
+                1  |  device-id=4082, value=GigabitEthernet0/0/0
+                1  |  device-id=6124, value=GigabitEthernet0
+
+  cisco.content.power  (gauge, 4)
+  ----------------------------------------------------------------------
+                0  |  device-id=8165
+                0  |  device-id=2041
+                0  |  device-id=4082
+           30,000  |  device-id=6124
+
+  cisco.content.power-available.power-available  (gauge, 4)
+  ----------------------------------------------------------------------
+                0  |  device-id=8165
+                0  |  device-id=2041
+                0  |  device-id=4082
+                0  |  device-id=6124
+
+  cisco.content.power-available.power-man-id  (gauge, 4)
+  ----------------------------------------------------------------------
+                0  |  device-id=8165
+                0  |  device-id=2041
+                0  |  device-id=4082
+                0  |  device-id=6124
+
+  cisco.content.power-available.power-man-level  (gauge, 4)
+  ----------------------------------------------------------------------
+                0  |  device-id=8165
+                0  |  device-id=2041
+                0  |  device-id=4082
+                0  |  device-id=6124
+
+  cisco.content.power-available.power-request-id  (gauge, 4)
+  ----------------------------------------------------------------------
+                0  |  device-id=8165
+                0  |  device-id=2041
+                0  |  device-id=4082
+                0  |  device-id=6124
+
+  cisco.content.power-request.power-man-id  (gauge, 4)
+  ----------------------------------------------------------------------
+                0  |  device-id=8165
+                0  |  device-id=2041
+                0  |  device-id=4082
+                8  |  device-id=6124
+
+  cisco.content.power-request.power-request-id  (gauge, 4)
+  ----------------------------------------------------------------------
+                0  |  device-id=8165
+                0  |  device-id=2041
+                0  |  device-id=4082
+           44,237  |  device-id=6124
+
+  cisco.content.power-request.power-request-level_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=0 0 0 0 0
+                1  |  device-id=2041, value=0 0 0 0 0
+                1  |  device-id=4082, value=0 0 0 0 0
+                1  |  device-id=6124, value=30000 15400 0 0 0
+
+  cisco.content.second-port-status_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=
+                1  |  device-id=2041, value=
+                1  |  device-id=4082, value=
+                1  |  device-id=6124, value=
+
+  cisco.content.spare-pair.spare-pair-detection-required_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=cdp-no
+                1  |  device-id=2041, value=cdp-no
+                1  |  device-id=4082, value=cdp-no
+                1  |  device-id=6124, value=cdp-no
+
+  cisco.content.spare-pair.spare-pair-pd-config_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=cdp-disable
+                1  |  device-id=2041, value=cdp-disable
+                1  |  device-id=4082, value=cdp-disable
+                1  |  device-id=6124, value=cdp-disable
+
+  cisco.content.spare-pair.spare-pair-poe_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=cdp-no
+                1  |  device-id=2041, value=cdp-no
+                1  |  device-id=4082, value=cdp-no
+                1  |  device-id=6124, value=cdp-no
+
+  cisco.content.spare-pair.spare-pair-pse-operational_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=cdp-no
+                1  |  device-id=2041, value=cdp-no
+                1  |  device-id=4082, value=cdp-no
+                1  |  device-id=6124, value=cdp-no
+
+  cisco.content.table-id  (gauge, 4)
+  ----------------------------------------------------------------------
+                0  |  device-id=8165
+                0  |  device-id=2041
+                0  |  device-id=4082
+                0  |  device-id=6124
+
+  cisco.content.unidirectional-mode_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=cdp-uni-mode-off
+                1  |  device-id=2041, value=cdp-uni-mode-off
+                1  |  device-id=4082, value=cdp-uni-mode-off
+                1  |  device-id=6124, value=cdp-uni-mode-off
+
+  cisco.content.version_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=Cisco IOS Software, C3750 Software (C3750-IPBASE-M), Version 12.2(25)SEB1, RELEASE SOFTWARE (fc1)
+Copyright (c) 1986-2005 by Cisco Systems, Inc.
+Compiled Fri 29-Apr-05 23:58 by yenanh
+                1  |  device-id=2041, value=Cisco IOS Software [IOSXE], Catalyst L3 Switch Software (CAT9K_IOSXE), Version 17.15.1, RELEASE SOFTWARE (fc4)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2024 by Cisco Systems, Inc.
+Compiled Sun 11-Aug-24 22:16 by mcpre
+                1  |  device-id=4082, value=Cisco IOS Software [Amsterdam], ISR Software (X86_64_LINUX_IOSD-UNIVERSALK9-M), Version 17.2.1r, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2020 by Cisco Systems, Inc.
+Compiled Thu 09-Apr-20 23:27 by mcpre
+                1  |  device-id=6124, value=Cisco AP Software, ap1g6a-k9w8 Version: 17.3.3.26
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 2014-2015 by Cisco Systems, Inc.
+
+  cisco.content.vty-mgmt-domain_info  (gauge, 4)
+  ----------------------------------------------------------------------
+                1  |  device-id=8165, value=
+                1  |  device-id=2041, value=
+                1  |  device-id=4082, value=
+                1  |  device-id=6124, value=
+
+  cisco.content.vvid  (gauge, 4)
+  ----------------------------------------------------------------------
+                0  |  device-id=8165
+                0  |  device-id=2041
+                0  |  device-id=4082
+                0  |  device-id=6124
+
+  cisco.content.vvid-tag  (gauge, 4)
+  ----------------------------------------------------------------------
+                0  |  device-id=8165
+                0  |  device-id=2041
+                0  |  device-id=4082
+                0  |  device-id=6124
+
+  cisco.keys.device-id  (gauge, 4)
+  ----------------------------------------------------------------------
+            8,165  |  device-id=8165
+            2,041  |  device-id=2041
+            4,082  |  device-id=4082
+            6,124  |  device-id=6124

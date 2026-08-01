@@ -1,0 +1,1605 @@
+==========================================================================================
+  Sub 60002: Subscription 60002
+  Folder: 60002-cisco-ios-xe-platform-software-oper_cisco-platform-software_
+  1480 data points from 10 telemetry messages
+==========================================================================================
+
+  cisco.content.chassis-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+
+  cisco.content.control-process-status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=online
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=online
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=online
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=online
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=online
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=online
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=online
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=online
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=online
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=online
+
+  cisco.content.high-availability-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=ha-role-active
+
+  cisco.content.load-average-stats.load-average-status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+
+  cisco.content.load-avg-minutes.load-avg-minute.average  (gauge, 30)
+  ----------------------------------------------------------------------
+             0.92  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.85  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.65  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.57  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.66  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.54  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.84  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.88  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.68  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.29  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.57  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.52  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.51  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.78  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.65  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.29  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.52  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.51  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.36  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.63  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.50  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.55  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.52  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.37  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.64  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.62  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.38  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.49  |  bay=0, chassis=1, fru=fru-rp, slot=0
+             0.50  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.load-avg-minutes.load-avg-minute.number  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               15  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               15  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               15  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               15  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               15  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               15  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               15  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               15  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               15  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               15  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.load-avg-minutes.load-avg-minute.status.condition_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+
+  cisco.content.load-avg-minutes.load-avg-minute.status.threshold-status_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=under
+
+  cisco.content.load-avg-minutes.load-avg-minute.status.threshold-value  (gauge, 30)
+  ----------------------------------------------------------------------
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.memory-stats.available-number  (gauge, 10)
+  ----------------------------------------------------------------------
+       11,646,036  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        3,527,060  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       11,642,396  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        3,525,684  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       11,644,616  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        3,524,460  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       11,640,688  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        3,520,988  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       11,638,136  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        3,519,640  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.memory-stats.available-percent  (gauge, 10)
+  ----------------------------------------------------------------------
+               73  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               46  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               73  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               46  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               73  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               46  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               73  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               46  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               73  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               46  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.memory-stats.committed-number  (gauge, 10)
+  ----------------------------------------------------------------------
+        6,381,576  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        6,248,152  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        6,382,956  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        6,247,376  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        6,382,836  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        6,248,200  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        6,383,496  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        6,249,116  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        6,384,068  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        6,249,940  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.memory-stats.committed-percent  (gauge, 10)
+  ----------------------------------------------------------------------
+               40  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               81  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               40  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               81  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               40  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               81  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               40  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               81  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               40  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               81  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.memory-stats.free-number  (gauge, 10)
+  ----------------------------------------------------------------------
+       11,646,036  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        3,527,060  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       11,642,396  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        3,525,684  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       11,644,616  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        3,524,460  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       11,640,688  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        3,520,988  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       11,638,136  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        3,519,640  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.memory-stats.free-percent  (gauge, 10)
+  ----------------------------------------------------------------------
+               73  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               46  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               73  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               46  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               73  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               46  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               73  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               46  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               73  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               46  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.memory-stats.memory-status_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=Healthy
+
+  cisco.content.memory-stats.status.critical-threshold-percent  (gauge, 10)
+  ----------------------------------------------------------------------
+               90  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               90  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               90  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               90  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               90  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               90  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               90  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               90  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               90  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               90  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.memory-stats.status.warning-threshold-percent  (gauge, 10)
+  ----------------------------------------------------------------------
+               85  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               85  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               85  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               85  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               85  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               85  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               85  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               85  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               85  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               85  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.memory-stats.total  (gauge, 10)
+  ----------------------------------------------------------------------
+       15,923,556  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        7,678,308  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       15,923,556  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        7,678,308  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       15,923,556  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        7,678,308  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       15,923,556  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        7,678,308  |  bay=0, chassis=1, fru=fru-rp, slot=0
+       15,923,556  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        7,678,308  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.memory-stats.used-number  (gauge, 10)
+  ----------------------------------------------------------------------
+        4,277,520  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        4,151,248  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        4,281,160  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        4,152,624  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        4,278,940  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        4,153,848  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        4,282,868  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        4,157,320  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        4,285,420  |  bay=0, chassis=1, fru=fru-rp, slot=0
+        4,158,668  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.memory-stats.used-percent  (gauge, 10)
+  ----------------------------------------------------------------------
+               27  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               54  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               27  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               54  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               27  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               54  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               27  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               54  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               27  |  bay=0, chassis=1, fru=fru-rp, slot=0
+               54  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.content.per-core-stats.per-core-stat.cpu-average  (gauge, 80)
+  ----------------------------------------------------------------------
+             8.90  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             5.07  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             3.90  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             7.19  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             6.54  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             5.67  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             6.11  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             3.96  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             6.10  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             5.43  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             5.10  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             5.31  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             5.98  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             4.97  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             6.84  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             5.20  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             8.60  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             4.40  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             4.53  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             6.44  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             5.98  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             5.46  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             4.16  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             4.16  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             5.77  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             5.23  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             4.98  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             5.15  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             5.84  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             4.76  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             6.39  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             5.13  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             8.80  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             4.07  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             5.03  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             5.11  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             5.73  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             5.34  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             4.06  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             4.15  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             5.64  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             4.93  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             4.76  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             4.94  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             5.48  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             4.57  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             5.76  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             4.64  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            10.20  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             3.70  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             5.10  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             5.08  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             4.84  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             5.33  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             4.03  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             4.08  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             5.01  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             4.48  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             4.47  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             4.53  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             4.83  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             4.37  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             5.43  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             4.16  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            10.20  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             3.70  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             5.10  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             5.08  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             4.84  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             5.33  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             4.03  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             4.08  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             5.01  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             4.48  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             4.47  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             4.53  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             4.83  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             4.37  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             5.43  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             4.16  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+
+  cisco.content.per-core-stats.per-core-stat.cpu-interval  (gauge, 80)
+  ----------------------------------------------------------------------
+                5  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+
+  cisco.content.per-core-stats.per-core-stat.cpu-max  (gauge, 80)
+  ----------------------------------------------------------------------
+            22.20  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            13.98  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            13.70  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+            23.87  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            14.80  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            14.30  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+               16  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            14.10  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             8.59  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             8.30  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             8.20  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             9.20  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             9.30  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             8.60  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            10.60  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             7.70  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            22.20  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            13.98  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            13.70  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+            23.87  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            14.80  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            14.30  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+               16  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            14.10  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             8.59  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             8.30  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             8.20  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             9.20  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             9.30  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             8.60  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            10.60  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             7.70  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            22.20  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            13.98  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            13.70  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+            23.87  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            14.80  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            14.30  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+               16  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            14.10  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             8.59  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             8.30  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             8.20  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             9.20  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             9.30  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             8.60  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            10.60  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             7.70  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            22.20  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            13.98  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            13.70  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+            23.87  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            14.80  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            14.30  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+               16  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            14.10  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             8.59  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             8.30  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             8.20  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             9.20  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             9.30  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             8.60  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            10.60  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             7.70  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            22.20  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            13.98  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            13.70  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+            23.87  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            14.80  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            14.30  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+               16  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            14.10  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             8.59  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             8.30  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             8.20  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             9.20  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             9.30  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             8.60  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            10.60  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             7.70  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+
+  cisco.content.per-core-stats.per-core-stat.cpu-min  (gauge, 80)
+  ----------------------------------------------------------------------
+             1.40  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.40  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             1.49  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             1.10  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             1.09  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.80  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             2.30  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             2.29  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             1.70  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             2.10  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             1.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             2.09  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             1.40  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.30  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             1.49  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             1.09  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             1.09  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.80  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             2.30  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             2.29  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             1.70  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             2.10  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             1.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             2.09  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             1.40  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.30  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             1.20  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             1.09  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             1.09  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.29  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             2.30  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             1.50  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             1.70  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             2.10  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             1.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             1.30  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             2.20  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.30  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             1.49  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             1.20  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             1.09  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.29  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             2.20  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             1.50  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             1.70  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             2.10  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             1.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             1.30  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             2.20  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.30  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             1.49  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             1.20  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             1.09  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.29  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             2.20  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             1.50  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             1.70  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             2.10  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             1.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             1.30  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+
+  cisco.content.per-core-stats.per-core-stat.end-time_info  (gauge, 80)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:48:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:48:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:48:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:48:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:48:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:48:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:48:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:48:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:48:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:48:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:48:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:48:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:48:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:48:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:48:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:48:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:49:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:49:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:49:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:49:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:49:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:49:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:49:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:49:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:49:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:49:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:49:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:49:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:49:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:49:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:49:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:49:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:50:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:50:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:50:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:50:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:50:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:50:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:50:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:50:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:50:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:50:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:50:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:50:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:50:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:50:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:50:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:50:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:51:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:51:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:51:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:51:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:51:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:51:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:51:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:51:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:51:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:51:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:51:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:51:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:51:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:51:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:51:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:51:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:52:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:52:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:52:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:52:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:52:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:52:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:52:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:52:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:52:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:52:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:52:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:52:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:52:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:52:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:52:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:52:24+00:00
+
+  cisco.content.per-core-stats.per-core-stat.idle  (gauge, 80)
+  ----------------------------------------------------------------------
+               99  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+               96  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            98.70  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+            98.20  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            98.50  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            98.50  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            97.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+               88  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            96.80  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            97.20  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            96.10  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+            97.30  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            96.20  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            97.20  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            96.21  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            96.10  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            98.10  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            98.70  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            87.81  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+               96  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            98.10  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            97.70  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            98.80  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            99.10  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            97.40  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            98.20  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            96.70  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+            95.80  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            98.30  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+               97  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            97.50  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            97.29  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            94.71  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            97.90  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            94.80  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+            98.50  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+               93  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            97.60  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            98.50  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            98.80  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            96.90  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            98.70  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            97.70  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+            98.50  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            97.50  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            97.40  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            97.30  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            98.70  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            88.80  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            97.50  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            98.50  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+            98.70  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            95.50  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            98.60  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            99.10  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+               99  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            97.10  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            97.90  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            97.80  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+            97.50  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            97.50  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            95.60  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            97.10  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            97.60  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            96.90  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            97.60  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+               98  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+               98  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            88.10  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            95.80  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            96.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            97.40  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            97.80  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+            96.79  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            98.40  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+            97.40  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            98.40  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+            98.50  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+            97.20  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            96.50  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+
+  cisco.content.per-core-stats.per-core-stat.io-wait  (gauge, 80)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+
+  cisco.content.per-core-stats.per-core-stat.irq  (gauge, 80)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+
+  cisco.content.per-core-stats.per-core-stat.name  (gauge, 80)
+  ----------------------------------------------------------------------
+                7  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                7  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                7  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                7  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                7  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                7  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                7  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                7  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                7  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                7  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                6  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                5  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                4  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+
+  cisco.content.per-core-stats.per-core-stat.nice  (gauge, 80)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+
+  cisco.content.per-core-stats.per-core-stat.sirq  (gauge, 80)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.10  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+
+  cisco.content.per-core-stats.per-core-stat.start-time_info  (gauge, 80)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:43:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:43:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:43:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:43:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:43:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:43:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:43:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:43:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:43:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:43:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:43:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:43:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:43:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:43:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:43:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:43:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:44:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:44:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:44:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:44:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:44:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:44:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:44:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:44:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:44:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:44:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:44:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:44:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:44:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:44:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:44:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:44:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:45:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:45:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:45:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:45:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:45:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:45:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:45:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:45:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:45:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:45:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:45:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:45:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:45:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:45:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:45:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:45:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:46:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:46:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:46:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:46:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:46:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:46:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:46:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:46:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:46:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:46:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:46:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:46:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:46:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:46:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:46:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:46:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:47:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:47:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:47:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:47:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:47:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:47:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:47:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:47:51+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0, value=2026-04-20T19:47:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0, value=2026-04-20T19:47:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0, value=2026-04-20T19:47:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0, value=2026-04-20T19:47:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0, value=2026-04-20T19:47:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0, value=2026-04-20T19:47:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0, value=2026-04-20T19:47:24+00:00
+                1  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0, value=2026-04-20T19:47:24+00:00
+
+  cisco.content.per-core-stats.per-core-stat.system  (gauge, 80)
+  ----------------------------------------------------------------------
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             0.50  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.50  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.20  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             1.60  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.40  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             1.30  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             1.30  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             1.30  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             1.20  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             1.40  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             1.50  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             0.30  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.80  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.40  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.30  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             0.80  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             0.80  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             1.20  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.80  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             1.10  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             0.40  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             0.50  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             0.30  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.50  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             0.80  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             0.50  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             0.50  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.80  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.40  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             0.10  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             0.50  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             0.40  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             0.40  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.50  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.20  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             0.80  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             1.40  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             1.20  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             1.10  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             1.40  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             0.50  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             1.30  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+
+  cisco.content.per-core-stats.per-core-stat.user  (gauge, 80)
+  ----------------------------------------------------------------------
+             0.40  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             3.30  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             1.20  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             1.50  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+            11.80  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             1.60  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.40  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             2.60  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             1.40  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             2.50  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             1.60  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             2.40  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             2.40  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             1.30  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+            11.89  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             3.30  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             1.20  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             1.50  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.80  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.60  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             1.80  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             2.40  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             2.10  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             1.70  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             1.60  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             4.90  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.60  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             4.90  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             6.30  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             1.40  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             2.30  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             1.70  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             1.90  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             1.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+            11.10  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             1.10  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             3.90  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.80  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             0.40  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             0.70  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.20  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             1.30  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+             1.70  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+             1.60  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+                3  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             2.20  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             1.70  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             1.90  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             1.50  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+            11.20  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             3.50  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             2.20  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             1.20  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+             1.50  |  bay=0, chassis=1, fru=fru-rp, name=7, slot=0
+             2.51  |  bay=0, chassis=1, fru=fru-rp, name=6, slot=0
+             1.10  |  bay=0, chassis=1, fru=fru-rp, name=5, slot=0
+                2  |  bay=0, chassis=1, fru=fru-rp, name=4, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, name=3, slot=0
+             0.90  |  bay=0, chassis=1, fru=fru-rp, name=2, slot=0
+             1.90  |  bay=0, chassis=1, fru=fru-rp, name=1, slot=0
+             2.20  |  bay=0, chassis=1, fru=fru-rp, name=0, slot=0
+
+  cisco.content.updated  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.keys.bay  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.keys.chassis  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0
+
+  cisco.keys.fru_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fru-rp
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fru-rp
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fru-rp
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fru-rp
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fru-rp
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fru-rp
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fru-rp
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fru-rp
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fru-rp
+                1  |  bay=0, chassis=1, fru=fru-rp, slot=0, value=fru-rp
+
+  cisco.keys.slot  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0
+                0  |  bay=0, chassis=1, fru=fru-rp, slot=0

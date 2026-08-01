@@ -1,0 +1,430 @@
+==========================================================================================
+  Sub 60018: Subscription 60018
+  Folder: 60018-cisco-ios-xe-isis-intf-oper_isis-intf-oper-data_isis-if-tag-
+  350 data points from 10 telemetry messages
+==========================================================================================
+
+  cisco.content.isis-if-nbr.adj-state_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=adj-up
+                1  |  value=adj-up
+                1  |  value=adj-up
+                1  |  value=adj-up
+                1  |  value=adj-up
+                1  |  value=adj-up
+                1  |  value=adj-up
+                1  |  value=adj-up
+                1  |  value=adj-up
+                1  |  value=adj-up
+
+  cisco.content.isis-if-nbr.adj-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+
+  cisco.content.isis-if-nbr.area-addr_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=49:00:01
+                1  |  value=49:00:01
+                1  |  value=49:00:01
+                1  |  value=49:00:01
+                1  |  value=49:00:01
+                1  |  value=49:00:01
+                1  |  value=49:00:01
+                1  |  value=49:00:01
+                1  |  value=49:00:01
+                1  |  value=49:00:01
+
+  cisco.content.isis-if-nbr.dis-system-id_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+                1  |  value=
+
+  cisco.content.isis-if-nbr.if-name_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+                1  |  value=Vlan30
+
+  cisco.content.isis-if-nbr.level_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=level-2
+                1  |  value=level-2
+                1  |  value=level-2
+                1  |  value=level-2
+                1  |  value=level-2
+                1  |  value=level-2
+                1  |  value=level-2
+                1  |  value=level-2
+                1  |  value=level-2
+                1  |  value=level-2
+
+  cisco.content.isis-if-nbr.local-ext-ckt-id  (gauge, 10)
+  ----------------------------------------------------------------------
+               92  |  (global)
+               55  |  (global)
+               92  |  (global)
+               55  |  (global)
+               92  |  (global)
+               55  |  (global)
+               92  |  (global)
+               55  |  (global)
+               92  |  (global)
+               55  |  (global)
+
+  cisco.content.isis-if-nbr.multi-topo  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.isis-if-nbr.nbr-ckt-type_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+                1  |  value=ckt-level-2
+
+  cisco.content.isis-if-nbr.nbr-ext-ckt-id  (gauge, 10)
+  ----------------------------------------------------------------------
+               55  |  (global)
+               92  |  (global)
+               55  |  (global)
+               92  |  (global)
+               55  |  (global)
+               92  |  (global)
+               55  |  (global)
+               92  |  (global)
+               55  |  (global)
+               92  |  (global)
+
+  cisco.content.isis-if-nbr.nbr-ipv4-addr_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+                1  |  value=10.1.1.55
+                1  |  value=10.1.1.5
+
+  cisco.content.isis-if-nbr.nbr-ipv6-addr_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=::
+                1  |  value=::
+                1  |  value=::
+                1  |  value=::
+                1  |  value=::
+                1  |  value=::
+                1  |  value=::
+                1  |  value=::
+                1  |  value=::
+                1  |  value=::
+
+  cisco.content.isis-if-nbr.nbr-snpa_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=70:35:09:57:98:e5
+                1  |  value=6c:03:b5:57:74:65
+                1  |  value=70:35:09:57:98:e5
+                1  |  value=6c:03:b5:57:74:65
+                1  |  value=70:35:09:57:98:e5
+                1  |  value=6c:03:b5:57:74:65
+                1  |  value=70:35:09:57:98:e5
+                1  |  value=6c:03:b5:57:74:65
+                1  |  value=70:35:09:57:98:e5
+                1  |  value=6c:03:b5:57:74:65
+
+  cisco.content.isis-if-nbr.nlpid  (gauge, 10)
+  ----------------------------------------------------------------------
+              204  |  (global)
+              204  |  (global)
+              204  |  (global)
+              204  |  (global)
+              204  |  (global)
+              204  |  (global)
+              204  |  (global)
+              204  |  (global)
+              204  |  (global)
+              204  |  (global)
+
+  cisco.content.isis-if-nbr.pri  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.isis-if-nbr.restart-status  (gauge, 10)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.isis-if-nbr.restart-support  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.isis-if-nbr.system-id_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=00:00:00:00:00:02
+                1  |  value=00:00:00:00:00:01
+                1  |  value=00:00:00:00:00:02
+                1  |  value=00:00:00:00:00:01
+                1  |  value=00:00:00:00:00:02
+                1  |  value=00:00:00:00:00:01
+                1  |  value=00:00:00:00:00:02
+                1  |  value=00:00:00:00:00:01
+                1  |  value=00:00:00:00:00:02
+                1  |  value=00:00:00:00:00:01
+
+  cisco.content.isis-if-nbr.up-time_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=2026-04-19T09:11:33.962000+00:00
+                1  |  value=2026-04-19T09:11:02.919000+00:00
+                1  |  value=2026-04-19T09:11:33.962000+00:00
+                1  |  value=2026-04-19T09:11:02.919000+00:00
+                1  |  value=2026-04-19T09:11:33.962000+00:00
+                1  |  value=2026-04-19T09:11:02.919000+00:00
+                1  |  value=2026-04-19T09:11:33.962000+00:00
+                1  |  value=2026-04-19T09:11:02.919000+00:00
+                1  |  value=2026-04-19T09:11:33.962000+00:00
+                1  |  value=2026-04-19T09:11:02.919000+00:00
+
+  cisco.content.isis-if.circuit-type_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  value=ckt-p2p
+                1  |  value=ckt-p2p
+                1  |  value=ckt-bcast
+                1  |  value=ckt-p2p
+                1  |  value=ckt-p2p
+                1  |  value=ckt-bcast
+                1  |  value=ckt-p2p
+                1  |  value=ckt-p2p
+                1  |  value=ckt-bcast
+                1  |  value=ckt-p2p
+                1  |  value=ckt-p2p
+                1  |  value=ckt-bcast
+                1  |  value=ckt-p2p
+                1  |  value=ckt-p2p
+                1  |  value=ckt-bcast
+                1  |  value=ckt-p2p
+                1  |  value=ckt-p2p
+                1  |  value=ckt-bcast
+                1  |  value=ckt-p2p
+                1  |  value=ckt-p2p
+                1  |  value=ckt-bcast
+                1  |  value=ckt-p2p
+                1  |  value=ckt-p2p
+                1  |  value=ckt-bcast
+                1  |  value=ckt-p2p
+                1  |  value=ckt-p2p
+                1  |  value=ckt-bcast
+                1  |  value=ckt-p2p
+                1  |  value=ckt-p2p
+                1  |  value=ckt-bcast
+
+  cisco.content.isis-if.hello-padding_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+                1  |  value=padding-strict
+
+  cisco.content.isis-if.if-name_info  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+                1  |  value=Vlan30
+                1  |  value=Vlan200
+                1  |  value=Loopback0
+
+  cisco.content.isis-if.is-enabled  (gauge, 30)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.isis-if.is-passive  (gauge, 30)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+                0  |  (global)
+
+  cisco.keys.tag_info  (gauge, 10)
+  ----------------------------------------------------------------------
+                1  |  value=LAB
+                1  |  value=LAB
+                1  |  value=LAB
+                1  |  value=LAB
+                1  |  value=LAB
+                1  |  value=LAB
+                1  |  value=LAB
+                1  |  value=LAB
+                1  |  value=LAB
+                1  |  value=LAB

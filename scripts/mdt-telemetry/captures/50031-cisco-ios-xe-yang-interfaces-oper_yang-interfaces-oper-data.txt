@@ -1,0 +1,130 @@
+==========================================================================================
+  Sub 50031: Subscription 50031
+  Folder: 50031-cisco-ios-xe-yang-interfaces-oper_yang-interfaces-oper-data
+  50 data points from 2 telemetry messages
+==========================================================================================
+
+  cisco.content.dmi-state.sync.pend  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dmi-state.sync.pend-fs  (gauge, 2)
+  ----------------------------------------------------------------------
+                0  |  (global)
+                0  |  (global)
+
+  cisco.content.dmi-state.sync.state_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=dmi-state-none
+                1  |  value=dmi-state-none
+
+  cisco.content.dmi-state.sync.trigger_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=dmi-sync-trig-none
+                1  |  value=dmi-sync-trig-none
+
+  cisco.content.local-vrf.state_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=down
+                1  |  value=down
+
+  cisco.content.local-vrf.vrf-name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=vrf-guestshell
+                1  |  value=vrf-guestshell
+
+  cisco.content.ssh-server.ciphers.aes128-cbc  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.ciphers.aes128-ctr  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.ciphers.aes192-ctr  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.ciphers.aes256-cbc  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.ciphers.aes256-ctr  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.hostkey-alg.rsa-sha2-256  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.hostkey-alg.rsa-sha2-512  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.hostkey-alg.ssh-rsa  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.hostkey-name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=NETCONF_SSH_RSA_KEY
+                1  |  value=TP-self-signed-3407147825
+
+  cisco.content.ssh-server.kex-alg.dh-group14-sha1  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.kex-alg.dh-group14-sha256  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.kex-alg.dh-group16-sha512  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.kex-alg.ecdh-sha2-nistp256  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.kex-alg.ecdh-sha2-nistp384  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.kex-alg.ecdh-sha2-nistp521  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.macs.hmac-sha1  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.macs.hmac-sha2-256  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.macs.hmac-sha2-512  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  (global)
+                1  |  (global)
+
+  cisco.content.ssh-server.tp-name_info  (gauge, 2)
+  ----------------------------------------------------------------------
+                1  |  value=
+                1  |  value=TP-self-signed-3407147825
